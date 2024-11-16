@@ -1,0 +1,22 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part III: Interpreting the Findings</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct answer, then click Done. For assistance, click the Lifeline.]]></instructiontext>
+
+		<questiontext><![CDATA[What can you interpret from the following results? ]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[The CMS is showing a false negative or is malfunctioning]]></option>
+			<option><![CDATA[Something is interfering with the pH Paper]]></option>		
+			<option><![CDATA[Both results are inconclusive]]></option>
+			<option><![CDATA[Results indicate that HCl is below detectable limits]]></option>
+		</options>
+
+		<correct_option><![CDATA[4]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

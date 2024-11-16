@@ -1,0 +1,15 @@
+<data>
+	<PagetitleText><![CDATA[<B>Part I:  Determining Strategies and Response Plan</B>]]></PagetitleText>
+	<InstructionQuestionTextL><![CDATA[While the teams head off to conduct their cordon surveying, SSgt Sumrall and SrA O’Neill prepare for their entry into the building. Drag the actions your interior survey team will perform, before and during their entry, to the notebook.]]></InstructionQuestionTextL>
+	<InstructionQuestionTextM><![CDATA[While your cordon surveying team gets started, SSgt Sumrall and SrA O’Neill prepare for their entry into the building. Drag the actions your interior survey team will perform, before and during their entry, to the notebook.]]></InstructionQuestionTextM>
+	<optionRolloverText1><![CDATA[Patch the holes in the roof of the building]]></optionRolloverText1>
+	<optionRolloverText2><![CDATA[Calculate dose rates in the building to determine stay times]]></optionRolloverText2>
+	<optionRolloverText3><![CDATA[Map the extent of contamination]]></optionRolloverText3>
+	<optionRolloverText4><![CDATA[Identify other potential isotope releases]]></optionRolloverText4>
+	<optionRolloverText5><![CDATA[Measure dose rates at different locations in the building]]></optionRolloverText5>
+	<optionRolloverText6><![CDATA[Relocate the biological and chemical waste]]></optionRolloverText6>
+	<rightAns><![CDATA[0,1,1,1,1,0]]></rightAns>
+	<totalDrags><![CDATA[6]]></totalDrags>
+	<totalTargets><![CDATA[1]]></totalTargets>
+	<submitText><![CDATA[<B>Done</B>]]></submitText>
+</data> 

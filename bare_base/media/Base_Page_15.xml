@@ -1,0 +1,19 @@
+<data>
+	<PagetitleText><![CDATA[<B>Part I: Assessing the Situation</B>]]></PagetitleText>	<InstructionQuestionText><![CDATA[Considering the onsite capabilities, which analyses would they conduct on the base water system to provide a preliminary assessment?]]></InstructionQuestionText>
+	<optionRolloverText1><![CDATA[Bacteriological]]></optionRolloverText1>
+	<optionRolloverText2><![CDATA[Free Available<BR>Chlorine]]></optionRolloverText2>
+	<optionRolloverText3><![CDATA[Hardness]]></optionRolloverText3>
+	<optionRolloverText4><![CDATA[Inorganic Salts,<BR>Nitrates, Sulfates]]></optionRolloverText4>
+	<optionRolloverText5><![CDATA[Pesticide<BR>Analysis]]></optionRolloverText5>
+	<optionRolloverText6><![CDATA[pH]]></optionRolloverText6>
+	<optionRolloverText7><![CDATA[TDS and<BR>Conductivity]]></optionRolloverText7>
+	<optionRolloverText8><![CDATA[TOC]]></optionRolloverText8>
+	<optionRolloverText9><![CDATA[TSS and Turbidity]]></optionRolloverText9>
+	<optionRolloverText10><![CDATA[VOCs]]></optionRolloverText10>
+	<Text11><![CDATA[Your NCO team learned that CE plans to utilize water from the host nation water distribution system.]]></Text11>
+	<Text12><![CDATA[The NCO team learned that CE plans to utilize water from the host nation water distribution system.]]></Text12>
+	<rightAns><![CDATA[1,1,0,0,0,1,1,1,1,1]]></rightAns>
+	<totalDrags><![CDATA[10]]></totalDrags>
+	<totalTargets><![CDATA[1]]></totalTargets>
+	<submitText><![CDATA[<B>Done</B>]]></submitText>
+</data> 

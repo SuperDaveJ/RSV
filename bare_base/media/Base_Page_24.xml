@@ -1,0 +1,38 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I: Assessing the Situation</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+
+	<questiontextL><![CDATA[Now that the pallets have been unpacked, you're ready to take a walk around tent city, make observations, and take a few measurements in the area with direct reading instruments.<BR><BR>Select which two pieces of equipment you will take with you to <B>best</B> determine potential risks to personnel.]]></questiontext>
+	<questiontextM><![CDATA[Now that the pallets have been unpacked,  the Team Lead has asked you to help him take a walk around tent city, make observations, and take a few measurements in the area with direct reading instruments.<BR><BR>Select which two pieces of equipment you will take with you to <B>best</B> determine potential risks to personnel.]]></questiontext>
+
+	<text1><![CDATA[451P]]></text1>
+	<text2><![CDATA[ADM-300 with X-ray probe]]></text2>
+	<text3><![CDATA[HACH 2400]]></text3>	
+	<text4><![CDATA[HAPSITE]]></text4>
+	<text5><![CDATA[HazMat ID]]></text5>
+	<text6><![CDATA[SAM 940]]></text6>
+	<text7><![CDATA[TVA-1000B]]></text7>
+	<text8><![CDATA[XRF]]></text8>
+			
+	<options>
+			<option><![CDATA[451P]]></option>
+			<option><![CDATA[ADM-300 with X-ray probe]]></option>
+			<option><![CDATA[HACH 2400]]></option>	
+			<option><![CDATA[HAPSITE]]></option>
+			<option><![CDATA[HazMat ID]]></option>
+			<option><![CDATA[SAM 940]]></option>
+			<option><![CDATA[TVA-1000B]]></option>
+			<option><![CDATA[XRF]]></option>
+		
+	</options>
+
+	<correct_options><![CDATA[1,7]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

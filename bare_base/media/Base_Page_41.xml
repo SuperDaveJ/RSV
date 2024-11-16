@@ -1,0 +1,23 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></PageTitle>
+	
+		<instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontextL><![CDATA[Your NCO team, while finishing their water analysis, was informed that several EMEDS personnel were complaining about the odor from the clinical laboratory activities that are being performed using Formalin.<br><BR>Which instrument should they select to <B>best</B> identify and quantify this potential hazard? ]]></questiontext>
+		<questiontextM><![CDATA[The NCO team, while finishing their water analysis, was informed that several EMEDS personnel were complaining about the odor from the clinical laboratory activities that are being performed using Formalin.<br><BR>Which instrument should they select to <B>best</B> identify and quantify this potential hazard? ]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[HAPSITE]]></option>
+			<option><![CDATA[TVA-1000B]]></option>		
+			<option><![CDATA[Drager chips or tubes]]></option>
+			<option><![CDATA[HazMatID]]></option>
+		</options>
+
+		<correct_option><![CDATA[2]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

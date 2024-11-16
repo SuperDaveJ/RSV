@@ -1,0 +1,24 @@
+﻿<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[Which of these steps is NOT necessary when obtaining and providing the bottle water?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Confirm that the vendor is VETCOM-approved]]></option>
+			<option><![CDATA[Collect samples upon arrival for bacteriological analysis]]></option>		
+			<option><![CDATA[Send a composite sample to CHPPM]]></option>
+			<option><![CDATA[Inspect the bottles upon arrival]]></option>
+			
+			
+		</options>
+
+		<correct_option><![CDATA[3]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

@@ -1,0 +1,25 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct answer, then click Done.]]></instructiontext>
+
+	<questiontextL><![CDATA[Your NCOs recommended to the CE Commander that bottled water should be used for drinking and disinfected water from the distribution system should be used for showering.<br><br>Based upon the amount of source water, ROWPU efficiency, and gallons per day planning factor, which of the following conclusions was <B>most</B> influential in the team's recommendation to the Commander?]]></questiontext>
+	<questiontextM><![CDATA[The NCOs recommended to the CE Commander that bottled water should be used for drinking and disinfected water from the distribution system should be used for showering.<br><br>Based upon the amount of source water, ROWPU efficiency, and gallons per day planning factor, which of the following conclusions was <B>most</B> influential in the team's recommendation to the Commander?]]></questiontext>
+			
+	<options>
+			<option><![CDATA[Bottled water supply is safer and more <BR>reliable]]></option>
+			<option><![CDATA[Bottled water is more palatable for <BR>consumption]]></option>
+			<option><![CDATA[Not enough source water is provided to <BR>meet the requirements for a 24-hour period]]></option>	
+			<option><![CDATA[ROWPU production levels are unable to <BR>provide enough water in a 24-hour period]]></option>
+			<option><![CDATA[ROWPU efficiency rates will not produce <BR>the needed amount of water in a 24-hour <BR>period, given the amount of source water <BR>supplied]]></option>
+	</options>
+
+	<correct_options><![CDATA[5]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

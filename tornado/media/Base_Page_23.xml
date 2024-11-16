@@ -1,0 +1,24 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I:  Assessing the Situation </B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+	
+	<questiontext><![CDATA[Which of the following actions are appropriate related to the potentially exposed responders?]]></questiontext>
+			<text5><![CDATA[EOC Commander]]></text5>
+	<options>
+			<option><![CDATA[Nothing further, they were already decontaminated and checked for contamination]]></option>
+			<option><![CDATA[Recommend treatment with Prussian Blue for all responders]]></option>
+			<option><![CDATA[Get statements from exposed personnel about their response actions]]></option>	
+			<option><![CDATA[Take nasal swabs to determine potential internal contamination]]></option>
+			<option><![CDATA[Begin in vitro bioassay sampling for Cs-137]]></option>
+	</options>
+
+	<correct_options><![CDATA[3,4,5]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

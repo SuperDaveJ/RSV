@@ -1,0 +1,26 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part III: Interpreting the Findings</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[What would you report as your results to the EOC?]]></questiontext>
+
+		<text0><![CDATA[During the second entry, your team accomplishes the HHA screening on the fire extinguisher, ductwork, and surfaces in the control tower. There was not sufficient bulk sample to run HazMat ID analysis.]]></text0>
+		<text1><![CDATA[You consult with CE EM to verify HHA codes.]]></text1>
+		<text2><![CDATA[The results you have received are:<br> <li>Fire Extinguisher Nozzle-2 positive HHA results for Tularemia<li>Duct Louvers-1 negative and 1 inconclusive<li>Surfaces in the Control Tower-Nothing detected]]></text2>
+
+ 		<options>
+			<option><![CDATA[Inconclusive]]></option>
+			<option><![CDATA[Negative for Tularemia]]></option>		
+			<option><![CDATA[Presumptively Tularemia]]></option>
+			<option><![CDATA[Definitely Tularemia]]></option>
+		</options>
+
+<correct_option><![CDATA[3]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

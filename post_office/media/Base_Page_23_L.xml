@@ -1,0 +1,36 @@
+<data>
+
+	<InstructionQuestionText><![CDATA[The following table illustrates the various analytical methods based on each media and hazard type. Match the media with the type of hazard.]]></InstructionQuestionText>
+	<optionRolloverText1><![CDATA[HAPSITE]]></optionRolloverText1>
+	<optionRolloverText2><![CDATA[HazMat ID]]></optionRolloverText2>
+	<optionRolloverText3><![CDATA[HazCat Kit]]></optionRolloverText3>
+	<optionRolloverText4><![CDATA[TVA-1000B]]></optionRolloverText4>
+	<optionRolloverText5><![CDATA[ADM-300]]></optionRolloverText5>
+	<optionRolloverText6><![CDATA[RADeCO w/XRF]]></optionRolloverText6>
+	<optionRolloverText7><![CDATA[RADeCO w/HHA]]></optionRolloverText7>
+	<optionRolloverText8><![CDATA[CDS<BR>Kit]]></optionRolloverText8>
+	<optionRolloverText9><![CDATA[HHA]]></optionRolloverText9>
+	<optionRolloverText10><![CDATA[451 P]]></optionRolloverText10>
+	<optionRolloverText11><![CDATA[XMX w/HHA]]></optionRolloverText11>
+	<optionRolloverText12><![CDATA[EPD-Mk2]]></optionRolloverText12>
+	<!-- Top-down Left to right -->
+	<rightAns1><![CDATA[1,4,6,8]]></rightAns1>
+	<rightAns2><![CDATA[7,11]]></rightAns2>
+	<rightAns3><![CDATA[2,3]]></rightAns3>
+	<rightAns4><![CDATA[9]]></rightAns4>
+	<rightAns5><![CDATA[5,10,12]]></rightAns5>
+	<totalDrags><![CDATA[12]]></totalDrags>
+	<totalTargets><![CDATA[12]]></totalTargets>
+	<!-- No. of boxes which contains drag/s -->
+	<totalSets><![CDATA[5]]></totalSets>
+
+	<text0><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></text0>
+	<text1><![CDATA[<B>Hazard Type</B>]]></text1>
+	<text2><![CDATA[<B>Air-Inhalation</B>]]></text2>
+	<text3><![CDATA[<B>Bulk-Contact</B>]]></text3>
+	<text4><![CDATA[<B>Absorption</B>]]></text4>
+	<text5><![CDATA[<B>Chemical</B>]]></text5>
+	<text6><![CDATA[<B>Biological</B>]]></text6>
+	<text7><![CDATA[<B>Radiological</B>]]></text7>
+	<text8><![CDATA[<B>Drag Item List</B>]]></text8>
+</data>

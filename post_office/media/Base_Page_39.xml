@@ -1,0 +1,32 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontextM><![CDATA[While you are running the TVA-1000B, your teammate proceeds to operate the CDS Kit I using 50 pumps. No discoloration appears. To continue, select which tube should be removed, broken, and replaced in the holder. Also select the number of pumps that should be used to draw air.]]></questiontextM>
+
+		<questiontextL><![CDATA[While one of the Bio-1 Bravo team members is running the TVA-1000B, the other proceeds to operate the CDS Kit I using 50 pumps. No discoloration appears. To continue, select which tube should be removed, broken, and replaced in the holder. Also select the number of pumps that should be used to draw air.]]></questiontextL>
+
+ 		<options1>
+			<option><![CDATA[]]></option>
+			<option><![CDATA[]]></option>		
+			<option><![CDATA[]]></option>
+			<option><![CDATA[]]></option>
+			<option><![CDATA[]]></option>
+		</options1>
+
+
+		<options2>
+			<option><![CDATA[8]]></option>
+			<option><![CDATA[4]]></option>		
+			<option><![CDATA[15]]></option>			
+		</options2>
+
+		<correct_option><![CDATA[4,1]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

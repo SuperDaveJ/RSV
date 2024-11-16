@@ -1,0 +1,32 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></pageTitle>	
+		
+		<questionTextM><![CDATA[While the HAPSITE loop method is running, you should continue with other sampling. Put the steps in the correct order of execution.]]></questionTextM>
+		
+		<questionTextL><![CDATA[While the HAPSITE loop method is running, the Bio-1 Alpha BEs should continue with other sampling. Put the steps in the correct order of execution.]]></questionTextL>
+		<instructionText><![CDATA[<I>Drag each layer name in the right and place it besides its correct description. When you are done, click <B>Submit.</B></I>]]></instructionText>		
+
+		<target_options>
+			<target_option><![CDATA[<B>1</B>]]></target_option>
+			<target_option><![CDATA[<B>3</B>]]></target_option>
+			<target_option><![CDATA[<B>4</B>]]></target_option>		
+			<target_option><![CDATA[<B>5</B>]]></target_option>	
+		</target_options>		
+
+		<drag_options>
+			<drag_option><![CDATA[<p align="center">Gather substance</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">Remove scoops and swabs from Quicksilver Kit</p>]]></drag_option>	
+			<drag_option><![CDATA[<p align="center">Transfer sample to HazMatID</p>]]></drag_option>			
+			<drag_option><![CDATA[<p align="center">Run substance sample</p>]]></drag_option>
+		</drag_options>
+
+		<correct_options><![CDATA[2,1,3,4]]></correct_options>
+		
+	</question>	
+
+</Interactivity>

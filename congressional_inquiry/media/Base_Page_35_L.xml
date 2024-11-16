@@ -1,0 +1,24 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part IV: Making Recommendations</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select all that apply, then click Done.]]></instructiontext>
+
+	<questiontext><![CDATA[Before you brief the Commander, what are some important things that you should consider regarding the presentation of your findings and risk communication?]]></questiontext>
+			
+	<options>
+			<option><![CDATA[Ensure data is translated into understandable information for Commanders]]></option>
+			<option><![CDATA[Use caution when comparing risk]]></option>
+			<option><![CDATA[Describe the situation in a positive way; omit or gloss over negative information]]></option>	
+			<option><![CDATA[Use only statistics to explain risk]]></option>
+			<option><![CDATA[Anticipate the issues and questions the chain of command may have]]></option>
+	</options>
+
+	<correct_options><![CDATA[1,2,5]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

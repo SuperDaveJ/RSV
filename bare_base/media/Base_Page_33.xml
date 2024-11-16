@@ -1,0 +1,45 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I: Assessing the Situation</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[Although there are many potential hazards that could exist, those indicated below are of the most immediate concern. Assessing more hazards than necessary, may not be the best use of time.]]></questionText>
+		
+		<instructionText><![CDATA[]]></instructionText>	
+		
+		<text1><![CDATA[TPFDD]]></text1>
+		<text2><![CDATA[ESP]]></text2>
+					
+		<Options bgWidth="400" column_gap="2" option_gap="5" text_Width="400">
+			<Option><![CDATA[Aircraft Maintenance]]></Option>
+			<Option><![CDATA[Army and Satellite Comm.]]></Option>
+			<Option><![CDATA[CE Structures]]></Option>
+			<Option><![CDATA[EMEDS +10]]></Option>
+			<Option><![CDATA[Life Support]]></Option>
+			<Option><![CDATA[Munitions]]></Option>
+			<Option><![CDATA[Rapid Runway Repair]]></Option>
+			<Option><![CDATA[Transportation]]></Option>
+			<Option><![CDATA[Utilities]]></Option>
+		</Options>
+	
+		<!-- Following is the answer format for this template!!
+		Use $ to separate answers columwise, and if there are some optional answers use * for that-->
+		<CorrectAnswer><![CDATA[0,0,0,4,5,0,0,0,9,$,1,0,3,4,5,0,7,8,9,$,1,0,0,4,0,0,0,0,0,$,1,0,3,0,5,6,0,8,0,$,0,2,0,0,0,0,0,0,0]]></CorrectAnswer>
+
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>Bloodborne Pathogens</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Chemical</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Ionizing Radiation</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Noise</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Non-ionizing Radiation</B></p>]]></option_title>
+			
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Areas of Concern</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

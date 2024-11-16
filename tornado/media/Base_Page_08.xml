@@ -1,0 +1,35 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I:  Gathering Information</B>]]></pageTitle>	
+		
+		<questiontextL><![CDATA[Each team member will use an EPD during their response. There are fundamental differences between EPDs and TLDs.  Match each capability or characteristic with the type of personal dosimeter to which it relates.]]></questiontextL>
+		
+		<questiontextM><![CDATA[Each team member will use an EPD during your response.  There are fundamental differences between EPDs and TLDs.  Match each capability or characteristic with the type of personal dosimeter to which it relates.]]></questiontextM>
+		
+		<instructionText><![CDATA[<I>Drag each layer name in the right and place it besides its correct description. When you are done, click <B>Submit.</B></I>]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="5" option_gap="5" text_Width="400">
+			<Option><![CDATA[Results are shown instantly]]></Option>
+			<Option><![CDATA[Displays dose rate and total dose ]]></Option>
+			<Option><![CDATA[Must be sent back to the lab for analysis]]></Option>
+			<Option><![CDATA[Does not require a battery for operation]]></Option>
+			<Option><![CDATA[Reports only total dose]]></Option>
+			<Option><![CDATA[Has an audible alarm]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,1,2,2,2,1]]></CorrectAnswer>	
+
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>EPD</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>TLD</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Capability/Characteristic</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

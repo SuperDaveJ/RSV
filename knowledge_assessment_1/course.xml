@@ -1,0 +1,60 @@
+<Lessons>
+
+<Topics>
+
+	<DebugMode>Yes</DebugMode>
+
+	<help>Yes</help>
+	
+	<Menu>Yes</Menu>
+
+	<Exit>Yes</Exit>	
+
+	<CourseTitle>Air Force Medical Support Agency</CourseTitle>
+
+<MLesson>
+	<LessonName>Knowledge Assessment 1</LessonName>
+		<Topic>
+			<TopicName>Introduction Case Study</TopicName>
+			<Pages>					
+
+					<Page>
+						<PageName>media/Base_Page_00.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<!-- 	<Tab_1><![CDATA[This is fire dispatch, a suspicious box was found at the post office at approximately 1145. Workers reported an oily substance leaking from the box. Security Forces are securing the area.  Two postal workers were taken to the MTF as a precautionary measure.]]></Tab_1> -->
+						<instruction><![CDATA[Select the School House to begin.]]></instruction>
+					</Page>
+
+					<Page Name="Assessment">
+						<PageName>media/Assessment_Shell.swf</PageName><!-- Base_Page_01 -->
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[]]></instruction>
+					</Page>							
+				
+			</Pages>
+		</Topic>	
+		
+</MLesson>
+
+
+
+</Topics>
+</Lessons>				

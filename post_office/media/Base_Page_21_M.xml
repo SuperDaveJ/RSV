@@ -1,0 +1,30 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[When planning a sampling strategy, which of the following should be considered?]]></questionText>
+		
+		<instructionText><![CDATA[<I>When you are done, click <B>Submit.</B></I>]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="5" option_gap="4" text_Width="400">
+			<Option><![CDATA[Likely Class of Agent]]></Option>
+			<Option><![CDATA[Potential Exposure Routes]]></Option>
+			<Option><![CDATA[Available Equipment]]></Option>
+			<Option><![CDATA[Time Allotted]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,1,1,1]]></CorrectAnswer>	
+
+		
+		<option_title><![CDATA[<p align='center'><B></B></p>]]></option_title>			
+		
+
+		<Option_heading><![CDATA[<p align='center'><B>Consideration</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

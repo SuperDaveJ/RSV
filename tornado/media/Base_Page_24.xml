@@ -1,0 +1,33 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I:  Assessing the Situation</B>]]></pageTitle>	
+		
+		<questiontextL><![CDATA[The Commander agrees that the potentially exposed personnel should be transferred from the CCA to the hospital to begin the evaluation for possible internal contamination.<br><br>To get a sense of what possible health effects you could be dealing with, the EOC Commander wants to know more about the types of radiation.  Match each description with the associated type of radiation.]]></questiontextL>
+		
+		<questiontextM><![CDATA[The Incident Commander agrees that the potentially exposed personnel should be transferred from the CCA to the hospital to begin the evaluation for possible internal contamination.<br><br>To get a sense of what possible health effects you could be dealing with, he wants to know more about the types of radiation.  Match each description with the associated type of radiation.]]></questiontextM>
+		
+		<instructionText><![CDATA[Select the appropriate column for each item, then click Done.]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="5" option_gap="5" text_Width="400">
+			<Option><![CDATA[It can have both internal and external health effects, and a respirator should be worn to protect against inhalation]]></Option>
+			<Option><![CDATA[Since most of these particles can be stopped by paper and skin, this type presents little or no external hazard]]></Option>
+			<Option><![CDATA[This type of radiation is primarily an external hazard]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[2,1,3]]></CorrectAnswer>	
+
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B> Alpha </B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B> Beta</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Gamma</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='left'><B>Description</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

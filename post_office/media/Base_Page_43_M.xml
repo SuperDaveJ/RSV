@@ -1,0 +1,30 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part III: Interpreting the Findings</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[Which resources could you use in conjunction with your findings to determine toxicological effects of Lewisite?]]></questionText>
+		
+		<instructionText><![CDATA[<I>When you are done, click <B>Submit.</B></I>]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="5" option_gap="4" text_Width="400">
+			<Option><![CDATA[NBC Toolkit]]></Option>
+			<Option><![CDATA[USAFSAM ESOH Service Center]]></Option>
+			<Option><![CDATA[AFMAN 10-2602]]></Option>
+			<Option><![CDATA[Medical Management of Chemical Casualties Handbook]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,1,#,1]]></CorrectAnswer>	
+
+		
+		<option_title><![CDATA[<p align='center'><B></B></p>]]></option_title>			
+		
+
+		<Option_heading><![CDATA[<p align='center'><B>Resource</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

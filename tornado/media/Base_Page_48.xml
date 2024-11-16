@@ -1,0 +1,36 @@
+﻿<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part III:  Interpreting the Findings</B>]]></pageTitle>	
+		
+		<questiontextL><![CDATA[After you finish briefing the EOC Commander, he wants to know what health effects various individuals could face based on your team’s findings about possible exposures to the Cs-137 and I-131.<br><br>Match each health effect with the individuals to whom it might apply.]]></questiontextL>
+		
+		<questiontextM><![CDATA[After you finish briefing the Incident Commander, he wants to know what health effects various individuals could face based on your findings about possible exposures to the Cs-137 and I-131.<br><br>Match each health effect with the individuals to whom it might apply.]]></questiontextM>
+		
+		<instructionText><![CDATA[Select the appropriate column for each item, then click Done.]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="5" option_gap="5" text_Width="400">
+			<Option><![CDATA[Whole-body irradiation]]></Option>
+			<Option><![CDATA[Increase in cancer risk]]></Option>
+			<Option><![CDATA[Burns to the eyes or skin]]></Option>
+			<Option><![CDATA[Increased I-131 in the thyroid]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,2,0,0,$,1,2,0,0,$,1,2,3,4,$,1,2,0,0]]></CorrectAnswer>
+	
+
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>Security Forces</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Fire Department </B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>CE Damage Assessment Team</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>BE Team Members</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Potential Health Effect</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

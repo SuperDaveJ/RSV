@@ -1,0 +1,26 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct answer, then click Done.]]></instructiontext>
+
+	<questiontextL><![CDATA[Prior to beginning your air analyses, you compiled a preliminary inventory of TIC/TIM based on Air Force Medical Intelligence Center (AFMIC), National Ground Intelligence Center (NGIC), and U.S. Army Center for Health Promotion and Preventive Medicine (CHPPM) intel. While you've been assessing the installation you've also noticed that there are several potential health threats in the local area.<br><br>The list below is the complete inventory. Based on this list of TIC/TIM threats, which one poses the <B>greatest</B> risk to your installation from potential terrorist-induced release?]]></questiontext>
+	<questiontextM><![CDATA[Prior to beginning your air analyses, your Team Lead compiled a preliminary inventory of TIC/TIM based on Air Force Medical Intelligence Center (AFMIC), National Ground Intelligence Center (NGIC), and U.S. Army Center for Health Promotion and Preventive Medicine (CHPPM) intel. While you've been assessing the installation you've also noticed that there are several potential health threats in the local area.<br><br>The list below is the complete inventory. Based on this list of TIC/TIM threats, which one poses the <B>greatest</B> risk to your installation from potential terrorist-induced release?]]></questiontext>
+			
+	<options>
+			<option><![CDATA[Chlorine cylinders and fuel transported <BR>onto the installation]]></option>
+			<option><![CDATA[Fuel farm located on the upwind side <BR>of the installation]]></option>
+			<option><![CDATA[Cement plant 10 miles cross-wind from <BR>the installation]]></option>	
+			<option><![CDATA[Oil processing plants 100 miles downwind <BR>of your installation]]></option>
+			<option><![CDATA[Chemical storage located near the flight line]]></option>
+	</options>
+
+
+	<correct_options><![CDATA[1]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

@@ -1,0 +1,14 @@
+<data>
+	<PagetitleText><![CDATA[<B>Part III: Interpreting the Findings</B>]]></PagetitleText>
+	<InstructionQuestionText><![CDATA[After gathering all sampling data, which three of the following results were critical in determining that the substance is Lewisite?]]></InstructionQuestionText>
+	<optionRolloverText1><![CDATA[PID within 5 times background]]></optionRolloverText1>
+	<optionRolloverText2><![CDATA[FID output 4-8 ppm]]></optionRolloverText2>
+	<optionRolloverText3><![CDATA[HazMat ID spectra comparison validating index >0.95]]></optionRolloverText3>
+	<optionRolloverText4><![CDATA[HAPSITE results negative]]></optionRolloverText4>
+	<optionRolloverText5><![CDATA[CDS Kit >0.1ppm for Organic Arsenic]]></optionRolloverText5>
+	<optionRolloverText6><![CDATA[HHA, EPD, and 451P negative for bios and rad]]></optionRolloverText6>
+	<rightAns><![CDATA[0,1,1,0,1,0]]></rightAns>
+	<totalDrags><![CDATA[6]]></totalDrags>
+	<totalTargets><![CDATA[1]]></totalTargets>
+	<submitText><![CDATA[<B>Done</B>]]></submitText>
+</data> 

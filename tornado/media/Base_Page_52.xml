@@ -1,0 +1,23 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part IV:  Making Recommendations</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select all that apply, then click Done.]]></instructiontext>
+	<questiontext><![CDATA[While you thought about the information that CE personnel needs before starting their work, you considered the topic of risk communication.  Which three of the following represent fundamental techniques related to effective risk communication?]]></questiontext>
+
+	<options>
+			<option><![CDATA[Deal with uncertainty]]></option>
+			<option><![CDATA[Emphasize your qualifications]]></option>
+			<option><![CDATA[Focus on technical facts]]></option>	
+			<option><![CDATA[Communicate honestly]]></option>
+			<option><![CDATA[Use risk comparisons cautiously]]></option>
+	</options>
+
+	<correct_options><![CDATA[1,4,5]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

@@ -1,0 +1,31 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part III: Interpreting the Findings</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[The second team into the hot zone is using the TVA-1000B PID to estimate Ammonia concentrations around the release to support cordon reduction.  The PID's reponse factor multiplier for Ammonia is 21.7.  At the point where your first team used the CMS, the PID reading is 2.3 PPM.  Within 10 feet from the source, the PID reading is 25 PPM. What are the estimated concentrations of Ammonia at the two measurement points?]]></questionText>
+		
+		<instructionText><![CDATA[<I>Drag each layer name in the right and place it besides its correct description. When you are done, click <B>Submit.</B></I>]]></instructionText>		
+
+		<target_options>
+			<target_option><![CDATA[<B>PID = 25 PPM</B>]]></target_option>
+			<target_option><![CDATA[<B>PID = 2.3 PPM</B>]]></target_option>
+		</target_options>		
+
+		<drag_options>
+			<drag_option><![CDATA[0.1 ppm]]></drag_option>
+			<drag_option><![CDATA[1 ppm]]></drag_option>	
+			<drag_option><![CDATA[9 ppm]]></drag_option>			
+			<drag_option><![CDATA[50 ppm]]></drag_option>
+			<drag_option><![CDATA[542 ppm]]></drag_option>	
+	
+		</drag_options>
+
+		<correct_options><![CDATA[2,1]]></correct_options>
+		
+	</question>	
+
+</Interactivity>

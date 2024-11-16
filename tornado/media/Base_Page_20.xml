@@ -1,0 +1,24 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I:  Assessing the Situation</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct answer, then click Done.]]></instructiontext>
+
+		<questiontextL><![CDATA[Once your initial entry team returns to the ECP staging area, they need to record their EPD readings.  Where should they document these readings at this time?]]></questiontextL>
+		
+		<questiontextM><![CDATA[Once you return to the ECP staging area, you need to record your EPD readings.  Where should you document these readings at this time?]]></questiontextM>
+
+ 		<options>
+			<option><![CDATA[Events Log]]></option>
+			<option><![CDATA[WebREMS]]></option>		
+			<option><![CDATA[Medical Records]]></option>
+			<option><![CDATA[DOEHRS]]></option>
+		</options>
+
+		<correct_option><![CDATA[2]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

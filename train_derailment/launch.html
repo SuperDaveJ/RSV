@@ -1,0 +1,94 @@
+<HTML>
+<HEAD>
+<meta http-equiv=Content-Type content="text/html;  charset=ISO-8859-1">
+<TITLE>Air Force Medical Support Agency RSV Tool</TITLE>
+<script src="../common_assets/js/scorm_api.js"></script>
+<script src="../common_assets/js/embedSwfn.js"></script>
+<script type="text/javascript" src="../common_assets/js/jquery-1.7.1.min.js"></script>
+
+<script language="javascript">
+
+
+	//To get the lesson name
+	/*
+		var AttachStringStr = location.search.split("?")
+		var AttachStringStrSplit = AttachStringStr[1].split("=");
+		fnEmbedSwf(AttachStringStrSplit[1]);
+	*/
+
+
+
+
+
+
+
+	
+	var path = document.URL;	
+	var CurrentPath = path.split("//")[1];		
+	var index = CurrentPath.indexOf("\\");	
+	if(index == -1)
+	{
+		var split_arr = CurrentPath.split("/"); 
+	}
+	else
+	{
+		var split_arr = CurrentPath.split("\\");
+	}	
+	var coursePath = split_arr[split_arr.length - 2];	
+	fnEmbedSwf(coursePath)
+	
+
+
+
+function unloadCourse()
+
+{
+	//alert()
+	if (exitPageStatus != true) closeWin();
+
+}
+
+
+//var isInternetExplorer = navigator.appName.indexOf("Microsoft") != -1;
+function Shell_C2_DoFSCommand(command, args)
+{
+	//var Shell_C2Obj = isInternetExplorer ? document.all.Shell_C2: document.Shell_C2;
+	//alert("command: "+command +"; args: "+ args)
+	switch(command)
+	{		
+		case "update":			
+			fnSaveBookmark(args)		
+			break;
+		case "UpdateScore":			
+			fnSubmitScoreVal(args)		
+			break;
+		case "closewindow":					
+			unloadCourse();
+			break;
+		case "unitCompletion":				
+			fnSetCompletionStatus (args);
+			break;
+		case "openpdf":
+			OpenPDFDocuments(args);
+			break;
+		case "print":
+			printFromFlash(args);
+			break;
+				
+	}	
+}
+
+
+//if (navigator.appName && navigator.appName.indexOf("Microsoft") != -1 && navigator.userAgent.indexOf("Windows") != -1 && navigator.userAgent.indexOf("Windows 3.1") == -1) {
+//	document.write('<script language=\"VBScript\"\>\n');
+//	document.write('On Error Resume Next\n');
+//	document.write('Sub Shell_C2_FSCommand(ByVal command, ByVal args)\n');
+//	document.write('	Call Shell_C2_DoFSCommand(command, args)\n');
+//	document.write('End Sub\n');
+//	document.write('</script\>\n');
+//}
+</script>
+
+</HEAD>
+<BODY bgcolor="#000000" leftmargin="0" topmargin="0" scroll="no" onbeforeunload="unloadCourse()"></BODY>
+</HTML>

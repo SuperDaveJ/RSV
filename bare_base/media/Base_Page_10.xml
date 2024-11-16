@@ -1,0 +1,23 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I: Gathering Information</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+
+	<questiontext><![CDATA[Which two measures would you recommend that the CE Commander institute to handle the overflowing latrine?]]></questiontext>
+			
+	<options>
+			<option><![CDATA[Full-face, air-purifying respirators]]></option>
+			<option><![CDATA[Shovel sand on the overflow and mix with lime if available]]></option>
+			<option><![CDATA[Reprioritize the work that TCNs are accomplishing and assemble another latrine]]></option>	
+			<option><![CDATA[No measures are required]]></option>
+	</options>
+
+	<correct_options><![CDATA[2,3]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

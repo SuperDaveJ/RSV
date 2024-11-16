@@ -1,0 +1,33 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part IV: Making Recommendations </B>]]></pageTitle>	
+		
+		<questionText><![CDATA[Once the leak has been stopped, there is still a significant amount of Ammonia on the ground.<br><br>Which of the following statements would be considered <B><I>true</I></B>?]]></questionText>
+		
+		<instructionText><![CDATA[Select the appropriate answers, then click Done.]]></instructionText>		
+					
+		<Options bgWidth="570" column_gap="5" option_gap="5" text_Width="570">
+			<Option><![CDATA[Downwind hazard analysis should be conducted to reevaluate the cordon area]]></Option>
+			<Option><![CDATA[Immediately discontinue sheltering in place]]></Option>
+			<Option><![CDATA[Personnel in the original cordon area must stay evacuated]]></Option>
+			<Option><![CDATA[Security Forces should reopen the North Gate]]></Option>
+			<Option><![CDATA[Keep the gate closed and divert traffic until the situation is fully contained]]></Option>
+					
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,0,1,0,1]]></CorrectAnswer>	
+
+		
+		<option_title><![CDATA[<p align='center'><B>True</B></p>]]></option_title>			
+		
+
+		<Option_heading><![CDATA[<p align='center'><B>Statement</B></p>]]></Option_heading>
+		<choice_heading><![CDATA[<p align='center'><B>True</B></p>]]></choice_heading>
+		
+	</question>	
+
+</Interactivity>

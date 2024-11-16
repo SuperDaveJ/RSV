@@ -1,0 +1,25 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I: Assessing the Situation</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select all that apply, then click Done.]]></instructiontext>
+
+	<questiontextL><![CDATA[When finished unpacking the pallets, your BE Tech noticed that the beddown site is in an area mostly characterized as clay and sand soil.<br><br>On her way back to check in with you about what to start on next, she noticed that there are no rivers or waterways, but that there is a dry drainage swale approximately 500 feet away from the tent city area.  There are no signs of distressed vegetation or discolored soil, but she did notice a faint odor from an unidentifiable source.<br><br>Since you have no new information on past uses for this site except that the Russians had utilized the base during the Cold War, which of the following should she collect?]]></questiontext>
+	
+	<questiontextM><![CDATA[When finished unpacking the pallets, the BE Tech noticed that the beddown site is in an area mostly characterized as clay and sand soil.<br><br>On her way back to check in with the Team Lead about what to start on next, she noticed that there are no rivers or waterways, but that there is a dry drainage swale approximately 500 feet away from the tent city area.  There are no signs of distressed vegetation or discolored soil, but she did notice a faint odor from an unidentifiable source.<br><br>Since there is no new information on past uses for this site except that the Russians had utilized the base during the Cold War, which of the following should she collect?]]></questiontext>
+			
+	<options>
+			<option><![CDATA[Air]]></option>
+			<option><![CDATA[Soil]]></option>
+			<option><![CDATA[Water]]></option>	
+			<option><![CDATA[Vegetation]]></option>
+	</options>
+
+	<correct_options><![CDATA[1,2,4]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

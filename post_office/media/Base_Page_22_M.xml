@@ -1,0 +1,33 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[Given the situation, which of the following actions are needed to complete your sampling strategy and overall assessment?]]></questionText>
+		
+		<instructionText><![CDATA[<I>Drag each layer name in the right and place it besides its correct description. When you are done, click <B>Submit.</B></I>]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="5" option_gap="5" text_Width="400">
+			<Option><![CDATA[Focus on analyzing the air and the substance]]></Option>
+			<Option><![CDATA[Determine if hazard is a contact or absorption hazard ]]></Option>
+			<Option><![CDATA[Rule out the possibility of radiological hazards]]></Option>
+			<Option><![CDATA[Rule out the possibility of nuclear hazards]]></Option>
+			<Option><![CDATA[Check for biological agents]]></Option>
+			<Option><![CDATA[Determine whether hazard is an inhalation hazard]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,1,2,2,1,1]]></CorrectAnswer>	
+
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>Conduct</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Not Needed</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Action</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

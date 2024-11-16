@@ -1,0 +1,21 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct answer, then click Done.]]></instructiontext>
+
+		<questiontext><![CDATA[To determine acceptable exposure limits, compare the Total Effective Dose Equivalents for the general public and personnel who spent a one-year rotation at the camp by answering each question.  <br><br>Based on the measurements (0.15 mR/hr), what is the estimated dose for personnel who spent a one-year rotation at the camp?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[1.2 mR]]></option>
+			<option><![CDATA[438 mR]]></option>		
+			<option><![CDATA[1,314 mR]]></option>
+		</options>
+
+		<correct_option><![CDATA[2]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

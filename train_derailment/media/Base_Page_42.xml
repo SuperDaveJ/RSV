@@ -1,0 +1,24 @@
+﻿<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part III: Interpreting the Findings</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+
+	<questiontext><![CDATA[Which equipment can be used to collect air samples?]]></questiontext>
+	<text0><![CDATA[Lt Smith]]></text0>
+			
+	<options>
+			<option><![CDATA[Dry Filter Unit]]></option>
+			<option><![CDATA[RADeCO]]></option>
+			<option><![CDATA[Quicksilver Kit]]></option>	
+			<option><![CDATA[XMX Liquid Impinger]]></option>
+	</options>
+
+	<correct_options><![CDATA[1,2,4]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

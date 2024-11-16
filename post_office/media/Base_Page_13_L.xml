@@ -1,0 +1,23 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I: Assessing the Situation</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[The Commander, aware that your teams have not conducted formal testing, wants you to assess the situation.<BR><BR>So, what kind of hazard do you think we're dealing with?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Radiological]]></option>
+			<option><![CDATA[Biological]]></option>		
+			<option><![CDATA[Chemical]]></option>
+			<option><![CDATA[Nuclear]]></option>
+			<option><![CDATA[No determination can be made at this time]]></option>
+		</options>
+
+		<correct_option><![CDATA[5]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

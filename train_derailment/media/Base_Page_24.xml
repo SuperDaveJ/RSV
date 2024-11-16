@@ -1,0 +1,25 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part III: Interpreting the Findings</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+<text0><![CDATA[<B>Risk of Chemical Exposure</B>]]></text0>
+<text1><![CDATA[<B>Risk of Heat Stress</B>]]></text1>
+
+		<questiontext><![CDATA[The HazMat Technicians should be able to stop the leak within 25 minutes. Their tasks will involve moderate workload. Given the WBGT of 82&#176; F and Level A PPE, what is your health risk assessment for the HazMat Technicians entering the hot zone?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Low]]></option>
+			<option><![CDATA[Moderate]]></option>		
+			<option><![CDATA[High]]></option>
+			
+		</options>
+
+		<correct_option><![CDATA[2,5]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

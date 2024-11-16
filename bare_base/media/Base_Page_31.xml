@@ -1,0 +1,54 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I: Assessing the Situation</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+
+	<questiontext><![CDATA[Based on your review of the <font color="#87D6FD"><U><B>ESP</B></U></font> and <font color="#87D6FD"><U><B>TPFDD</B></U></font>, select which locations shown on the map will actually be industrial Areas of Concern physically located on the base.]]></questiontext>
+
+	<text1><![CDATA[Oil Rig]]></text1>
+	<text2><![CDATA[Life Support]]></text2>
+	<text3><![CDATA[Transportation]]></text3>	
+	<text4><![CDATA[Aircraft Maintenance]]></text4>
+	<text5><![CDATA[Logistics Readiness Squadron]]></text5>
+	<text6><![CDATA[Security Forces]]></text6>
+	<text7><![CDATA[CE Structures]]></text7>
+	<text8><![CDATA[Wing Headquarters]]></text8>
+	<text9><![CDATA[Rapid Runway Repair]]></text9>
+	<text10><![CDATA[Satellite Comm.]]></text10>
+	<text11><![CDATA[Army Comm. Unit]]></text11>
+	<text12><![CDATA[Utilities]]></text12>
+	<text13><![CDATA[EMEDS +10]]></text13>
+	<text14><![CDATA[Cement Plant]]></text14>
+	<text15><![CDATA[Landfill]]></text15>
+	<text16><![CDATA[Munitions]]></text16>
+			
+	<options>
+			<option><![CDATA[Oil Rig]]></option>
+			<option><![CDATA[Life Support]]></option>
+			<option><![CDATA[Transportation]]></option>	
+			<option><![CDATA[Aircraft Maintenance]]></option>
+			<option><![CDATA[Logistics Readiness Squadron]]></option>
+			<option><![CDATA[Security Forces]]></option>
+			<option><![CDATA[CE Structures]]></option>
+			<option><![CDATA[Wing Headquarters]]></option>
+			<option><![CDATA[Rapid Runway Repair]]></option>
+			<option><![CDATA[Satellite Comm.]]></option>
+			<option><![CDATA[Army Comm. Unit]]></option>
+			<option><![CDATA[Utilities]]></option>
+			<option><![CDATA[EMEDS +10]]></option>
+			<option><![CDATA[Cement Plant]]></option>
+			<option><![CDATA[Landfill]]></option>
+			<option><![CDATA[Munitions]]></option>
+			
+		
+	</options>
+
+	<correct_options><![CDATA[2,3,4,7,9,10,11,12,13,16]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

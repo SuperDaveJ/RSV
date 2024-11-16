@@ -1,0 +1,23 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I:  Gathering Information</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[Based on your tour, what is your recommendation for the force protection level?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Alpha]]></option>
+			<option><![CDATA[Bravo]]></option>		
+			<option><![CDATA[Charlie]]></option>
+			<option><![CDATA[Delta]]></option>
+			
+		</options>
+
+		<correct_option><![CDATA[3]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

@@ -1,0 +1,21 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I: Gathering Information</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[To use time most efficiently, which one of the following tasks should the BEs at the office perform <I><B>first</B></I>?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Function check the ADM-300 and all probes]]></option>
+			<option><![CDATA[Warm-up and collect background with the HAPSITE]]></option>		
+			<option><![CDATA[Initiate auto cal and obtain background with the SAM 940]]></option>
+		</options>
+
+		<correct_option><![CDATA[2]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

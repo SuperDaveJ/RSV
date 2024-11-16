@@ -1,0 +1,1201 @@
+<Lessons>
+
+<Topics>
+
+	<DebugMode>Yes</DebugMode>
+		
+	<help>Yes</help>
+	
+	<Menu>Yes</Menu>
+
+	<Exit>Yes</Exit>	
+
+	<CourseTitle>Air Force Medical Support Agency</CourseTitle>
+
+<MLesson>
+	<LessonName>Air Force Medical Support Agency</LessonName>
+		<Topic>
+			<TopicName>Scenario 3</TopicName>
+			<Pages>			
+					<Page Name="Team Member">
+						<PageName>media/Base_Page_00.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Dispatch:</U> This is fire dispatch, an explosion has occurred near the North Gate-cause unknown.]]></Tab_1>
+						<instruction><![CDATA[Click the highlighted selection point to access the assessment.]]></instruction>
+					</Page>
+					<Page Name="Evaluator">
+						<PageName>media/Base_Page_00_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Dispatch:</U> This is fire dispatch, an explosion has occurred near the North Gate-cause unknown.]]></Tab_1>
+						<instruction><![CDATA[Click the highlighted selection point to access the assessment.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Member" MPageNo="Page 1">
+						<PageName>media/Base_Page_01.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[]]></Tab_1>
+						<Tab_2><![CDATA[<U>Dispatch:</U> The Emergency Operations Center is standing up at the CE EM Office. A Bioenvironmental Engineering representative has been requested to report to the EOC.]]></Tab_2>
+						<Tab_3><![CDATA[<U>Captain Williams:</U> Lt Smith, grab your necessary items and report to the EOC. We'll begin preparing equipment and be ready to head to the scene when requested.]]></Tab_3>						
+						
+						<instruction><![CDATA[Select items in the BE Office to gather more information.]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 1" Name="Evaluator">
+						<PageName>media/Base_Page_01_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[]]></Tab_1>
+						<Tab_2><![CDATA[<U>Dispatch:</U> The Emergency Operations Center is standing up at the CE EM Office. A Bioenvironmental Engineering representative has been requested to report to the EOC.]]></Tab_2>
+						<Tab_3><![CDATA[<U>Captain Williams:</U> Lt Smith, grab your necessary items and report to the EOC. We'll begin preparing equipment and be ready to head to the scene when requested.]]></Tab_3>	
+						<Tab_4><![CDATA[<U>Narrator:</U> Your role as an Exercise Evaluator will require you to watch BE Team members as they make decisions based on scenario-related questions. BE Team members will be located at both the EOC and ECP. You'll begin at the EOC with Lt Smith.]]></Tab_4>
+						
+						<instruction><![CDATA[Select items in the BE Office to gather more information.]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 2a" Name="Evaluator">
+						<PageName>media/Base_Page_02a_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> As the exercise develops, you will see the BE Team gather information and prepare for response. Watch the screens in the movie and determine whether you agree with the choices made.]]></TranscriptText>
+						
+						<instruction><![CDATA[Select the movie icon to view the team's activities, then make your decision.]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 2aa" Name="Evaluator">
+						<PageName>media/Base_Page_02aa_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator:</U> Since you've determined that portions of this segment were not completed accurately, you now get an opportunity to act as the BE Team Lead in this situation and complete each activity.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 2" MPageNo="Page 2">
+						<PageName>media/Base_Page_02.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>EOC Commander:</U> Good morning. Here's what we know so far. There was a train derailment on the tracks running along the north side of the base very close to the Paper Mill storage area. The cause of the derailment is unknown at this time. We don't know yet whether the explosion we heard occurred before or after the train derailed. What we do know is that the train was hauling tank cars filled with industrial chemicals. One or more of the tank cars appear to be leaking, or to have spilled its contents, but there's no fire burning. As you probably saw on your way over here, there's already a vapor cloud building up and drifting toward the northeast portion of the base.]]></Tab_1>
+						<instruction><![CDATA[Select the EOC Commander for more information.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 3" MPageNo="Page 3">
+						<PageName>media/Base_Page_03.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<Tab_1><![CDATA[<U>EOC Commander:</U> Local First Responders are already at the scene. The area of the derailment has been isolated and an initial cordon of 2000 ft. has been established in all directions.<BR><BR>The initial responders have reported that one of the tankers was carrying Anhydrous Ammonia and the other was carrying Diesel Fuels. Each tanker holds approximately 20,000 gallons. It has not been determined which tanker or tankers are leaking. Currently, winds are blowing out of the northwest (335 degrees) at 10 knots.<BR><BR>Also, chemical storage units for the Paper Mill are located near that stretch of track. We don't know if any of the units were affected, but the two closest to the incident have been identified as containing Hydrogen Peroxide and Hydrochloric Acid.<BR><BR>I'd like you to get to work on determining recommendations for actions to protect our base personnel.]]></Tab_1>
+						<Tab_2><![CDATA[<U>CE Emergency Management Rep:</U> Sir, through several MOUs that we have established with the local, state, and DOT agencies, the base is required to assume initial responsibility for the emergency response to that section of the railway.]]></Tab_2>
+						<Tab_3><![CDATA[<U>Medical Rep:</U> Approximately 50 patients have already reported to the base Emergency Room complaining of a pungent, suffocating odor, and irritation to the eyes, nose, and throat. Some of those individuals include the security forces manning the North Gate.]]></Tab_3>
+						<instruction><![CDATA[Select the items in the EOC to gather more information.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 4" MPageNo="Page 4">
+						<PageName>media/Base_Page_04.swf</PageName>						
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>						
+						<instruction><![CDATA[Click each graphic for more information.]]></instruction>
+					</Page>
+					
+					<Page PageID="31060" CompentancyObj = "1" CompentancyID ="1,6" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Evaluate potential hazards and recommend controls." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" EPageNo="Page 5" MPageNo="Page 5">
+						<PageName>media/Base_Page_05.swf</PageName>
+						<STS_Line><![CDATA[<li>3.1.5 Brief CBRN (and physical) hazards/risks to personnel (shop personnel, commanders, incident commander, etc.)</li><li>4.1.2 Occupational and Environmental Health Site Assessment</li><li>5.2.1 Review of response publications and intelligence</li><li>5.2.2 Input and interpret risk assessment tools/dispersion models (i.e.,  CHEMRAT, CHART or equivalent)</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li><li>Communicate HRA Results</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFI 10-2501, AF Emergency Management Program Planning and Operations</li><li>AFMAN 10-2502, AF Incident Mgmt System (AFIMS) Standards and Procedures</li><li>AFMAN 48-146, Occupational & Environmental Health Program and Information Management</li><li>AFMAN 48-154, Occupational and Environmental Health Site Assessment</li><li>AFMAN 48-155, Occupational and Environmental Health Exposure Controls</li><li>OEHSA Documentation and Data Management Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>EOC Commander:</U> Ok guys, based on what we know right now, which two of the following do you recommend for protective actions?]]></Tab_1>
+						<instruction><![CDATA[Click the EOC Commander to hear the question, then select all that apply.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 6" MPageNo="Page 6">
+						<PageName>media/Base_Page_06.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 7" MPageNo="Page 7">
+						<PageName>media/Base_Page_07.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Lt Smith:</U> Captain, a 2000 ft. cordon has been established around the scene. Evacuation and shelter in place procedures are underway. The IC needs a BE Team to report immediately to the ECP which is being set up at the edge of the cordon near the North Gate.<BR><BR><U>Capt Williams:</U> Copy. You stay at the EOC. I'm taking SMSgt Lopez, SSgt Sumrall, and TSgt Schmidt with me to the ECP. MSgt Washington and SrA Powell will stay at the office for support functions.]]></Tab_1>
+						<instruction><![CDATA[Click the graphic to hear the conversation between your Lieutenant and Captain.]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 8a" Name="Evaluator">			
+						<PageName>media/Base_Page_08a_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> Continuing as the exercise evaluator, you will view the BE Team as they advise on PPE selections. The team will also evaluate potential chemical reactions and determine physical concerns related to exposure. Watch these activities and determine whether you agree with the choices made.]]></TranscriptText>
+						<Tab_1>#</Tab_1>
+						<instruction><![CDATA[Select the movie icon to view the team's activities, then make your decision.]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 8aa" Name="Evaluator">			
+						<PageName>media/Base_Page_08aa_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator:</U> Since you've determined that portions of this segment were not completed accurately, you now get an opportunity to act as the BE Team Lead in this situation and complete each activity.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 8" MPageNo="Page 8">				
+						<PageName>media/Base_Page_08.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>IC:</U> I'm concerned that the Level A PPE being worn by the First Responders may not be adequate. They're wearing the Geomet DTAPS Level A suit. I need you to determine what vapors are leaking from the tankers so I can advise them on what they need for their protection.]]></Tab_1>
+						<instruction><![CDATA[Click the IC to hear where he wants the BE efforts focused at this time.]]></instruction>
+					</Page>
+					
+					<Page PageID="31110" CompentancyObj = "2" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Determine the maximum concentrations under which each PPE level can be used." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" EPageNo="Page 9" MPageNo="Page 9">
+						<PageName>media/Base_Page_09.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.2.4 Exposure Pathway Evaluation</li><li>4.1.12 Use, selection and limitations of PPE</li><li>4.6.7 Protective clothing concepts</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>Geomet DTAPS Level A Suit Owner Manual and Guidance</li><li>OSHA Technical Manual, Section VI, Chapter 1, Chemical Protective Clothing</li><li>Quick Selection Guide to Chemical Protective Clothing, ed. 5</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>Yes</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, then click Done. For assistance, click the Lifeline.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 10" MPageNo="Page 10">
+						<PageName>media/Base_Page_10.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>IC:</U> Since we know that Ammonia vapors are present and that it has the shortest breakthrough time, 46 min, what are three options for addressing the limitations of this suit?]]></Tab_1>
+						<instruction><![CDATA[Click the IC to hear the question, <BR>then select all that apply.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 11" MPageNo="Page 11">
+						<PageName>media/Base_Page_11.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>IC:</U> Response team, this is the IC. After consulting with the BE Team Lead about the hazards and your Level A PPE, I recommend that you limit exposure times in the hot zone to 45 minutes or less. Then, if you have to go back in you should use new suits. If you have them, you should switch to a different suit that has a higher breakthrough time for Ammonia. Continue monitoring Oxygen presence and LEL measurements. Over.<BR><BR><U>First Responder:</U> Copy. We have no other PPE available at the moment. We'll limit our exposure time. Over.<BR><BR><U>IC:</U> Roger. Out.]]></Tab_1>
+						<instruction><![CDATA[Click the graphic to hear the IC's recommendation to the First Responders.]]></instruction>
+					</Page>
+					
+					<Page PageID="31140" CompentancyObj = "3" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Analyze and communicate information regarding OEH hazards and risk." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" EPageNo="Page 12" MPageNo="Page 12">
+						<PageName>media/Base_Page_12.swf</PageName>
+						<STS_Line><![CDATA[<li>3.1.5 Brief CBRN (and physical) hazards/risks to personnel (shop personnel, commanders, incident commander, etc.)</li><li>4.6.1 Chemical hazards (industrial, etc.)</li><li>5.1.5.1 Chemical hazards (industrial, WMD, etc.)</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Communicate HRA Results</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>North American Emergency Response Guidebook (NAERG)</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>IC:</U> We haven't discovered yet if the Diesel Fuel railcar is leaking. We also have no new information regarding whether the two storage tanks at the Paper Mill have been damaged. I need to send the HazMat Technicians in to repair the leaks, but before I do that I'd like a little more information. Which of the chemicals, if mixed together, could present additional hazards to personnel?]]></Tab_1>
+						<instruction><![CDATA[Click the IC to hear the question, then select the correct answer.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 13" MPageNo="Page 13">
+						<PageName>media/Base_Page_13.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>First Responder:</U> IC, this is the response team. We have confirmation that the Ammonia railcar is leaking and the Diesel Fuel car is not. The Paper Mill's HazMat team has reported that the Hydrogen Peroxide storage tank which is furthest from the incident seems to have no damage. They are still examining the Hydrochloric Acid container, but based on their initial inspection, it looks like it may be leaking. Over.<BR><BR><U>IC:</U> Copy. Out.]]></Tab_1>
+						<instruction><![CDATA[Click the graphic to hear the First Responder's conversation with the IC.]]></instruction>
+					</Page>
+					
+					<Page PageID="31160" CompentancyObj = "4" CompentancyID ="1, 6" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Determine potential target organs for a given chemical hazard." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" EPageNo="Page 14" MPageNo="Page 14">
+						<PageName>media/Base_Page_14.swf</PageName>
+						<STS_Line><![CDATA[<li>3.5.4 Biological effects of toxic substances</li><li>3.5.7 Physiological effects</li><li>4.1.2.5 Total exposure health risk (additive, synergistic, multiple routes, etc.)</li><li>4.6.4 Identify/analyze chemical hazards based on routes of entry (inhalation, injection, ingestion, absorption, contact, ototoxins)</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>NIOSH Pocket Guide to Chemical Hazards</li><li>TG 230, Chemical Exposure Guidelines for Deployed Military Personnel</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the appropriate areas, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page PageID="31170" CompentancyObj = "5" CompentancyID ="1, 6" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Determine IDLH levels for specific chemical exposures." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" EPageNo="Page 15" MPageNo="Page 15">
+					<PageName>media/Base_Page_15.swf</PageName>						
+					<STS_Line><![CDATA[<li>4.5.1.5.1 Select appropriate occupational and environmental exposure limit (OEEL) (TLV, MCL, SPEGL, MEG, STEL, CELING, PEL, Excursion Limits, etc.)</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>NIOSH Pocket Guide to Chemical Hazards</li><li>TG 230, Chemical Exposure Guidelines for Deployed Military Personnel</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Drag the items to the appropriate locations, then click Done.]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 16a" Name="Evaluator">
+						<PageName>media/Base_Page_16a_M.swf</PageName>
+						
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> Now, your role as an exercise evaluator is to watch the team's activities, evaluate their choices related to elements of a sampling plan and equipment selection. Then, determine whether you agree with the choices made.]]></TranscriptText>
+						
+						<instruction><![CDATA[Select the movie icon to view the team's activities, then make your decision.]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 16aa" Name="Evaluator">
+						<PageName>media/Base_Page_16aa_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator:</U> Since you've determined that you do not agree with the choices made in this segment. You now get an opportunity to act as the BE Team Lead in this situation and complete each activity.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 16" MPageNo="Page 16">
+						<PageName>media/Base_Page_16.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Drag the appropriate items to the notepad, then click Done.]]></instruction>
+					</Page>
+					
+					
+					<Page PageID="31190" CompentancyObj = "6" CompentancyID ="5, 6" CompentancyText = "Equip &#38; CBRN" CompentancyDescription = "Interpret the capabilities and limitations of CBRN detectors." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 17" EPageNo="Page 17">
+						<PageName>media/Base_Page_17.swf</PageName>
+						<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li><li>4.5.3.4 Soil/solid sampling devices</li><li>4.5.3.4.2 FT-IR</li><li>4.9.2.11.4 EPD</li><li>6.15 Radiation detection equipment</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Environmental</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>4-gas Meter User's Manual</li><li>Draeger Tube/Chip System User's Manual</li><li>EPD User's Manual</li><li>HazMat ID Guidance Document</li><li>TVA-1000B User's Manual</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the appropriate answers, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 18" MPageNo="Page 18">
+						<PageName>media/Base_Page_18.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> You and your Captain are entering as the first BE Team into the hot zone. You're taking in a 4-gas meter, the Drager Chip Management System, and pH Paper.]]></TranscriptText>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 19a" Name="Evaluator">
+						<PageName>media/Base_Page_19a_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> Continuing your role as an exercise evaluator, watch the BE Team as they prioritize response actions and identify equipment capability. Then, determine whether you agree with the choices made.]]></TranscriptText>
+						
+						<instruction><![CDATA[Select the movie icon to view the team's activities, then make your decision.]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 19aa" Name="Evaluator">
+						<PageName>media/Base_Page_19aa_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator:</U> Since you've determined that you do not agree with the choices made in this segment. You now get an opportunity to act as the BE Team Lead in this situation and complete each activity.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 19" MPageNo="Page 19">
+						<PageName>media/Base_Page_19.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 20" MPageNo="Page 20">
+						<PageName>media/Base_Page_20.swf</PageName>
+						
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>Yes</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Make your decision. For assistance, <BR>click the Lifeline.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 21" MPageNo="Page 21">
+						<PageName>media/Base_Page_21.swf</PageName>
+						
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>IC:</U> What did you find out?<BR><BR><U>Captain Williams:</U> Ammonia is definitely leaking. The readings show a concentration of 50 parts per million. Results indicate that HCl is either not present or present at less than 1 part per million. We inspected the rail cars and the only tank leaking is the tank carrying Ammonia. We're sending a second team in to measure for concentrations at various points around the scene.<BR><BR><U>IC:</U> Alright. Let me know what you find.<BR><BR><U>Captain Williams:</U> Yes, sir.]]></Tab_1>
+						<instruction><![CDATA[Click the graphic to hear your Captain's report to the IC.]]></instruction>
+					</Page>
+					
+					
+					<Page PageID="33240" CompentancyObj = "7" CompentancyID ="5, 6" CompentancyText = "Equip &#38; CBRN" CompentancyDescription = "Based on TVA-1000B readings, determine estimated concentration levels." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 22" EPageNo="Page 22">						
+						<PageName>media/Base_Page_22.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.13 Sample result interpretation</li><li>4.5.2.2 Air sampling devices (direct reading instruments, pumps, passive dosimeters, etc.)</li><li>4.5.2.16 Interpret air sample results</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Air</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>TVA-1000B User's Manual</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Drag the items to the appropriate locations, then click Done.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 23" MPageNo="Page 23">
+						<PageName>media/Base_Page_23.swf</PageName>
+					
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>IC:</U> What did your team find out about the concentrations of Ammonia?<BR><BR><U>Captain Williams:</U> The point they measured closest to the car, less than 10 feet away, was up to 542 parts per million, which is very high. Further out, where we measured on our first entry, is still registering at 50 parts per million. O<font size='10'>2</font> and LEL levels are within acceptable ranges. We also received confirmation that the Hydrochloric Acid storage tank at the Paper Mill is not leaking and was not damaged during the explosion.<BR><BR><U>IC:</U> I'm sending in the HazMat Technicians to complete repairs and stop the leaking of the Ammonia rail car.<BR><BR><U>Captain Williams:</U> Sir, be aware that detected levels of Ammonia are above the IDLH values. We need to have a rescue team standing by.<BR><BR><U>IC:</U> Roger that; we need to get the leak stopped. We'll have a rescue team ready.]]></Tab_1>
+						<instruction><![CDATA[Click the graphic to hear your Captain's report to the IC.]]></instruction>
+					</Page>
+					
+					
+					<Page PageID="33260" CompentancyObj = "8" CompentancyID ="1, 6" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Based on environmental conditions and mission requirements, determine heat stress risk to personnel." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 24" EPageNo="Page 24">
+						<PageName>media/Base_Page_24.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.10 Health risk assessment</li><li>4.12.3 Analyze thermal stress hazards (i.e., WBGT)</li><li>4.12.5 Health/medical effects of extended IPE/GCE wear</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFPAM 48-151, Thermal Injury</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct level for both types of risk, then click Done.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 25" MPageNo="Page 25">
+						<PageName>media/Base_Page_25.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>				
+						<Tab_1><![CDATA[<U>Captain Williams:</U> Sir, given the temperature and the extra heat stress added from PPE, the recommended work-rest cycle is 20 minutes of work to 40 minutes of rest. If they'll finish within approximately 25 minutes, the risk of chemical exposure to the HazMat team is low, but the risk of heat stress is moderate.<BR><BR><U>IC:</U> Prepare your recommendations to mitigate the risks.]]></Tab_1>	
+						<instruction><![CDATA[Click the graphic to hear your Captain's report to the IC.]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 26a" Name="Evaluator">
+						<PageName>media/Base_Page_26a_M.swf</PageName>
+						
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> Continuing as the exercise evaluator, your role is to watch the team making recommendations to the Incident Commander, evaluate their decisions, and determine whether you agree with the choices made.]]></TranscriptText>
+						
+						<instruction><![CDATA[Select the movie icon to view the team's activities, then make your decision.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 26aa" Name="Evaluator">
+						<PageName>media/Base_Page_26aa_M.swf</PageName>
+						
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator:</U> Since you've determined that you do not agree with the choices made in this segment. You now get an opportunity to act as the BE Team Lead in this situation and complete each activity.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+
+					
+					<Page PageID="33280" CompentancyObj = "9" CompentancyID ="5, 6" CompentancyText = "Equip &#38; CBRN" CompentancyDescription = "Determine appropriate PPE and work-rest cycles based on environmental conditions and mission requirements." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 26" EPageNo="Page 26">
+						<PageName>media/Base_Page_26.swf</PageName>
+						<STS_Line><![CDATA[<li>4.12.4 Thermal stress controls</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li><li>Communicate HRA Results</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>ACGIH Threshold Limit Values (TLVs) for Chemical Substances and Physical Agents and Biological Exposure Indices (BEIs)</li><li>AFPAM 48-151, Thermal Injury</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>IC:</U> What are your two recommendations for mitigating the risks of chemical exposure and heat stress to the HazMat Technicians?]]></Tab_1>	
+						<instruction><![CDATA[Click the IC to hear the question, then select all that apply.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 27" MPageNo="Page 27">
+						<PageName>media/Base_Page_27.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the appropriate answers, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 28" MPageNo="Page 28">
+						<PageName>media/Base_Page_28.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>IC:</U> FBI has determined that the derailment was a result of deliberate sabotage using explosives. Environmental recovery operations will begin. Until we have more answers, the base is going into FPCON Charlie and convening a Force Protection Working Group to determine what recommendations should be given to the Commander. The BEs are dismissed.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 29" Name="Team Member">
+						<PageName>media/Base_Page_29.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+					
+					<TranscriptText>#</TranscriptText>
+					<Tab_1><![CDATA[<U>Dispatch:</U> This is fire dispatch, during a building inspection early this morning a facility manager found a fire extinguisher which appeared to be rigged with a timed release device. It was found in the mechanical room at the HVAC intake for the Air Traffic Control Tower. The EOC is being reconvened at the CE EM Office. The Commander requests a BE Representative be sent to the EOC immediately.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					
+					</Page>
+
+					<Page EPageNo="Page 29" Name="Evaluator">
+						<PageName>media/Base_Page_29_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+					
+					<TranscriptText>#</TranscriptText>
+					<Tab_1><![CDATA[<U>Dispatch:</U> This is fire dispatch, during a building inspection early this morning a facility manager found a fire extinguisher which appeared to be rigged with a timed release device. It was found in the mechanical room at the HVAC intake for the Air Traffic Control Tower. The EOC is being reconvened at the CE EM Office. The Commander requests a BE Representative be sent to the EOC immediately.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					
+					</Page>
+					
+					<Page EPageNo="Page 30a" Name="Evaluator">
+						<PageName>media/Base_Page_30a_M.swf</PageName>
+						<Training_Reference><![CDATA[<li>451P User's Pamphlet</li><li>ADM-300 User's Manual</li><li>CDS Kit User's Manual</li><li>EPD User's Manual</li><li>HHA User's Instructions</li><li>HAPSITE User's Manual</li><li>Hazcat Kit User's Manual</li><li>HazMat ID Guidance Document</li><li>M8 Paper Technical Order</li><li>M9 Tape Technical Order</li><li>M256 Kit Paper Technical Order</li><li>SAM 940 Field Guide</li><li>TVA-1000B User's Manual</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> Continuing your role as an exercise evaluator, watch the BE Team as they prioritize response actions and identify equipment capability. Then, determine whether you agree with the choices made.]]></TranscriptText>
+						
+						<instruction><![CDATA[Select the movie icon to view the team's activities, then make your decision.]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 30aa" Name="Evaluator">
+						<PageName>media/Base_Page_30aa_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText></TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator:</U> Since you've determined that you do not agree with the choices made in this segment. You now get an opportunity to act as the BE Team Lead in this situation and complete each activity.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 30" MPageNo="Page 30">
+						<PageName>media/Base_Page_30.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Captain Williams:</U> Lt Smith, I'll take EOC duty today. Stand-by to take a team to the scene when requested.]]></Tab_1>
+						<instruction><![CDATA[Select items in the BE Office to gather more information.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 31" MPageNo="Page 31">
+						<PageName>media/Base_Page_31.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>EOC Commander:</U> During a building inspection early this morning the Air Control Tower facility manager noticed the door of the HVAC mechanical room open. After further inspection of the room, he found a fire extinguisher rigged with a timed-release device. The pressure dial on the fire extinguisher reads only 10 psi, indicating it has possibly been discharged. During a safety inspection 10 days ago, there was no fire extinguisher in that location.<BR><BR>At this point, we have no way of knowing when, in the 10 days since the last inspection, the device was altered or when its contents were dispersed. The HVAC system was shut down for a period of time yesterday while personnel were sheltered in place, but there may have been something dispersed prior to system shut down.<BR><BR>BEs and CE Emergency Management, I need you to get teams to the ECP immediately to assess the situation. EOD is already on scene and safeing the device.]]></Tab_1>
+						<instruction><![CDATA[Select the EOC Commander for more information.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 32" MPageNo="Page 32">
+						<PageName>media/Base_Page_32.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Capt Williams:</U> Lieutenant, we need to get a BE Team to the ECP near the Control Tower to make preliminary assessments of the situation. It looks like the fire extinguisher may have been discharged near the HVAC intake.<BR><BR><U>Lt Smith:</U> Yes, ma'am. I'm going to take MSgt Washington, SSgt Sumrall, and SrA Powell with me. That'll leave SMSgt Lopez and TSgt Schmidt at the office for the time being for support functions.]]></Tab_1>
+						<instruction><![CDATA[Click the graphic to hear the conversation between your Lieutenant and Captain.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 33" MPageNo="Page 33">
+						<PageName>media/Base_Page_33.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Drag the items to the appropriate locations, then click Done.]]></instruction>
+					</Page>
+					
+					
+					<Page PageID="31360" CompentancyObj = "10" CompentancyID ="5, 6" CompentancyText = "Equip &#38; CBRN" CompentancyDescription = "Relate the correct CBRN equipment capability with the appropriate hazard. " CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 34" EPageNo="Page 34">
+						<PageName>media/Base_Page_34.swf</PageName>
+						<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li><li>4.5.3.4 Soil/solid sampling devices</li><li>4.5.3.4.2 FT-IR</li><li>4.7.2.1 Hand-held assays</li><li>6.15 Radiation detection equipment</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Environmental</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>451P User's Pamphlet</li><li>ADM-300 User's Manual</li><li>CDS Kit User's Manual</li><li>EPD User's Manual</li><li>HAPSITE User's Manual</li><li>HazMat ID Guidance Document</li><li>HHA User's Instructions</li><li>SAM 940 Field Guide</li><li>TM 3-6665-307-10, M256-Series Chemical Agent Detector Kit</li><li>TO 11H2-14-5-1, Paper, Chemical Agent, VGH, ABC-M8</li><li>TO 11H2-2-21, Paper, Chemical Agent Detector: M9</li><li>TVA-1000B User's Manual</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the appropriate answers, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 35a" Name="Evaluator">
+						<PageName>media/Base_Page_35a_M.swf</PageName>
+						
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> As the exercise evaluator, you will now view the BE Team's activities related to determining proper sampling strategies and evaluating and interpreting sampling results to rule out hazards. Watch these activities and determine whether you agree with the choices made.]]></TranscriptText>
+						
+						<instruction><![CDATA[Select the movie icon to view the team's activities, then make your decision.]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 35aa" Name="Evaluator">
+						<PageName>media/Base_Page_35aa_M.swf</PageName>
+						
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator:</U> Since you've determined that you do not agree with the choices made in this segment. You now get an opportunity to act as the BE Team Lead in this situation and complete each activity.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+
+					
+					<Page PageID="32370" CompentancyObj = "11" CompentancyID ="1, 6" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Interpret sampling results." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 35" EPageNo="Page 35">
+						<PageName>media/Base_Page_35.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.10 Health risk assessment </li><li>4.1.13 Sample result interpretation</li><li>4.5.2.16 Interpret air sample results</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li><li>Perform HRA – Environmental</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFMAN 48-154, Occupational and Environmental Health Site Assessment</li><li>AIHA, The Occupational Environment: Its Evaluation, Control and Management</li><li>OEHSA Documentation and Data Management Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Lt Smith:</U> Which hazard is most likely present, based on the results of your initial entry measurements?]]></Tab_1>
+						<instruction><![CDATA[Click your Lieutenant to hear the question, then select the correct answer.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 36" MPageNo="Page 36">
+						<PageName>media/Base_Page_36.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Capt Williams:</U> Lt Smith, this is Capt Williams. The medical representative reports that several personnel who worked in the Control Tower yesterday have reported to the Emergency Room with the following symptoms: chills, fever, headache, muscle ache, and fatigue.<BR><BR><U>Lt Smith:</U> Copy. Based on the results from our first entry we've been able to rule out some chemical hazards. We're preparing for our second entry to conduct analysis for biological hazards.<BR><BR><U>Capt Williams:</U> Roger. Keep me posted. I'll have the troops at the office conduct research on the symptoms and see if they link to any particular biological agents.]]></Tab_1>
+						<instruction><![CDATA[Click the graphic to hear the conversation between your Lieutenant and Captain.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 37" MPageNo="Page 37">
+						<PageName>media/Base_Page_37.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 38" MPageNo="Page 38">
+						<PageName>media/Base_Page_38.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+					
+										
+					<Page PageID="32410" CompentancyObj = "12" CompentancyID ="1, 6" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Interpret biological sampling results." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 39" EPageNo="Page 39">
+						<PageName>media/Base_Page_39.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.13 Sample result interpretation</li><li>4.7.2.1 Hand-Held Assays (e.g., HHA Kits)</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Soil</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>HHA User's Instructions</li><li>Sampling Plan for Biological Agent Contamination</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Lt Smith:</U> Using the HHA, how many similar results would constitute a presumptive result?]]></Tab_1>
+						<instruction><![CDATA[Click your Lieutenant to hear the question, then select the correct answer.]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 40" MPageNo="Page 40">
+						<PageName>media/Base_Page_40.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 41" MPageNo="Page 41">
+						<PageName>media/Base_Page_41.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 42" MPageNo="Page 42">
+						<PageName>media/Base_Page_42.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Lt Smith:</U> We have enough liquid remaining in the HHA vials to use JBAIDS and to send to the Laboratory Response Network. Now we need to take air samples to determine potential exposure. Which equipment can be used to collect air samples?]]></Tab_1>
+						<instruction><![CDATA[Click your Lieutenant to hear the question, then select all that apply.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 43a" Name="Evaluator">
+						<PageName>media/Base_Page_43a_M.swf</PageName>
+						<Training_Reference><![CDATA[<li>AFMAN (I) 44-156, Treatment of Biological Warfare Agent Casualties</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> Now, your role as an exercise evaluator is to watch the team's activities as they work with other medical group teams as they make recommendations to the EOC regarding disease containment. Then, determine whether you agree with the choices made.]]></TranscriptText>
+						
+						<instruction><![CDATA[Select the movie icon to view the team's activities, then make your decision.]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 43aa" Name="Evaluator">
+						<PageName>media/Base_Page_43aa_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator:</U> Since you've determined that you do not agree with the choices made in this segment. You now get an opportunity to act as the BE Team Lead in this situation and complete each activity.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+
+					<Page EPageNo="Page 43" MPageNo="Page 43">
+						<PageName>media/Base_Page_43.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 44" MPageNo="Page 44">
+						<PageName>media/Base_Page_44.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>EOC Commander:</U> Do we have any more individuals reporting symptoms?<BR><BR><U>PHEO:</U> Several more individuals from the Control Tower have reported to the hospital with similar symptoms to those discussed earlier. One of the individuals has also been diagnosed with pneumonia.<BR><BR><U>EOC Commander:</U> What's the status of your BE Team at the Control Tower, Captain Williams?<BR><BR><U>Capt Williams:</U> They've ruled out chemical and radiological agents and they've run preliminary biological sampling. We're waiting on the additional confirmation from the Lab.<BR><BR><U>EOC Commander:</U> What can we conclude based on the preliminary results?]]></Tab_1>
+						<instruction><![CDATA[Click the graphic to hear the conversation, then select the correct answer.]]></instruction>
+					</Page>
+					
+					
+					<Page PageID="34470" CompentancyObj = "13" CompentancyID ="6" CompentancyText = "CBRN" CompentancyDescription = "Analyze biological agent effectiveness based on physical properties, environmental factors, and dissemination method." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 45" EPageNo="Page 45">
+						<PageName>media/Base_Page_45.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.10 Heath risk assessment</li><li>4.1.2.7 Conduct predictive exposure assessments using data and intel</li><li>4.1.13 Sample result interpretation</li><li>4.7.1 Biological hazards (viruses, bacteria, fungi, protozoa, industrial, WMD, etc.)</li><li>4.7.2 Identify/evaluate biological health hazards</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li><li>Perform HRA – Environmental</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFMAN (I) 44-156, Treatment of Biological Warfare Agent Casualties</li><li>Medical Management of Biological Casualties</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1>#</Tab_1>
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 46" MPageNo="Page 46">
+						<PageName>media/Base_Page_46.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>EOC Commander:</U> What is the incubation period for Tularemia?]]></Tab_1>
+						<instruction><![CDATA[Click the EOC Commander to hear the question, then select the correct answer.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 47" MPageNo="Page 47">
+						<PageName>media/Base_Page_47.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page EPageNo="Page 48" MPageNo="Page 48">
+						<PageName>media/Base_Page_48.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Lt Smith:</U> Alright team. I just got word from Captain Williams at the EOC. The medical group will begin issuing prophylaxis.<BR><BR>OSI will continue their investigation about the incidents and coordinate with the FBI.<BR><BR>Site clean-up procedures are being determined, so for now, let's get our equipment back to the office.]]></Tab_1>
+						<instruction><![CDATA[Click your Lieutenant to hear his final instructions.]]></instruction>
+					</Page>
+					
+					
+					
+					<Page EPageNo="Page 49" MPageNo="Page 49">
+						<PageName>media/Base_Page_49.swf</PageName>
+						<PageType>Result</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>				
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>	
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Expert:</U> The major goals of this scenario were to understand aspects of AFIMS and your role as an emergency responder and health risk assessor.<BR><BR>Important aspects of the scenario include use of hazmat skills to identify situation-specific hazards, determine equipment capability, and execute response maneuvers. Coordination with other medical group homeland defense teams and the laboratory response network enhance your ability to protect base personnel and minimize mission impact.<BR><BR>There are many possible approaches when dealing with these situations and this scenario depicts one such approach.<BR><BR>Take a look at the listed objectives. Notice areas where you excelled and areas where you may want to brush up.<BR><BR>Print this feedback form for your reference. If you have further questions see your immediate supervisor for assistance.]]></Tab_1>
+						<instruction><![CDATA[Print your feedback form for your records, then click Continue to return to the Menu.]]></instruction>
+						<instruction_1><![CDATA[You've completed this scenario. Print this page, then proceed for feedback.]]></instruction_1>
+						<instruction_2><![CDATA[Print your feedback form for your records, then click Continue to return to the Menu.]]></instruction_2>
+					
+					</Page>
+				
+			</Pages>
+		</Topic>	
+		
+</MLesson>
+
+
+
+</Topics>
+</Lessons>				

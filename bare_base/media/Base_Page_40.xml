@@ -1,0 +1,27 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select all that apply, then click Done.]]></instructiontext>
+
+	<questiontextL><![CDATA[Your NCO team is utilizing the CHPPM water sample collection kit to collect samples for chemical and radiological analysis. It may take 2-3 weeks for CHPPM to receive and analyze the samples.<br><br>When preparing these samples, which three of the following steps are necessary?]]></questiontext>
+	
+	<questiontextM><![CDATA[The NCO team is utilizing the CHPPM water sample collection kit to collect samples for chemical and radiological analysis. It may take 2-3 weeks for CHPPM to receive and analyze the samples.<br><br>When preparing these samples, which three of the following steps are necessary?]]></questiontext>
+			
+	<options>
+			<option><![CDATA[Preserve the samples]]></option>
+			<option><![CDATA[Prepare triple packing]]></option>
+			<option><![CDATA[Complete a chain of custody]]></option>	
+			<option><![CDATA[Chill your samples to 4 degrees Celsius]]></option>
+			<option><![CDATA[Complete hazmat shipment paperwork]]></option>	
+			<option><![CDATA[Send duplicate samples]]></option>
+	</options>
+
+	<correct_options><![CDATA[1,3,4]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

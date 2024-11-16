@@ -1,0 +1,24 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I: Assessing the Situation</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[Which of the chemicals, if mixed together, could present additional hazards to personnel?]]></questiontext>
+	    <text51><![CDATA[IC]]></text51>
+ 		<options>
+			<option><![CDATA[Hydrochloric Acid and Hydrogen Peroxide]]></option>
+			<option><![CDATA[Ammonia and Diesel Fuel]]></option>		
+			<option><![CDATA[Ammonia and Hydrogen Peroxide]]></option>
+			<option><![CDATA[Ammonia and Hydrochloric Acid]]></option>
+			<option><![CDATA[All of the above]]></option>
+			
+		</options>
+
+		<correct_option><![CDATA[5]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

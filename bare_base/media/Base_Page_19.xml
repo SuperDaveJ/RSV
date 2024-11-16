@@ -1,0 +1,22 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I: Assessing the Situation</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[During the visit, the team noticed that the installation has a sophisticated treatment system which includes filtration, activated carbon treatment, chlorination, and pH adjustment.  Also, they draw water from groundwater aquifers several hundred feet below the ground.<BR><BR>From a sanitary survey perspective, what level of risk is associated with water produced by this system?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Low Risk]]></option>
+			<option><![CDATA[Medium Risk]]></option>		
+			<option><![CDATA[High Risk]]></option>
+			
+		</options>
+
+		<correct_option><![CDATA[1]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

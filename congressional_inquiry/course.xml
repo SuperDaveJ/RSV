@@ -1,0 +1,1141 @@
+<Lessons>
+
+<Topics>
+
+	<DebugMode>Yes</DebugMode>
+		
+	<help>Yes</help>
+	
+	<Menu>Yes</Menu>
+
+	<Exit>Yes</Exit>	
+
+	<CourseTitle>Air Force Medical Support Agency</CourseTitle>
+
+<MLesson>
+	<LessonName>Air Force Medical Support Agency</LessonName>
+		<Topic>
+			<TopicName>Scenario 4</TopicName>
+			<Pages>			
+					<Page>
+						<PageName>media/Base_Page_00.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Unit Deployment Manager</U>: Maj Marks, you are being deployed with three members of your BE team to Woodruff AB located in County X. As you will recall, this base was originally occupied by the Soviets during the Cold War. After the fall of the Soviet Union, the base was abandoned. Two years ago, coalition forces set up the base to support EC-130s and AWACS aircraft. Since then, Navy and Marines have established camps on the base to support regional operations. Your transport will be leaving at 0700. You are being sent to conduct an assessment for a Congressional Inquiry. Your mission briefing will be provided once in route.]]></Tab_1>
+						<instruction><![CDATA[Click the highlighted selection point to access the assessment.]]></instruction>
+					</Page>
+
+					<Page Name="Team Lead" LPageNo="Page 1">
+						<PageName>media/Base_Page_01_L.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Intel Officer</U>: Maj Marks this is Intel with your briefing.<BR><BR><U>BE Team Lead, Maj Marks</U>: We are in route to Woodruff and should be on the ground shortly.<BR><BR><U>Intel Officer</U>: I know you and your team were at this base two years ago. A lot has changed since then. The base is now shared with other joint forces. They have each set up their main camps in different sectors of the base. A SeaBee team established their billeting area outside of the originally planned base perimeter. They located there after your team completed the assessment of the installation and assisted with site selections.<BR><BR><U>BE Team Lead, Maj Marks</U>: How long were the SeaBees there?<BR><BR><U>Intel Officer</U>: Each SeaBee unit spends about a year at Woodruff before returning to the States. The most recent unit that has returned has been experiencing a number of health problems. After several trips to civilian doctors and no luck in finding the source of their illness, one of the SeaBees contacted their Congressman. The base Commander received notice several weeks ago of a pending Congressional Inquiry regarding the situation. Your team is here to conduct an assessment to determine what hazards, if any, are being posed to the SeaBee team and what exposures they may have received during previous rotations.<BR><BR><U>BE Team Lead, Maj Marks</U>: What is our timeline?<BR><BR><U>Intel Officer</U>: The time is currently 0600. Your team has exactly 48 hours to complete this process and submit your findings.<BR><BR><U>BE Team Lead, Maj Marks</U>: Thanks for the information.<BR><BR><U>Narrator</U>: The stopwatch in the upper right hand corner of the screen will track the time you have remaining.]]></TranscriptText>
+						<!-- <Tab_3><![CDATA[]]></Tab_3> -->
+						<instruction><![CDATA[]]></instruction>
+					</Page>	
+					
+					<Page Name="Team Member" MPageNo="Page 1">
+						<PageName>media/Base_Page_01_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>BE Team Lead, Maj Marks</U>: I just received briefing information from the base command. We're landing at Woodruff. This base is shared with other joint forces that have set up their main camps in different sectors of the base. A SeaBee team established their billeting area outside of the originally planned base perimeter. They located there after we completed our initial assessment of the installation and made site selections two years ago.<BR><BR>Each SeaBee unit spends about a year at Woodruff before returning to the States. The most recent unit that has returned has been experiencing a number of health problems. The docs were not able to find the source of the illness, so one of the SeaBees contacted their Congressman. The base Commander received notice several weeks ago of a pending Congressional Inquiry regarding the situation.<BR><BR>We're here to conduct an assessment to determine what hazards, if any, are being posed to the SeaBee team and what exposures they may have received during their stay.<BR><BR>The time is currently 0600. We have exactly 48 hours to complete this process and submit our findings to the base Commander.<BR><BR><U>Narrator</U>: The stopwatch in the upper right hand corner of the screen will track the time you have remaining.]]></TranscriptText>
+						<!-- <Tab_3><![CDATA[]]></Tab_3> -->
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+
+					<Page MPageNo="Page 2" LPageNo="Page 2">
+						<PageName>media/Base_Page_02.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator</U>: Maj Kyle Marks is the BE Team Lead and specializes in Bioenvironmental Engineering and is a Certified Industrial Hygienist.<BR><BR><U>Narrator</U>: SSgt Daniel Johnson is a BE-5 Level and specializes in environmental assessments.<BR><BR><U>Narrator</U>: SrA Francesca Mukoda is also a BE-5 Level and specializes in Industrial Hygiene.<BR><BR><U>Narrator</U>: TSgt Isabella Hopper is a BE-7 Level and specializes in environmental assessments.]]></TranscriptText>
+						<!-- <Tab_1><![CDATA[]]></Tab_1> -->
+						<instruction><![CDATA[Select Start, then the Next/Back buttons to learn more about your team members.]]></instruction>
+					</Page>
+				
+					<Page Name="Team Lead" LPageNo="Page 3">
+						<PageName>media/Base_Page_03_L.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Commander, Col Potts</U>: Welcome to Woodruff.<BR><BR><U>BE Team Lead, Maj Marks</U>: Glad to be here, ma'am.<BR><BR><U>Commander, Col Potts</U>: I need to get some information to this Congressman pronto. I need you and your team to find out if those troops were exposed to something that's making them sick.<BR><BR><U>BE Team Lead, Maj Marks</U>: Do we have anymore information about specific symptoms of the SeaBees?<BR><BR><U>Commander, Col Potts</U>: No, we don't have any specifics.<BR><BR><U>BE Team Lead, Maj Marks</U>: We're on it, ma'am.<BR><BR><U>Commander, Col Potts</U>: Thanks.]]></Tab_1>
+						<Tab_2><![CDATA[<U>Commander, Col Potts</U>: Welcome to Woodruff.<BR><BR><U>BE Team Lead, Maj Marks</U>: Glad to be here, ma'am.<BR><BR><U>Commander, Col Potts</U>: I need to get some information to this Congressman pronto. I need you and your team to find out if those troops were exposed to something that's making them sick.<BR><BR><U>BE Team Lead, Maj Marks</U>: Do we have anymore information about specific symptoms of the SeaBees?<BR><BR><U>Commander, Col Potts</U>: No, we don't have any specifics.<BR><BR><U>BE Team Lead, Maj Marks</U>: We're on it, ma'am.<BR><BR><U>Commander, Col Potts</U>: Thanks.]]></Tab_2>
+						<instruction><![CDATA[Click the graphic to hear the conversation between you and Col Potts.]]></instruction>
+					</Page>	
+					
+					<Page Name="Team Member" MPageNo="Page 3">
+						<PageName>media/Base_Page_03_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Team Lead, Maj Marks</U>: TSgt Hopper, for the report to the Commander, we're going to need accurate notes to make recommendations. Only vital information needs to be included. Before I submit the report, you and I will meet to decide what information to include.<BR><BR><U>BE Team Member, TSgt Hopper</U>: Do we have any more information about specific symptoms of the SeaBees?<BR><BR><U>BE Team Lead, Maj Marks</U>: No, we don't have more specifics. We'll need to approach this broadly.<BR><BR><U>BE Team Member, TSgt Hopper</U>: Yes sir, I'll let you know what we find.]]></Tab_1>
+						<Tab_2><![CDATA[<U>BE Team Lead, Maj Marks</U>: TSgt Hopper, for the report to the Commander, we're going to need accurate notes to make recommendations. Only vital information needs to be included. Before I submit the report, you and I will meet to decide what information to include.<BR><BR><U>BE Team Member, TSgt Hopper</U>: Do we have any more information about specific symptoms of the SeaBees?<BR><BR><U>BE Team Lead, Maj Marks</U>: No, we don't have more specifics. We'll need to approach this broadly.<BR><BR><U>BE Team Member, TSgt Hopper</U>: Yes sir, I'll let you know what we find.]]></Tab_2>
+						<instruction><![CDATA[Click the graphic to hear the conversation between you and Maj Marks.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Member" PageID="41040" CompentancyObj = "1" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Utilize intelligence sources and other data points to effectively conduct a site assessment." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 4" >
+						<PageName>media/Base_Page_04_M.swf</PageName>
+						<STS_Line><![CDATA[<li>1.2.2 Roles and interactions of BE with other agencies</li><li>4.1.2.1 Site Selection</li><li>5.2.1 Review of response publications and intelligence</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFI 10-2501, AF Emergency Management Program Planning and Operations</li><li>AFMAN 10-2502, AF Incident Mgmt System (AFIMS) Standards and Procedures </li><li>AFMAN 48-154, Occupational and Environmental Health Site Assessment</li><li>OEHSA Documentation and Data Management Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>	
+						<lifeLine>No</lifeLine>	
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Team Member, SSgt Johnson:</U> Sounds like we're in a real time crunch to get our findings to the Commander. <BR><BR><U>BE Team Member, SrA Mukoda:</U> We need to get to the site right away. This place has really changed since we were here.<BR><BR><U>BE Team Lead, Maj Marks:</U> What sources of information do you plan on using to gather relevant information about the site?]]></Tab_1>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+
+					<Page Name="Team Lead" PageID="41040" CompentancyObj = "1" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Utilize intelligence sources and other data points to effectively conduct a site assessment." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 4">
+						<PageName>media/Base_Page_04_L.swf</PageName>
+						<STS_Line><![CDATA[<li>1.2.2 Roles and interactions of BE with other agencies</li><li>4.1.2.1 Site Selection</li><li>5.2.1 Review of response publications and intelligence</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFI 10-2501, AF Emergency Management Program Planning and Operations</li><li>AFMAN 10-2502, AF Incident Mgmt System (AFIMS) Standards and Procedures </li><li>AFMAN 48-154, Occupational and Environmental Health Site Assessment</li><li>OEHSA Documentation and Data Management Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>	
+						<lifeLine>No</lifeLine>	
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Team Member, SSgt Johnson</U>: Sounds like we're in a real time crunch to get our findings to the Commander. <BR><BR><U>BE Team Member, SrA Mukoda</U>: We need to get to the site right away. This place has really changed since we were here.<BR><BR><U>Narrator</U>: What sources of information should your team use to gather relevant information about the site? ]]></Tab_1>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					
+										
+					<Page Name="Team Member" MPageNo="Page 5">
+						<PageName>media/Base_Page_05_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+
+						<Tab_1><![CDATA[<U>Intel Officer</U>: I don't have a great deal of information for you about the site. Apparently the Soviets hid the site from our satellites pretty well during the Cold War. There are some records that may indicate that they were using it for disposal and storage of radioactive components.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Do the records say if the radioactive components were weapons grade or if they were used for other purposes?<BR><BR><U>Intel Officer</U>: The records are very vague and, in fact, the documents are damaged. There was an accident on the base which caused a fire where they were being stored and many of the supporting documents were destroyed.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Are there any records of a Health Risk Assessment for the area where the SeaBees are beddown?<BR><BR><U>Intel Officer</U>: The only Health Risk Assessment for the base was the one your team did two years ago and that didn't cover this area. We didn't have plans to put anyone or anything there.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Have you been able to gather any additional information that may be important for us?<BR><BR><U>Intel Officer</U>: I do have a copy of the weather reports for last week. Looks like there were high winds and some minor dust storms in the evenings over the installation. I'll send you this weather summary report through email right now. Stand by.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Thanks. Standing by.<BR><BR><U>Intel Officer</U>: Roger.]]></Tab_1>
+						<Tab_2><![CDATA[<U>Intel Officer</U>: I don't have a great deal of information for you about the site. Apparently the Soviets hid the site from our satellites pretty well during the Cold War. There are some records that may indicate that they were using it for disposal and storage of radioactive components.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Do the records say if the radioactive components were weapons grade or if they were used for other purposes?<BR><BR><U>Intel Officer</U>: The records are very vague and, in fact, the documents are damaged. There was an accident on the base which caused a fire where they were being stored and many of the supporting documents were destroyed.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Are there any records of a Health Risk Assessment for the area where the SeaBees are beddown?<BR><BR><U>Intel Officer</U>: The only Health Risk Assessment for the base was the one your team did two years ago and that didn't cover this area. We didn't have plans to put anyone or anything there.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Have you been able to gather any additional information that may be important for us?<BR><BR><U>Intel Officer</U>: I do have a copy of the weather reports for last week. Looks like there were high winds and some minor dust storms in the evenings over the installation. I'll send you this weather summary report through email right now. Stand by.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Thanks. Standing by.<BR><BR><U>Intel Officer</U>: Roger.]]></Tab_2>
+
+						<instruction><![CDATA[Click the graphic to hear the conversation with the Intel Officer.]]></instruction>
+					</Page>
+
+					<Page Name="Team Lead" LPageNo="Page 5">
+						<PageName>media/Base_Page_05_L.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+
+						<Tab_1><![CDATA[<U>Intel Officer</U>: I don't have a great deal of information for you about the site. Apparently the Soviets hid the site from our satellites pretty well during the Cold War. There are some records that may indicate that they were using it for disposal and storage of radioactive components.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Do the records say if the radioactive components were weapons grade or if they were used for other purposes?<BR><BR><U>Intel Officer</U>: The records are very vague and, in fact, the documents are damaged. There was an accident on the base which caused a fire where they were being stored and many of the supporting documents were destroyed.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Are there any records of a Health Risk Assessment for the area where the SeaBees are beddown?<BR><BR><U>Intel Officer</U>: The only Health Risk Assessment for the base was the one your team did two years ago and that didn't cover this area. We didn't have plans to put anyone or anything there.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Have you been able to gather any additional information that may be important for us?<BR><BR><U>Intel Officer</U>: I do have a copy of the weather reports for last week. Looks like there were high winds and some minor dust storms in the evenings over the installation. I'll send you this weather summary report through email right now. Stand by.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Thanks. Standing by.<BR><BR><U>Intel Officer</U>: Roger.]]></Tab_1>
+						<Tab_2><![CDATA[<U>Intel Officer</U>: I don't have a great deal of information for you about the site. Apparently the Soviets hid the site from our satellites pretty well during the Cold War. There are some records that may indicate that they were using it for disposal and storage of radioactive components.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Do the records say if the radioactive components were weapons grade or if they were used for other purposes?<BR><BR><U>Intel Officer</U>: The records are very vague and, in fact, the documents are damaged. There was an accident on the base which caused a fire where they were being stored and many of the supporting documents were destroyed.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Are there any records of a Health Risk Assessment for the area where the SeaBees are beddown?<BR><BR><U>Intel Officer</U>: The only Health Risk Assessment for the base was the one your team did two years ago and that didn't cover this area. We didn't have plans to put anyone or anything there.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Have you been able to gather any additional information that may be important for us?<BR><BR><U>Intel Officer</U>: I do have a copy of the weather reports for last week. Looks like there were high winds and some minor dust storms in the evenings over the installation. I'll send you this weather summary report through email right now. Stand by.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Thanks. Standing by.<BR><BR><U>Intel Officer</U>: Roger.]]></Tab_2>
+
+
+
+						<instruction><![CDATA[Click the graphic to hear the conversation with the Intel Officer.]]></instruction>
+					</Page>
+
+					
+					<Page Name="Team Member" MPageNo="Page 6">
+						<PageName>media/Base_Page_06_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+
+					<Page Name="Team Lead" LPageNo="Page 6">
+						<PageName>media/Base_Page_06_L.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 7" LPageNo="Page 7">
+						<PageName>media/Base_Page_07.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Team Lead, Maj Marks</U>: O.K., this is the SeaBee compound. Like I said earlier, the Soviets used this area during the Cold War; we just don't know for what. It's a strong possibility that they used it for either storage or disposal of certain radioactive compounds or maybe even for weapons testing.<BR><BR><U>BE Team Member, SrA Mukoda</U>: Do we know the history of the base from the time the Soviets left to the time joint forces began using it?<BR><BR><U>BE Team Member, SSgt Johnson</U>: The information I have is minimal. A couple reports talk about this area being used for textile manufacturing by other countries after the Soviets left. A couple of the other reports talk about biological and radiological testing. We didn't find any radiological readings above background for the main base area when we were here before, but we need to assess the site now.<BR><BR><U>BE Team Lead, Maj Marks</U>: Great thought. Let's not forget to use the intel we have as we gather more data. Also, the utilities personnel said that they're still using the same water treatment system that was put in place two years ago, so our analysis from that time should be sufficient.<BR><BR><U>BE Team Member, TSgt Hopper</U>: We'll start working on the sampling plan for the SeaBee site.]]></Tab_1>
+						<Tab_2><![CDATA[<U>BE Team Lead, Maj Marks</U>: O.K., this is the SeaBee compound. Like I said earlier, the Soviets used this area during the Cold War; we just don't know for what. It's a strong possibility that they used it for either storage or disposal of certain radioactive compounds or maybe even for weapons testing.<BR><BR><U>BE Team Member, SrA Mukoda</U>: Do we know the history of the base from the time the Soviets left to the time joint forces began using it?<BR><BR><U>BE Team Member, SSgt Johnson</U>: The information I have is minimal. A couple reports talk about this area being used for textile manufacturing by other countries after the Soviets left. A couple of the other reports talk about biological and radiological testing. We didn't find any radiological readings above background for the main base area when we were here before, but we need to assess the site now.<BR><BR><U>BE Team Lead, Maj Marks</U>: Great thought. Let's not forget to use the intel we have as we gather more data. Also, the utilities personnel said that they're still using the same water treatment system that was put in place two years ago, so our analysis from that time should be sufficient.<BR><BR><U>BE Team Member, TSgt Hopper</U>: We'll start working on the sampling plan for the SeaBee site.]]></Tab_2>
+						<Tab_3><![CDATA[<U>BE Team Lead, Maj Marks</U>: O.K., this is the SeaBee compound. Like I said earlier, the Soviets used this area during the Cold War; we just don't know for what. It's a strong possibility that they used it for either storage or disposal of certain radioactive compounds or maybe even for weapons testing.<BR><BR><U>BE Team Member, SrA Mukoda</U>: Do we know the history of the base from the time the Soviets left to the time joint forces began using it?<BR><BR><U>BE Team Member, SSgt Johnson</U>: The information I have is minimal. A couple reports talk about this area being used for textile manufacturing by other countries after the Soviets left. A couple of the other reports talk about biological and radiological testing. We didn't find any radiological readings above background for the main base area when we were here before, but we need to assess the site now.<BR><BR><U>BE Team Lead, Maj Marks</U>: Great thought. Let's not forget to use the intel we have as we gather more data. Also, the utilities personnel said that they're still using the same water treatment system that was put in place two years ago, so our analysis from that time should be sufficient.<BR><BR><U>BE Team Member, TSgt Hopper</U>: We'll start working on the sampling plan for the SeaBee site.]]></Tab_3>
+						<Tab_4><![CDATA[<U>BE Team Lead, Maj Marks</U>: O.K., this is the SeaBee compound. Like I said earlier, the Soviets used this area during the Cold War; we just don't know for what. It's a strong possibility that they used it for either storage or disposal of certain radioactive compounds or maybe even for weapons testing.<BR><BR><U>BE Team Member, SrA Mukoda</U>: Do we know the history of the base from the time the Soviets left to the time joint forces began using it?<BR><BR><U>BE Team Member, SSgt Johnson</U>: The information I have is minimal. A couple reports talk about this area being used for textile manufacturing by other countries after the Soviets left. A couple of the other reports talk about biological and radiological testing. We didn't find any radiological readings above background for the main base area when we were here before, but we need to assess the site now.<BR><BR><U>BE Team Lead, Maj Marks</U>: Great thought. Let's not forget to use the intel we have as we gather more data. Also, the utilities personnel said that they're still using the same water treatment system that was put in place two years ago, so our analysis from that time should be sufficient.<BR><BR><U>BE Team Member, TSgt Hopper</U>: We'll start working on the sampling plan for the SeaBee site.]]></Tab_4>
+						<instruction><![CDATA[Click the graphic to hear your team briefing.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Member" PageID="41080" CompentancyObj = "2" CompentancyID ="1,2" CompentancyText = "BE Basics &#38; Air" CompentancyDescription = "Determine types of sampling to be conducted." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 8">
+						<PageName>media/Base_Page_08_M.swf</PageName>
+						<STS_Line><![CDATA[<li>4.5.1.1 Sampling methodology (solid, liquid, gas)</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AIHA, The Occupational Environment: Its Evaluation, Control and Management</li><li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>Yes</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+
+					<Page Name="Team Lead" PageID="41080" CompentancyObj = "2" CompentancyID ="1,2" CompentancyText = "BE Basics &#38; Air" CompentancyDescription = "Determine types of sampling to be conducted." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 8">
+						<PageName>media/Base_Page_08_L.swf</PageName>
+						<STS_Line><![CDATA[<li>4.5.1.1 Sampling methodology (solid, liquid, gas)</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AIHA, The Occupational Environment: Its Evaluation, Control and Management</li><li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+					
+						<Page MPageNo="Page 9" LPageNo="Page 9">
+						<PageName>media/Base_Page_09.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+
+						<Tab_1><![CDATA[<U>BE Team Member, SSgt Johnson</U>: BE Team.<BR><BR><U>Intel Officer</U>: I have new intel concerning your site.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Go ahead.<BR><BR><U>Intel Officer</U>: The site is rumored to have been the center of a nuclear test site with a primary mission to develop radiological weapons using new isotopes during the Cold War. Recommendations are to proceed with caution.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Copy. Thanks for the heads up.]]></Tab_1>
+						<Tab_2><![CDATA[<U>BE Team Member, SSgt Johnson</U>: BE Team.<BR><BR><U>Intel Officer</U>: I have new intel concerning your site.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Go ahead.<BR><BR><U>Intel Officer</U>: The site is rumored to have been the center of a nuclear test site with a primary mission to develop radiological weapons using new isotopes during the Cold War. Recommendations are to proceed with caution.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Copy. Thanks for the heads up.]]></Tab_2>
+
+						<instruction><![CDATA[Click the graphic to hear the conversation with the Intel Officer.]]></instruction>
+					</Page>		
+					
+					<Page Name="Team Lead" PageID="41100" CompentancyObj = "3" CompentancyID ="6" CompentancyText = "CBRN" CompentancyDescription = "Relate the correct radiological/nuclear equipment with the capability." CompentancyTopic = "Hazard Assessment and Response" LPageNo="Page 10">
+						<PageName>media/Base_Page_10_L.swf</PageName>
+						<STS_Line><![CDATA[<li>6.15 Radiation detection equipment (theory of operation, capabilities, limitations of each)</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Radiation</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>451P User's Pamphlet</li><li>ADM-300 User's Manual</li><li>EPD User's Manual</li><li>SAM 940 User's Manual</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the appropriate answers, <BR>then click Done.]]></instruction>
+					</Page>
+
+					<Page Name="Team Member" PageID="41100" CompentancyObj = "3" CompentancyID ="6" CompentancyText = "CBRN" CompentancyDescription = "Relate the correct radiological/nuclear equipment with the capability." CompentancyTopic = "Hazard Assessment and Response" MPageNo="Page 10">
+						<PageName>media/Base_Page_10_M.swf</PageName>
+						<STS_Line><![CDATA[<li>6.15 Radiation detection equipment (theory of operation, capabilities, limitations of each)</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Radiation</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>451P User's Pamphlet</li><li>ADM-300 User's Manual</li><li>EPD User's Manual</li><li>SAM 940 User's Manual</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the appropriate answers, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Member"  PageID="41110" CompentancyObj = "4" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Identify number and soil/solid samples needed." CompentancyTopic = "Hazard Assessment and Response" MPageNo="Page 11">
+						<PageName>media/Base_Page_11_M.swf</PageName>
+						<STS_Line><![CDATA[<li>4.5.3.1 Sampling methods for soils and solids</li><li>4.5.3.2 Determine or establish soil/solid sampling strategies</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Soil</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>BE Field Manual</li><li>EPA Soil Sampling Quality Assurance User's Guide</li><li>NIOSH Publication 77-173, Occupational Exposure Sampling Strategy Manual</li><li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>Yes</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Team Member, SSgt Johnson</U>: After surveying the site for soil type and uniformity and taking into consideration the relatively small size, we've determined that we can treat the site as a homogenous area. Environmental variability is assumed to be moderate.]]></Tab_1>
+						<instruction><![CDATA[Click SSgt Johnson & the Lifeline to learn more, then select the correct answers.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" PageID="41110" CompentancyObj = "4" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Identify number and soil/solid samples needed." CompentancyTopic = "Hazard Assessment and Response" LPageNo="Page 11">
+						<PageName>media/Base_Page_11_L.swf</PageName>
+						<STS_Line><![CDATA[<li>4.5.3.1 Sampling methods for soils and solids</li><li>4.5.3.2 Determine or establish soil/solid sampling strategies</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Soil</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>BE Field Manual</li><li>EPA Soil Sampling Quality Assurance User's Guide</li><li>NIOSH Publication 77-173, Occupational Exposure Sampling Strategy Manual</li><li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>Yes</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Team Member, SSgt Johnson</U>: Major Marks, after surveying the site for soil type and uniformity and taking into consideration the relatively small size, I recommend that we treat the site as a homogenous area. We're assuming environmental variability to be moderate.]]></Tab_1>
+						<instruction><![CDATA[Click SSgt Johnson & the Lifeline to learn more, then select the correct answers.]]></instruction>
+					</Page>
+
+					<Page Name="Team Lead" PageID="42120" CompentancyObj = "5" CompentancyID ="5" CompentancyText = "Equip" CompentancyDescription = "Using WBGT measurements and workload, recommend appropriate controls." CompentancyTopic = "Equipment Selection and Capabilities" LPageNo="Page 12">
+						<PageName>media/Base_Page_12_L.swf</PageName>
+						<STS_Line><![CDATA[<li>4.12.3 Analyze thermal stress hazards (i.e.,  WBGT)</li><li>4.12.4 Recommend thermal stress controls</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>ACGIH Threshold Limit Values (TLVs) for Chemical Substances and Physical Agents and Biological Exposure Indices (BEIs)</li><li>AFPAM 48-151, Thermal Injury</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Team Member TSgt Hopper</U>: I just took the latest WBGT reading. The index is 87.5&#176;F and it's the hottest part of the day. Even with your direction that no PPE is required at this time, I thought you might need the WBGT to consider establishing work-rest times.]]></Tab_1>
+						<instruction><![CDATA[Click TSgt Hopper for more information, then select the correct answer.]]></instruction>
+					</Page>
+
+					<Page Name="Team Member" PageID="42120" CompentancyObj = "5" CompentancyID ="5" CompentancyText = "Equip" CompentancyDescription = "Using WBGT measurements and workload, recommend appropriate controls." CompentancyTopic = "Equipment Selection and Capabilities" MPageNo="Page 12">
+						<PageName>media/Base_Page_12_M.swf</PageName>
+						<STS_Line><![CDATA[<li>4.12.3 Analyze thermal stress hazards (i.e.,  WBGT)</li><li>4.12.4 Recommend thermal stress controls</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>ACGIH Threshold Limit Values (TLVs) for Chemical Substances and Physical Agents and Biological Exposure Indices (BEIs)</li><li>AFPAM 48-151, Thermal Injury</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>TSgt Hopper</U>: Maj Marks delivered the order that no PPE is needed for the mission during the initial assessment.<BR><BR>I just received the latest WBGT reading. The index is 87.5&#176;F and it's the hottest part of the day. Let's make sure work and rest times are according to established base standards.]]></Tab_1>
+						<instruction><![CDATA[Click TSgt Hopper for more information, then select the correct answer.]]></instruction>
+					</Page>
+								
+					
+
+					<Page Name="Team Lead" LPageNo="Page 13">
+						<PageName>media/Base_Page_13_L.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator</U>: Together, your team will conduct an assessment of the SeaBee billeting area. You will be conducting an assessment for radiation hazards. SSgt Johnson will be setting up RADeCO air samplers, while SrA Mukoda conducts screening samples for chemicals and TSgt Hopper screens for metals. The team will work their way through the entire camp using a pre-developed grid map with each person documenting their findings.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+
+					<Page Name="Team Member" MPageNo="Page 13">
+						<PageName>media/Base_Page_13_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator</U>: Your team will conduct an assessment of the SeaBee billeting area.<BR><BR>Maj Marks will be conducting an assessment for radiation hazards. SSgt Johnson will be setting up RADeCo air samplers, while SrA Mukoda conducts screening samples for chemicals and TSgt Hopper screens for metals.<BR><BR>They will work their way through the entire camp using a pre-developed grid map. Be sure to document your findings.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+				<Page Name="Team Lead" PageID="42140" CompentancyObj = "6" CompentancyID ="5,6" CompentancyText = "Equip &#38; CBRN" CompentancyDescription = "Match detection instruments with their respective capabilities." CompentancyTopic = "Equipment Selection and Capabilities" LPageNo="Page 14">
+						<PageName>media/Base_Page_14_L.swf</PageName>
+						<PageType>Animation</PageType>
+						<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li><li>4.5.3.4 Soil/solid sampling devices</li><li>6.15 Radiation detection equipment (theory of operation, capabilities, limitations of each)</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Soil</li><li>Perform HRA – Air</li><li>Perform HRA – Radiation</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>451P User's Pamphlet</li><li>ADM-300 User's Manual</li><li>HAPSITE Guidance Document</li><li>RADeCO User's Manual</li><li>SAM 940 Field Guide </li><li>TVA-1000B User's Manual</li><li>XRF User's Manual</li>]]></Training_Reference>
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the appropriate answers, <BR>then click Done.]]></instruction>
+					</Page>
+
+					<Page Name="Team Member" PageID="42140" CompentancyObj = "6" CompentancyID ="5,6" CompentancyText = "Equip &#38; CBRN" CompentancyDescription = "Match detection instruments with their respective capabilities." CompentancyTopic = "Equipment Selection and Capabilities" MPageNo="Page 14">
+						<PageName>media/Base_Page_14_M.swf</PageName>
+						<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li><li>4.5.3.4 Soil/solid sampling devices</li><li>6.15 Radiation detection equipment (theory of operation, capabilities, limitations of each)</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Soil</li><li>Perform HRA – Air</li><li>Perform HRA – Radiation</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>451P User's Pamphlet</li><li>ADM-300 User's Manual</li><li>HAPSITE Guidance Document</li><li>RADeCO User's Manual</li><li>SAM 940 Field Guide </li><li>TVA-1000B User's Manual</li><li>XRF User's Manual</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the appropriate answers, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" LPageNo="Page 15">
+						<PageName>media/Base_Page_15_L.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Team Member, SrA Mukoda</U>: I spoke with a SeaBee at the camp. He said that personnel normally spend approximately 8 hours per day in the billeting area.]]></Tab_1>
+						<Tab_2><![CDATA[<U>BE Team Member, SrA Mukoda</U>: I spoke with a SeaBee at the camp. He said that personnel normally spend approximately 8 hours per day in the billeting area.]]></Tab_2>
+						<Tab_3><![CDATA[<U>BE Team Member, SrA Mukoda</U>: I spoke with a SeaBee at the camp. He said that personnel normally spend approximately 8 hours per day in the billeting area.]]></Tab_3>
+						<instruction><![CDATA[Click on each piece of equipment<br>for more information.]]></instruction>
+					</Page>
+
+					<Page Name="Team Member" MPageNo="Page 15">
+						<PageName>media/Base_Page_15_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Team Lead, Maj Marks</U>: I thought I'd let you know, I spoke with a SeaBee at the camp. He said that personnel normally spend approximately 8 hours per day in the billeting area. Let's keep that in mind while we review these results.]]></Tab_1>
+						<Tab_2><![CDATA[<U>BE Team Lead, Maj Marks</U>: I thought I'd let you know, I spoke with a SeaBee at the camp. He said that personnel normally spend approximately 8 hours per day in the billeting area. Let's keep that in mind while we review these results.]]></Tab_2>
+						<Tab_3><![CDATA[<U>BE Team Lead, Maj Marks</U>: I thought I'd let you know, I spoke with a SeaBee at the camp. He said that personnel normally spend approximately 8 hours per day in the billeting area. Let's keep that in mind while we review these results.]]></Tab_3>
+						<instruction><![CDATA[Click on each piece of equipment<br>for more information.]]></instruction>
+					</Page>
+										
+					<Page PageID="42160" CompentancyObj = "7" CompentancyID ="1,6" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Determine total effective dose equivalent standards for the general public." CompentancyTopic = "Equipment Selection and Capabilities" MPageNo="Page 16" LPageNo="Page 16">
+						<PageName>media/Base_Page_16.swf</PageName>
+						<STS_Line><![CDATA[<li>3.2.1 Solve calculations using basic arithmetic functions (add, subtract, multiply, and divide whole numbers, fractions, and decimals)</li><li>4.5.1.5.1 Select appropriate occupational and environmental exposure limits (OEEL)</li><li>4.5.2.10 Calculate equivalent OEELs</li><li>4.9.2.13 Perform ionizing radiation calculations (dose, dose rate, stay time, protection factors, decay, etc.)</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Radiation</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFI 48-148, Ionizing Radiation Protection Program</li><li>BE Guide to Ionizing Radiation</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page PageID="42170" CompentancyObj = "8" CompentancyID ="6" CompentancyText = "CBRN" CompentancyDescription = "Interpret ionizing radiation exposures and compare to established standards." CompentancyTopic = "Equipment Selection and Capabilities" MPageNo="Page 17" LPageNo="Page 17">
+						<PageName>media/Base_Page_17.swf</PageName>
+						<STS_Line><![CDATA[<li>3.2.1  Solve calculations using basic arithmetic functions (add, subtract, multiply, and divide whole numbers, fractions, and decimals)</li><li>4.1.2.9 Associate exposure with affected personnel using spatial and temporal reference marks</li><li>4.1.10 Health risk assessment</li><li>4.1.13 Sample results interpretation</li><li>4.9.2.13 Perform ionizing radiation calculations (dose, dose rate, stay time, protection factors, decay, etc.)</li><li>6.25 Evaluate personnel exposure/risk assessment</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li><li>Perform HRA – Radiation</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFI 48-148, Ionizing Radiation Protection Program</li><li>BE Guide to Ionizing Radiation</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+
+					<Page MPageNo="Page 18" LPageNo="Page 18">
+						<PageName>media/Base_Page_18.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 19" LPageNo="Page 19">
+						<PageName>media/Base_Page_19.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Team Member, SrA Mukoda</U>: Feels like it's going to be a scorcher today.<BR><BR><U>BE Team Member, TSgt Hopper</U>: Yes it does. The latest wet-bulb reading was already 78&#176;F.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Another day in paradise. So Major, what's on the agenda for today?<BR><BR><U>BE Team Lead, Maj Marks</U>: Yesterday we found radiation levels above background in the SeaBee billeting area. We need to begin monitoring the site and complete a more thorough assessment. We have one day left before I present our findings to the base commander: Let's go to work.]]></Tab_1>
+						<Tab_2><![CDATA[<U>BE Team Member, SrA Mukoda</U>: Feels like it's going to be a scorcher today.<BR><BR><U>BE Team Member, TSgt Hopper</U>: Yes it does. The latest wet-bulb reading was already 78&#176;F.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Another day in paradise. So Major, what's on the agenda for today?<BR><BR><U>BE Team Lead, Maj Marks</U>: Yesterday we found radiation levels above background in the SeaBee billeting area. We need to begin monitoring the site and complete a more thorough assessment. We have one day left before I present our findings to the base commander: Let's go to work.]]></Tab_2>
+						<Tab_3><![CDATA[<U>BE Team Member, SrA Mukoda</U>: Feels like it's going to be a scorcher today.<BR><BR><U>BE Team Member, TSgt Hopper</U>: Yes it does. The latest wet-bulb reading was already 78&#176;F.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Another day in paradise. So Major, what's on the agenda for today?<BR><BR><U>BE Team Lead, Maj Marks</U>: Yesterday we found radiation levels above background in the SeaBee billeting area. We need to begin monitoring the site and complete a more thorough assessment. We have one day left before I present our findings to the base commander: Let's go to work.]]></Tab_3>
+						<Tab_4><![CDATA[<U>BE Team Member, SrA Mukoda</U>: Feels like it's going to be a scorcher today.<BR><BR><U>BE Team Member, TSgt Hopper</U>: Yes it does. The latest wet-bulb reading was already 78&#176;F.<BR><BR><U>BE Team Member, SSgt Johnson</U>: Another day in paradise. So Major, what's on the agenda for today?<BR><BR><U>BE Team Lead, Maj Marks</U>: Yesterday we found radiation levels above background in the SeaBee billeting area. We need to begin monitoring the site and complete a more thorough assessment. We have one day left before I present our findings to the base commander: Let's go to work.]]></Tab_4>
+						<instruction><![CDATA[Click the graphic to hear a conversation between your team.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" PageID="42195" CompentancyObj = "9" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Interpret and correct results for atmospheric conditions." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 20">
+						<PageName>media/Base_Page_20_L.swf</PageName>
+						<STS_Line><![CDATA[<li>4.5.2.15 Correct results for atmospheric conditions</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Air</li><li>Perform HRA – Radiation</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>RADeCO User's Manual</li><li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the appropriate answer, <BR>then click Done.]]></instruction>
+					</Page>
+
+					<Page Name="Team Member" PageID="42195" CompentancyObj = "9" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Interpret and correct results for atmospheric conditions." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 20">
+						<PageName>media/Base_Page_20_M.swf</PageName>
+						<STS_Line><![CDATA[<li>4.5.2.15 Correct results for atmospheric conditions</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Air</li><li>Perform HRA – Radiation</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>RADeCO User's Manual</li><li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the appropriate answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 21" LPageNo="Page 21">
+						<PageName>media/Base_Page_21.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the appropriate answers, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 22" LPageNo="Page 22">
+						<PageName>media/Base_Page_22.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Drag the items to the appropriate locations, then click Done.]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 23" LPageNo="Page 23">
+						<PageName>media/Base_Page_23.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>Yes</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the correct answer, then click Done. For assistance, click the Lifeline.]]></instruction>
+					</Page>
+					
+					
+
+					<Page Name="Team Lead" LPageNo="Page 24">
+						<PageName>media/Base_Page_24_L.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator</U>: Based on SrA Mukoda’s results of the 5 minute runs of the RADeCo, the calculation results in an airborne concentration of 10,025 dpm/m³ at the downwind sampling point.  Before your team can determine if respiratory protection is needed, you have to determine the isotope.  You also want to look for any additional radiation hazards.<BR><BR>TSgt Hopper has a 451P and is monitoring for gamma radiation, SSgt Johnson is using the SAM 940 and SrA Mukoda is using the ADM-300 with beta probe.  Who would you have enter the site first?]]></Tab_1>
+						<instruction><![CDATA[Drag the BE who should enter first to the entry area of the site.]]></instruction>
+					</Page>
+
+					<Page Name="Team Member" MPageNo="Page 24">
+						<PageName>media/Base_Page_24_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Team Lead, Maj Marks</U>: SrA Mukoda, based on the results of our 5 minute runs of the RADeCo, the calculation results in an airborne concentration as 10,025 dpm/m³ at the downwind sampling point.  Before we can determine if respiratory protection is needed, we have to determine the isotope.  We also want to look for any additional radiation hazards.<BR><BR>TSgt Hopper has a 451P and is monitoring for gamma radiation, SSgt Johnson is using the SAM 940 and you're using the ADM-300 with beta probe.  Who would you have enter the site first?]]></Tab_1>
+						<instruction><![CDATA[Drag the BE who should enter first to the entry area of the site.]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 25" LPageNo="Page 25">
+						<PageName>media/Base_Page_25.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Team Member, TSgt Hopper</U>: I'm getting a reading of 0.15 mR/hr at the center of the billeting area. SSgt Johnson, what are you reading?<BR><BR><U>BE Team Member, SSgt Johnson</U>: The SAM 940 is reading only one isotope: Cesium-137.<BR><BR><U>BE Team Member, SrA Mukoda</U>: The ADM-300 beta probe provided a 23.7 kCpm response.<BR><BR><U>BE Team Member, TSgt Hopper</U>: I wonder what was going on out here.<BR><BR><U>BE Team Member, SrA Mukoda</U>: I don't know, but I'm sure we'll figure it out.]]></Tab_1>
+						<Tab_2><![CDATA[<U>BE Team Member, TSgt Hopper</U>: I'm getting a reading of 0.15 mR/hr at the center of the billeting area. SSgt Johnson, what are you reading?<BR><BR><U>BE Team Member, SSgt Johnson</U>: The SAM 940 is reading only one isotope: Cesium-137.<BR><BR><U>BE Team Member, SrA Mukoda</U>: The ADM-300 beta probe provided a 23.7 kCpm response.<BR><BR><U>BE Team Member, TSgt Hopper</U>: I wonder what was going on out here.<BR><BR><U>BE Team Member, SrA Mukoda</U>: I don't know, but I'm sure we'll figure it out.]]></Tab_2>
+						<Tab_3><![CDATA[<U>BE Team Member, TSgt Hopper</U>: I'm getting a reading of 0.15 mR/hr at the center of the billeting area. SSgt Johnson, what are you reading?<BR><BR><U>BE Team Member, SSgt Johnson</U>: The SAM 940 is reading only one isotope: Cesium-137.<BR><BR><U>BE Team Member, SrA Mukoda</U>: The ADM-300 beta probe provided a 23.7 kCpm response.<BR><BR><U>BE Team Member, TSgt Hopper</U>: I wonder what was going on out here.<BR><BR><U>BE Team Member, SrA Mukoda</U>: I don't know, but I'm sure we'll figure it out.]]></Tab_3>
+
+						<instruction><![CDATA[Click the graphic to hear a conversation between your team.]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 26" LPageNo="Page 26">
+						<PageName>media/Base_Page_26.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 27" LPageNo="Page 27">
+						<PageName>media/Base_Page_27.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Team Member, SrA Mukoda</U>: Sgt Hopper, if Cesium-137 emits beta and beta particles only travel a foot in the air, why is the ADM-300 beta probe giving such a high reading when I hold it more than a foot away from any surface?<BR><BR><U>BE Team Member, TSgt Hopper</U>: The way that the ADM-300 beta probe works makes it susceptible to a gamma field. The daughter product of Cesium-137 emits gamma radiation which is actually what's being picked up by the beta probe.]]></Tab_1>
+						<Tab_2><![CDATA[<U>BE Team Member, SrA Mukoda</U>: Sgt Hopper, if Cesium-137 emits beta and beta particles only travel a foot in the air, why is the ADM-300 beta probe giving such a high reading when I hold it more than a foot away from any surface?<BR><BR><U>BE Team Member, TSgt Hopper</U>: The way that the ADM-300 beta probe works makes it susceptible to a gamma field. The daughter product of Cesium-137 emits gamma radiation which is actually what's being picked up by the beta probe.]]></Tab_2>
+						<instruction><![CDATA[Click the graphic to hear the conversation between your team members.]]></instruction>
+					</Page>
+					
+					<Page PageID="43270" CompentancyObj = "10" CompentancyID ="5,6" CompentancyText = "Equip &#38; CBRN" CompentancyDescription = "Select appropriate respiratory protection." CompentancyTopic = "Equipment Selection and Capabilities" MPageNo="Page 28" LPageNo="Page 28">
+						<PageName>media/Base_Page_28.swf</PageName>
+						<STS_Line><![CDATA[<li>4.14.5 Select RP equipment</li><li>6.16 Correct use, selection & limitations of PPE</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Radiation</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFOSH STD 48-137, Respiratory Protection Program</li><li>DoD 3150.8-M, Nuclear Accident Response Procedures (NARP)</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator</U>: After calling the USAFSAM Service Center with the isotope identification and airborne concentration of beta particles, they explained that for airborne beta particles you must compare your results to the derived air concentration (DAC) for each individual isotope. If your reading is less than the DAC, respiratory protection is not required. The Service Center confirms that your airborne concentration figure of 10,025 dpm/m&#179; is correct. The DAC for Cs-137 is 130,000. Based on the airborne concentration calculated, what level of respiratory protection is required?]]></Tab_1>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page PageID="43280" CompentancyObj = "11" CompentancyID ="6" CompentancyText = "CBRN" CompentancyDescription = "Given activity assessment data and sampling results interpret total exposure health risk." CompentancyTopic = "Hazard Assessment and Response" MPageNo="Page 29" LPageNo="Page 29">
+						<PageName>media/Base_Page_29.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.2.9 Associate exposure with affected personnel using spatial and temporal reference marks</li><li>4.1.10 Health risk assessment</li><li>4.9.2.4 Biological effects of ionizing radiation</li><li>6.25 Evaluate personnel exposure/risk assessment</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Radiation</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFI 48-148, Ionizing Radiation Protection Program</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page PageID="43290" CompentancyObj = "12" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Determine health risk based on short term exposures." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 30" LPageNo="Page 30">
+						<PageName>media/Base_Page_30.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.2.9 Associate exposure with affected personnel using spatial and temporal reference marks</li><li>4.1.10 Health risk assessment</li><li>4.9.2.4 Biological effects of ionizing radiation</li><li>6.25 Evaluate personnel exposure/risk assessment</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Radiation</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFI 48-148, Ionizing Radiation Protection Program</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" PageID="43300" CompentancyObj = "13" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Determine bioassay sampling strategy." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 31">
+						<PageName>media/Base_Page_31_L.swf</PageName>
+						<STS_Line><![CDATA[<li>6.17 Develop sampling analysis strategy (Air, water, soil, vegetation sampling strategies)</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Radiation</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFI 48-148, Ionizing Radiation Protection Program</li><li>DoD 3150.8-M, Nuclear Accident Response Procedures (NARP)</li><li>NIOSH Publication 77-173, Occupational Exposure Sampling Strategy Manual </li><li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+
+					<Page Name="Team Member" PageID="43300" CompentancyObj = "13" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Determine bioassay sampling strategy." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 31">
+						<PageName>media/Base_Page_31_M.swf</PageName>
+						<STS_Line><![CDATA[<li>6.17 Develop sampling analysis strategy (Air, water, soil, vegetation sampling strategies)</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Radiation</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFI 48-148, Ionizing Radiation Protection Program</li><li>DoD 3150.8-M, Nuclear Accident Response Procedures (NARP)</li><li>NIOSH Publication 77-173, Occupational Exposure Sampling Strategy Manual </li><li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" LPageNo="Page 32">
+						<PageName>media/Base_Page_32_L.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>CE Lead, SMSgt Harman</U>: Maj Marks, have you come to any conclusions about the SeaBee billeting area and is there anything that we can help you with?<BR><BR><U>BE Team Lead, Maj Marks</U>: As of now we don't know exactly what happened at the site. Some indications suggest the site was used for weapons testing. Whatever the prior uses were we have identified the presence of Cesium-137.<BR><BR><U>CE Lead, SMSgt Harman</U>: What type of weapons testing?<BR><BR><U>BE Team Lead, Maj Marks</U>: That's inconclusive at this time. Regardless of the type, we need to ensure that every possible step is taken to prevent or mitigate exposure to other personnel. We also need to monitor the medical condition of the SeaBees who have already come in contact with the Cesium-137.<BR><BR><U>CE Lead, SMSgt Harman</U>: Is it safe for us to excavate the area?<BR><BR><U>BE Team Lead, Maj Marks</U>: Additional intelligence must be gathered about the site before any excavation or digging can occur there. We're compiling the final report for the base Commander regarding our findings and further recommendations for the site.]]></Tab_1>
+						<Tab_2><![CDATA[<U>CE Lead, SMSgt Harman</U>: Maj Marks, have you come to any conclusions about the SeaBee billeting area and is there anything that we can help you with?<BR><BR><U>BE Team Lead, Maj Marks</U>: As of now we don't know exactly what happened at the site. Some indications suggest the site was used for weapons testing. Whatever the prior uses were we have identified the presence of Cesium-137.<BR><BR><U>CE Lead, SMSgt Harman</U>: What type of weapons testing?<BR><BR><U>BE Team Lead, Maj Marks</U>: That's inconclusive at this time. Regardless of the type, we need to ensure that every possible step is taken to prevent or mitigate exposure to other personnel. We also need to monitor the medical condition of the SeaBees who have already come in contact with the Cesium-137.<BR><BR><U>CE Lead, SMSgt Harman</U>: Is it safe for us to excavate the area?<BR><BR><U>BE Team Lead, Maj Marks</U>: Additional intelligence must be gathered about the site before any excavation or digging can occur there. We're compiling the final report for the base Commander regarding our findings and further recommendations for the site.]]></Tab_2>
+						<instruction><![CDATA[Click the graphic to hear the conversation.]]></instruction>
+					</Page>
+
+					<Page Name="Team Member" MPageNo="Page 32">
+						<PageName>media/Base_Page_32_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>CE Lead, SMSgt Harman</U>: Maj Marks, have you come to any conclusions about the SeaBee billeting area and is there anything that we can help you with?<BR><BR><U>BE Team Lead, Maj Marks</U>: As of now we don't know exactly what happened at the site. Some indications suggest the site was used for weapons testing. Whatever the prior uses were we have identified the presence of Cesium-137.<BR><BR><U>CE Lead, SMSgt Harman</U>: What type of weapons testing?<BR><BR><U>BE Team Lead, Maj Marks</U>: That's inconclusive at this time. Regardless of the type, we need to ensure that every possible step is taken to prevent or mitigate exposure to other personnel. We also need to monitor the medical condition of the SeaBees who have already come in contact with the Cesium-137.<BR><BR><U>CE Lead, SMSgt Harman</U>: Is it safe for us to excavate the area?<BR><BR><U>BE Team Lead, Maj Marks</U>: Additional intelligence must be gathered about the site before any excavation or digging can occur there. We're compiling the final report for the base Commander regarding our findings and further recommendations for the site.]]></Tab_1>
+						<Tab_2><![CDATA[<U>CE Lead, SMSgt Harman</U>: Maj Marks, have you come to any conclusions about the SeaBee billeting area and is there anything that we can help you with?<BR><BR><U>BE Team Lead, Maj Marks</U>: As of now we don't know exactly what happened at the site. Some indications suggest the site was used for weapons testing. Whatever the prior uses were we have identified the presence of Cesium-137.<BR><BR><U>CE Lead, SMSgt Harman</U>: What type of weapons testing?<BR><BR><U>BE Team Lead, Maj Marks</U>: That's inconclusive at this time. Regardless of the type, we need to ensure that every possible step is taken to prevent or mitigate exposure to other personnel. We also need to monitor the medical condition of the SeaBees who have already come in contact with the Cesium-137.<BR><BR><U>CE Lead, SMSgt Harman</U>: Is it safe for us to excavate the area?<BR><BR><U>BE Team Lead, Maj Marks</U>: Additional intelligence must be gathered about the site before any excavation or digging can occur there. We're compiling the final report for the base Commander regarding our findings and further recommendations for the site.]]></Tab_2>
+						<instruction><![CDATA[Click the graphic to hear the conversation.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" LPageNo="Page 33">
+						<PageName>media/Base_Page_33_L.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+
+					<Page Name="Team Member" MPageNo="Page 33">
+						<PageName>media/Base_Page_33_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" LPageNo="Page 34">
+						<PageName>media/Base_Page_34_L.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the appropriate answers, <BR>then click Done.]]></instruction>
+					</Page>
+
+					<Page Name="Team Member" MPageNo="Page 34">
+						<PageName>media/Base_Page_34_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select the appropriate answers, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" PageID="44340" CompentancyObj = "14" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Outline Health Risk Communication aspects." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 35">
+						<PageName>media/Base_Page_35_L.swf</PageName>
+						<STS_Line><![CDATA[<li>3.1.3 Fundamentals of risk communication</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Communicate HRA Results</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>DoD Risk Communication Primer: A Guide for Communicating with Any Stakeholder on Any Issue that Impacts Your Mission</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+
+					<Page Name="Team Member" PageID="44340" CompentancyObj = "14" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Outline Health Risk Communication aspects." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 35">
+						<PageName>media/Base_Page_35_M.swf</PageName>
+						<STS_Line><![CDATA[<li>3.1.3 Fundamentals of risk communication</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Communicate HRA Results</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>DoD Risk Communication Primer: A Guide for Communicating with Any Stakeholder on Any Issue that Impacts Your Mission</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" LPageNo="Page 36">
+						<PageName>media/Base_Page_36_L.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction_1><![CDATA[Drag the appropriate assessment notes to the report, then click Next Section.]]></instruction_1>
+						<instruction_2><![CDATA[Click Submit Report to continue or Next Section to modify the report.]]></instruction_2>
+					</Page>
+					<Page Name="Team Lead" LPageNo="Page 36">
+						<PageName>media/Base_Page_36a_L.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction_1><![CDATA[Drag the appropriate assessment notes to the report, then click Next Section.]]></instruction_1>
+						<instruction_2><![CDATA[Click Submit Report to continue or Next Section to modify the report.]]></instruction_2>
+					</Page>
+					<Page Name="Team Lead" LPageNo="Page 36">
+						<PageName>media/Base_Page_36b_L.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction_1><![CDATA[Drag the appropriate assessment notes to the report, then click Next Section.]]></instruction_1>
+						<instruction_2><![CDATA[Click Submit Report to continue or Next Section to modify the report.]]></instruction_2>
+					</Page>
+
+					<Page Name="Team Member" MPageNo="Page 36">
+						<PageName>media/Base_Page_36_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction_1><![CDATA[Drag the appropriate assessment notes to the report, then click Next Section.]]></instruction_1>
+						<instruction_2><![CDATA[Click Submit Report to continue or Next Section to modify the report.]]></instruction_2>
+					</Page>
+					<Page Name="Team Member" MPageNo="Page 36">
+						<PageName>media/Base_Page_36a_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction_1><![CDATA[Drag the appropriate assessment notes to the report, then click Next Section.]]></instruction_1>
+						<instruction_2><![CDATA[Click Submit Report to continue or Next Section to modify the report.]]></instruction_2>
+					</Page>
+					<Page Name="Team Member" MPageNo="Page 36">
+						<PageName>media/Base_Page_36b_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction_1><![CDATA[Drag the appropriate assessment notes to the report, then click Next Section.]]></instruction_1>
+						<instruction_2><![CDATA[Click Submit Report to continue or Next Section to modify the report.]]></instruction_2>
+					</Page>
+					
+					<Page Name="Team Lead" LPageNo="Page 37">
+						<PageName>media/Base_Page_37_L.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Review each section to see what should have been included in the report.]]></instruction>
+					</Page>
+
+					<Page Name="Team Member" MPageNo="Page 37">
+						<PageName>media/Base_Page_37_M.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>			
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<instruction><![CDATA[Review each section to see what should have been included in the report.]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 38" LPageNo="Page 38">
+						<PageName>media/Base_Page_38.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Commander, Col Potts</U>: Good job team. I will be submitting the report to the Congressman first thing tomorrow. You and your team are dismissed. Have a safe flight back to the States.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 39" LPageNo="Page 39">
+						<PageName>media/Base_Page_39.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>	
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>		
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Expert</U>: The major goal of this scenario was to understand your role in site assessments and risk communication. In this scenario, the need for an assessment was originated from a Congressional Inquiry; however correct and accurate risk communication is vital in any situation.<BR><BR>When considering risk communication, it is important to be truthful, even if the information is not favorable. Use simple comparative examples to convey the actual risk to the personnel involved.<BR><BR>Take a look at the listed objectives. Note areas where you excelled and areas where you may want to brush up.<BR><BR>Print this feedback form for your reference. If you have further questions see your immediate supervisor for assistance.]]></Tab_1>
+						<instruction_1><![CDATA[You've completed this scenario. Print this page, then proceed for feedback.]]></instruction_1>
+						<instruction_2><![CDATA[Print your feedback form for your records, then click Continue to return to the Menu.]]></instruction_2>
+					</Page>					
+			</Pages>
+		</Topic>	
+		
+</MLesson>
+
+
+
+</Topics>
+</Lessons>				

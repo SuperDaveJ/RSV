@@ -1,0 +1,32 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></pageTitle>	
+		
+		<questionTextM><![CDATA[Of the items you are bringing out of the hot zone, select those that may need decon.]]></questionTextM>
+		<questionTextL><![CDATA[Of the items Bio-1 Alpha is bringing out of the hot zone, select those that may need decon.]]></questionTextL>
+
+		
+		<instructionText><![CDATA[<I>When you are done, click <B>Submit.</B></I>]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="5" option_gap="10" text_Width="400">
+			<Option><![CDATA[Samples]]></Option>
+			<Option><![CDATA[HazMat ID]]></Option>
+			<Option><![CDATA[HAPSITE]]></Option>
+			<Option><![CDATA[You]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,1,1,1]]></CorrectAnswer>	
+
+		
+		<option_title><![CDATA[<p align='center'><B>Decon</B></p>]]></option_title>			
+		
+
+		<Option_heading><![CDATA[<p align='center'><B>Items</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

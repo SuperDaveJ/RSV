@@ -1,0 +1,22 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I:  Assessing the Situation</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct answer, then click Done.]]></instructiontext>
+
+		<questiontextL><![CDATA[Your entry team members have exited the storage facility.<br><br>What is this team’s next step?]]></questiontextL>
+		<questiontextM><![CDATA[After you exit the storage facility, what is your next step?]]></questiontextM>
+ 		<options>
+			<option><![CDATA[Perform self-decon at the ECP]]></option>
+			<option><![CDATA[Return directly to the ECP]]></option>		
+			<option><![CDATA[Proceed to the CCA ]]></option>
+			<option><![CDATA[Remove SCBA ]]></option>
+		</options>
+
+		<correct_option><![CDATA[3]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

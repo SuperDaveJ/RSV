@@ -1,0 +1,18 @@
+<data>
+<text0><![CDATA[<font color="#980101"><B>Root Cause Analysis:</B> Summary</font>]]></text0>
+<text1><![CDATA[<B>Part III: Interpreting the Findings</B>]]></text1>
+<text2><![CDATA[Given the information that the PM-10 measurement was 300 micrograms per cubic meter over a 24-hour sampling period, determine if each statement is True or False.]]></text2>
+<text3><![CDATA[Seasonal changes could affect the PM-10 concentrations causing a high variance in this result.]]></text3>
+<text4><![CDATA[You have 4 questions left.]]></text4>
+
+<text5><![CDATA[One measurement is not representative of the actual concentration throughout the deployment.]]></text5>
+<text6><![CDATA[You have 3 questions left.]]></text6>
+
+<text7><![CDATA[Based on this PM-10 measurement, military personnel would definitely be affected.]]></text7>
+<text8><![CDATA[You have 2 questions left.]]></text8>
+
+<text9><![CDATA[This PM-10 measurement is above the 1-year air MEG.]]></text9>
+<text10><![CDATA[You have 1 question left.]]></text10>
+<correct_options><![CDATA[1, 1, 0, 1]]></correct_options>
+<transcript_text><![CDATA[Default Transcript]]></transcript_text>
+</data>

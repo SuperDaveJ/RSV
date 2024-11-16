@@ -1,0 +1,24 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part III: Interpreting the Findings</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[Which of the following presents the greatest health risk?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[CE personnel brush painting logos and trim]]></option>
+			<option><![CDATA[CE personnel spray painting without protective gloves]]></option>		
+			<option><![CDATA[Aircraft maintenance personnel sleeping in the recently painted facility]]></option>
+			<option><![CDATA[Fugitive emissions affecting nearby residents on base]]></option>
+			
+			
+		</options>
+
+		<correct_option><![CDATA[3]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

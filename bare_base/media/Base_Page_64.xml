@@ -1,0 +1,23 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part IV: Making Recommendations</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+
+	<questiontext><![CDATA[Which one of these recommendations is the <I><B>best</B></I> choice to enable mission completion while still ensuring the safety of the workers?]]></questiontext>
+			
+	<options>
+			<option><![CDATA[Wear protective clothing for the entire duration of the operation]]></option>
+			<option><![CDATA[Continue with original recommendation to wear protective clothing complying with the work rest cycle recommendations]]></option>
+			<option><![CDATA[Wear protective clothing, but move the aircraft into a hangar and install an ECU]]></option>	
+		
+	</options>
+
+	<correct_options><![CDATA[3]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

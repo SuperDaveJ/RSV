@@ -1,0 +1,27 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[Who would you have enter the site first?]]></questionText>
+		
+		<instructionText><![CDATA[<I>Drag the BE who should enter first to the entry area of the site.</I>]]></instructionText>		
+
+		<target_options>
+			<target_option><![CDATA[<B>1</B>]]></target_option>
+		</target_options>		
+
+		<drag_options>
+			<drag_option><![CDATA[<p align="center">Check ADM-300</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">Warm-up HAPSITE</p>]]></drag_option>	
+			<drag_option><![CDATA[<p align="center">Pack HAPSITE</p>]]></drag_option>			
+		</drag_options>
+
+		<correct_options><![CDATA[1]]></correct_options>
+		
+	</question>	
+
+</Interactivity>

@@ -1,0 +1,20 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the appropriate answer, then click Done.]]></instructiontext>
+
+		<questiontext><![CDATA[The first task you're having your team perform this morning is taking samples in the SeaBee compound using your RADeCO.<br><br>The RADeCOs were initially calibrated at 70ºF and 760 mmHg.  The current outside temperature is 110ºF.<br><br>You don't have the equipment available to recalibrate the RADeCOs. Do you need to consider temperature correction when calculating your total volume sampled?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Yes, because the temperature difference varies by 40ºF]]></option>
+			<option><![CDATA[No, because the temperature difference is not greater than 50ºF]]></option>		
+		</options>
+
+		<correct_option><![CDATA[1]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

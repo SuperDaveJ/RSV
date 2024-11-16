@@ -1,0 +1,33 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part II: Executing the Response </B>]]></pageTitle>	
+		
+		<questionText><![CDATA[You have notified the other team members that Organic Arsenic is present in concentration greater than 0.1ppm (3mg/m&#179;). While you decon, choose what tasks seem <B><I>most logical</I></B> for the other BE teams to be doing.]]></questionText>
+		
+		<instructionText><![CDATA[<I>Drag each layer name in the right and place it besides its correct description. When you are done, click <B>Submit.</B></I>]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="5" option_gap="5" text_Width="400">
+			<Option><![CDATA[Notify MTF of possible Lewisite exposure]]></Option>
+			<Option><![CDATA[Analyze swab sample on HHA ]]></Option>
+			<Option><![CDATA[Check HAPSITE for output]]></Option>
+			<Option><![CDATA[Conduct research for toxicological effects]]></Option>
+			<Option><![CDATA[Notify EOC of toxicological effects]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[2,1,1,3,3]]></CorrectAnswer>	
+
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>Bio-1 Alpha<BR>(ECP)</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Bio-2<BR>(EOC)</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Bio-Base<BR>(BE Office)</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Possible Actions</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

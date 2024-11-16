@@ -1,0 +1,22 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I: Assessing the Situation</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[Also during the visit, the team noticed that they have a branched distribution system with no backflow prevention devices. They were told that when the system lost pressure last night, it took several hours to isolate the line break and re-pressurize the system.<BR><BR>What is the risk of contaminants entering the distribution system?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Low Risk]]></option>
+			<option><![CDATA[Medium Risk]]></option>		
+			<option><![CDATA[High Risk]]></option>
+			
+		</options>
+
+		<correct_option><![CDATA[3]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

@@ -1,0 +1,19 @@
+<data>
+	<PageTitleText><![CDATA[Part I: Gathering Information]]></PageTitleText>
+	<InstructionQuestionText><![CDATA[The equipment items shown below remain at the BE Office. Load the equipment that should be taken to the ECP by dragging the needed items to the truck.]]></InstructionQuestionText>
+	<optionRolloverText1><![CDATA[Wipes for Decon]]></optionRolloverText1>
+	<optionRolloverText2><![CDATA[HHA]]></optionRolloverText2>
+	<optionRolloverText3><![CDATA[Clipboard, Notepad, and Pen]]></optionRolloverText3>
+	<optionRolloverText4><![CDATA[HAPSITE and Consumable Items]]></optionRolloverText4>
+	<optionRolloverText5><![CDATA[XMX]]></optionRolloverText5>
+	<optionRolloverText6><![CDATA[CDS Kit]]></optionRolloverText6>
+	<optionRolloverText7><![CDATA[Metal Detector]]></optionRolloverText7>
+	<optionRolloverText8><![CDATA[HazCat Kit]]></optionRolloverText8>
+	<optionRolloverText9><![CDATA[Bullhorn]]></optionRolloverText9>
+	<optionRolloverText10><![CDATA[Generator]]></optionRolloverText10>
+	<optionRolloverText11><![CDATA[4 Level C Suits]]></optionRolloverText11>
+	<rightAns><![CDATA[1,1,1,1,1,1,0,1,0,1,1]]></rightAns>
+	<totalDrags><![CDATA[11]]></totalDrags>
+	<totalTargets><![CDATA[1]]></totalTargets>
+	<submitText><![CDATA[<B>Done</B>]]></submitText>
+</data>

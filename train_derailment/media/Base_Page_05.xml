@@ -1,0 +1,23 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I: Gathering Information</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+
+	<questiontext><![CDATA[Based on what we know right now, which two of the following do you recommend for protective actions?]]></questiontext>
+	<text1><![CDATA[EOC Commander]]></text1>
+	<options>
+			<option><![CDATA[Restrict access to the Northeast side of the base and other downwind areas]]></option>
+			<option><![CDATA[Evacuate the entire base]]></option>
+			<option><![CDATA[Shelter in place for the entire base]]></option>	
+			<option><![CDATA[Evacuate the Northeast side of the base and shelter in place for all other personnel]]></option>
+	</options>
+
+	<correct_options><![CDATA[1,4]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

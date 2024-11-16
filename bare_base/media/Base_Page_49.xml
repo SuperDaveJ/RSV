@@ -1,0 +1,24 @@
+<Quiz>
+
+<question>
+
+	<text0><![CDATA[<B>Part III: Interpreting the Findings</B>]]></text0>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+
+	<questiontext><![CDATA[When the BE NCO Team sampled the bladder for chlorine residual which DPD tablet should they have used?]]></questiontext>
+			
+	<options>
+			<option><![CDATA[1]]></option>
+			<option><![CDATA[3]]></option>
+			<option><![CDATA[4]]></option>
+			<option><![CDATA[1+3]]></option>
+			<option><![CDATA[2+3]]></option>
+	</options>
+
+	<correct_options><![CDATA[1]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

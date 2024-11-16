@@ -1,0 +1,41 @@
+﻿<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[To determine your sampling strategies and response plan, you must think about which equipment you'll need to assess each potential hazard. Match each piece of equipment with its <I><B>primary</B></I> hazard detection capability.  ]]></questionText>
+		
+		<instructionText><![CDATA[Select the appropriate answers, then click Done.]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="5" option_gap="5" text_Width="400">
+			<Option><![CDATA[451P]]></Option>
+			<Option><![CDATA[ADM-300]]></Option>
+			<Option><![CDATA[CDS Kit]]></Option>
+			<Option><![CDATA[EPD]]></Option>
+			<Option><![CDATA[Hand-held Assays]]></Option>
+			<Option><![CDATA[HAPSITE]]></Option>
+			<Option><![CDATA[Hazcat Kit]]></Option>
+			<Option><![CDATA[HazMat ID]]></Option>
+			<Option><![CDATA[M8 Paper]]></Option>
+			<Option><![CDATA[M9 Tape]]></Option>
+			<Option><![CDATA[M256 Kit]]></Option>
+			<Option><![CDATA[SAM 940]]></Option>
+			<Option><![CDATA[TVA-1000B]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,1,2,1,3,2,2,2,2,2,2,1,2]]></CorrectAnswer>	
+
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>Nuclear/<br>Radiological</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Chemical</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Biological</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Equipment</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

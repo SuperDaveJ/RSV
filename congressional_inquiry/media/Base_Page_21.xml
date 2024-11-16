@@ -1,0 +1,13 @@
+<Quiz>
+	<question><![CDATA[1]]>
+		<PageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></PageTitle>	
+ <instructiontext><![CDATA[Select the appropriate answers, then click Done.]]></instructiontext>
+		<questiontext><![CDATA[The RADeCo air samplers are set up at 3 locations. They're placed at the center of the SeaBees' sleeping area and upwind and downwind of the site. Move the slider bar below to select the appropriate flow rate. Then, choose how long the pumps should run for a screening sample.]]></questiontext>
+ 		<options>
+			<option><![CDATA[5 min]]></option>
+			<option><![CDATA[10 min]]></option>		
+			<option><![CDATA[15 min]]></option>		
+		</options>
+		<correct_option><![CDATA[1]]></correct_option>	
+	</question>	
+</Quiz>

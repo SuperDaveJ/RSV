@@ -1,0 +1,31 @@
+﻿<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part III:  Interpreting the Findings</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[As part of the exposure investigation being conducted, and based on the fact that there is an open Cs-137 source, dose reconstructions will need to be performed.<BR><BR>Given all findings to this point, which of the following individuals require a dose reconstruction?]]></questionText>
+		
+		<instructionText><![CDATA[]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="5" option_gap="5" text_Width="400">
+			<Option><![CDATA[BE Teams]]></Option>
+			<Option><![CDATA[Fire Department]]></Option>
+			<Option><![CDATA[Security Forces]]></Option>
+			<Option><![CDATA[EOC Commander]]></Option>
+			<Option><![CDATA[CE Damage Assessment Team]]></Option>
+			<Option><![CDATA[Residents within the initial cordon area]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[#,1,1,#,1,#]]></CorrectAnswer>	
+	
+		<option_title><![CDATA[<p align='center'><B></B></p>]]></option_title>
+		
+		<Option_heading><![CDATA[<p align='center'><B></B></p>]]></Option_heading>
+		<choice_heading><![CDATA[<p align='center'><B></B></p>]]></choice_heading>
+
+	</question>	
+
+</Interactivity>

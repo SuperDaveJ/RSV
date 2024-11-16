@@ -1,0 +1,106 @@
+<content>
+	<tab>
+		<title><![CDATA[451P]]></title>
+		<discription><![CDATA[<li>Hand-held unit designed for both rugged and normal environments.</li><li>Uses a pressurized ionization chamber to quantify gamma and X-ray radiation (in Roentgens/hour or Sieverts/hour).</li><li>Can be used for monitoring soil, food, and water samples.</li><li>Measures energies between 20 KeV and 2 MeV, and has an operating range from 0 uR/h to 5 R/h. Most (but not all) radionuclides have a gamma or photon component as part of their decay scheme and will be detected by the 451P.</li><li>NOTE: The following nuclides either have too low a gamma energy or do not emit a gamma ray at all, and will not be detected by the 451P: H-3, C-14, Si-32, S-35, Fe-55, Ni-59, Ni-63, Tc-99, I-129, and Pm-147.</li>]]></discription>
+	</tab>
+
+	
+	<tab>
+		<title><![CDATA[4-gas Meter]]></title>
+		<discription><![CDATA[<li>Portable confined space monitor that combines a Photoiononization detector(PID) with the standard foour gases of a confined space monitor. (O2, LEL, and 2 any two toxic gas sensors: CO, H2S, SO2, NO, NO2, CI2, HCN, NH3, PH3.</li><li>0-2,000 ppm measurements of VOCs with 0.1 ppm resolution.</li><li>Can be used for confined space, HazMat/Homeland Security, Environmental, and Industrial Hygiene.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[ADM-300 w/ Sources and Probes]]></title>
+		<discription><![CDATA[<li>Multifunction radiation meter used to locate and measure low and high intensities in the form of gamma rays or beta particles.</li><li>External probes locate and measure alpha, beta, gamma, x-ray and neutron radiation.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[CHPPM Water Sampling Kit]]></title>
+		<discription><![CDATA[<li>The potable water sampling kit is capable of testing for all regulated environmental contaminants (organic, inorganic, and radiological). The kit is not designed to analyze for bacterial analysis, bacterial analysis should be conducted on site. Samples can be collected from potable water sources, sources of potential potable water or sources of water used for personal hygiene or cooking. The deployment potable water sampling kit contains pre-preserved containers, blanks, preservatives, and administrative items.</li>]]></discription>
+	</tab>
+
+		<tab>
+		<title><![CDATA[DPD Kit]]></title>
+		<discription><![CDATA[<li>Kit used to test for chlorine/bromine, pH, acid & base demand, total alkalinity, hardness and cyanuric acid in water samples.</li>]]></discription>
+	</tab>
+	
+	<tab>
+		<title><![CDATA[Drager CMS]]></title>
+		<discription><![CDATA[<li>The electronic version of the Drager Tubes.</li><li>System consist of an analyzer and substance specific chips.</li>]]></discription>
+	</tab>
+	
+		<tab>
+		<title><![CDATA[ECU]]></title>
+		<discription><![CDATA[<li>Portable, modular, self contained air conditioner that provides both heating and cooling capability to enclosed spaces.</li>]]></discription>
+	</tab>
+	
+	<tab>
+		<title><![CDATA[HACH 2400]]></title>
+		<discription><![CDATA[<li>Spectrophotometer designed to analyze water samples.</li>]]></discription>
+	</tab>
+	
+	<tab>
+		<title><![CDATA[HAPSITE]]></title>
+		<discription><![CDATA[<li>Provides on-scene detection, identification and quantification of toxic industrial chemicals, volatile organic compounds and chemical warfare agents in air, water, soil and sludge.</li><li>Includes on-board computer.</li><li>Equipped with built-in GPS. </li>]]></discription>
+	</tab>
+
+		
+	<tab>
+		<title><![CDATA[Harvest Falcon Latrine]]></title>
+		<discription><![CDATA[<li>The Harvest Falcon Latrine includes shower/shave units consisting of a four-section shower element and four three-bowl washstands housed in a TEMPER tent. The washstands were on either side of the shower units and provided a compact total unit. An M-80 boiler unit provided hot water. The Harvest Falcon latrines consisted of three toilets and a urinal trough mounted above a 135 gallon water tank and a 180-gallon waste tanks. A pressured water system supplied water for flushing. The waste from these units was either pumped out by sewage trucks or distributed to an existing sewage system.</li>]]></discription>
+	</tab>
+	
+	//<tab>
+//		<title><![CDATA[Hazcat Kit]]></title>
+//		<discription><![CDATA[<li>Detects over 1,600 solid and liquid organic and inorganic chemical compounds including mixtures, elements and multi-phase compounds.</li><li>Completely portable and self-contained.</li><li>Flow chart, wet chemistry kit. </li>]]></discription>
+//	</tab>
+	
+	<tab>
+		<title><![CDATA[HazMat ID]]></title>
+		<discription><![CDATA[<li>Provides qualitative infrared analysis of solids, powders, pastes, gels and liquid in less than 20 seconds</li><li>Id's WMD's, toxic industrial chemicals, forensic drugs, white powder, explosives, drug precursors, etc.</li><li>Is a Fourier Transform Infrared (FTIR) spectrophotometer for use in identifying specific chemical compounds (e.g., soils, powders, pastes, and gels) as well as liquid samples can be placed onto the diamond crystal for analyses.</li><li>Identifies substances by matching the chemical absorption that is unique to each specific chemical through infrared spectroscopy from its library database.</li><li>The library can be customized to meet mission requirements.</li><li>The HazMatID does not separate and identify individual components, but if a component of the mixture is in the library database it will identify a match.</li>]]></discription>
+	</tab>
+	
+	<tab>
+		<title><![CDATA[M272]]></title>
+		<discription><![CDATA[<li>The M272 water test kit was designed and fielded to answer the need for a test to detect water contamination by nerve agent, blister agent, cyanide ("blood" agent), or lewisite. The kit will operate between 32°F and 125°F. An enclosed instruction card enables personnel to conduct all the tests required to identify the threat agents. The kit will detect the following chemical agents at the concentrations indicated:</li><br><U>Chemical</U>&nbsp;&nbsp;<U>Symbol(s)</U>&nbsp;&nbsp;<U>Concentration</U><br><U>Agent</U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>(mg/l)*</U><br>Cyanide&nbsp;&nbsp;&nbsp;&nbsp;AC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20.0 as CN<br>Mustard&nbsp;&nbsp;&nbsp;&nbsp;HD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.0<br>Lewisite&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.0 as As+++<br>Nerve&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G/V&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.02 -]]></discription>
+	</tab>
+	
+	<tab>
+		<title><![CDATA[pH Pen/Meter]]></title>
+		<discription><![CDATA[<li>The pH Pen/Meter is an electronic instrument used to measure the pH of a liquid. A typical pH meter consists of a special measuring probe (glass electrode) connected to an electronic meter that measures and displays pH readings.</li>]]></discription>
+	</tab>
+	
+	<tab>
+		<title><![CDATA[RADeCO]]></title>
+		<discription><![CDATA[<li>Portable, compact and lightweight sampler for particulates or combination particulates and radioisotopes.</li>]]></discription>
+	</tab> 
+
+	
+	<tab>
+		<title><![CDATA[ROWPU]]></title>
+		<discription><![CDATA[<li>The Reverse Osmosis Water Purification Unit (ROWPU) provides potable water from any water source. The ROWPU produces potable water from a variety of raw water sources such as wells, lakes, seas, lagoons, rivers, oceans and ice holes. The ROWPU, resembling a large trailer, comes in a variety of sizes and uses a variety of chemicals and membranes to filter and purify water for consumption. The proper use of the ROWPU can provide purified drinking water for thousands of personnel in a military theater.</li>]]></discription>
+	</tab> 
+
+<tab>
+		<title><![CDATA[SAM 940]]></title>
+		<discription><![CDATA[<li>The SAM 940 is a portable, hand-held radiation surveillance and measurement instrument.</li><li>It is designed for nuclide identification, spectrum analysis, dose rate calculation, total dose, data logging, and as an audible search tool.</li><li>It uses an internal thallium-activated sodium iodide scintillation crystal infused with Lithium-6 to detect/measure gamma (photon) radiation and detect neutrons.</li><li>Its gamma energy range is 18 KeV – 3 MeV and its operating temperature range is -20°C (-4 F) to +50°C (+122 F).</li><li>Quadratic Compression Conversion allows for identification of mixed isotopes in one second and provides 97% ID confidence in 2 seconds.</li><li>It will not detect radionuclides that do not emit gamma, such as H-3 (tritium).</li><li>It is designed to reduce peak energy drifting through automatic stabilization features.</li><li>It is susceptible to interference from strong magnetic fields.</li>]]></discription>
+	</tab> 
+
+   <tab>
+		<title><![CDATA[TVA-1000B]]></title>
+		<discription><![CDATA[<li>TVA-1000B (Toxic Vapor Analyzer) is a portable, intrinsically-safe, direct-reading monitor that uses a flame ionization detector (FID) and a photo ionization detector (PID) to provide real-time measurements (ppm, ppb, or %) of organic and some inorganic vapor concentrations in air.</li><li>The FID (requiring Hydrogen gas) can measure a wide range of concentrations (1 - 50,000 ppm) of organic compounds, including methane.</li><li>The PID uses various ultraviolet lamps of a specific energy (10.6 eV being the standard) to measure a much smaller concentration range (.5-2000 ppm) of organic/inorganic compounds (to include ammonia, carbon disulfide, carbon tetrachloride, chloroform, ethylamine, formaldehyde, and hydrogen sulfide).</li><li>The TVA is not designed for use below 32 degrees F. </li>]]></discription>
+	</tab>
+	
+<tab>
+		<title><![CDATA[XRF]]></title>
+		<discription><![CDATA[<li>XRF analyzers are used to perform on-site metal contamination testing.</li><li>A handheld, real time, heavy metals analyzer used for detection of heavy metals.</li><li>Common Uses: Lead paint analysis and soil analysis for lead and other metals.</li>]]></discription>
+	</tab> 
+<tab>
+		<title><![CDATA[NIOSH Pocket Guide]]></title>
+		<discription><![CDATA[<li>NIOSH Pocket Guide to Chemical Hazards presents information taken from the NIOSH/OSHA Occupational Health Guidelines for Chemical Hazards, from the National Institute for Occupational Safety and Health (NIOSH) criteria documents and Current Intelligence Bulletins, and from recognized references in the field of industrial hygiene, occupational medicine, toxicology, and analytical chemistry. The information is presented in tabular form to provide a quick, convenient source of information on general industrial hygiene practices. The information in the Pocket Guide includes chemical structure or formulas, identification codes, synonyms, exposure limits, chemical and physical properties, incompatibilities, and reactivities, measurement methods, respiratory selections, signs and symptoms of exposure, and procedures for emergency treatment.</li>]]></discription>
+	</tab> 
+	
+
+
+</content>

@@ -1,0 +1,26 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I:  Assessing the Situation</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[]]></instructiontext>
+
+		<questiontextL><![CDATA[After receiving the information about the potential isotopes stored in the damaged area of the building, your BE team at the ECP is ready for an initial entry to assess the situation.<BR><BR>Which PPE should the BE team use during their initial entry into the building?]]></questiontextL>
+		
+		<questiontextM><![CDATA[After receiving the information about the potential isotopes stored in the damaged area of the building, you are ready for an initial entry to assess the situation.<BR><BR>Which PPE should you use during your initial entry into the building?]]></questiontextM>
+
+ 		<options>
+			<option><![CDATA[PAPR only]]></option>
+			<option><![CDATA[Full-face respirator only]]></option>		
+			<option><![CDATA[Half-face respirator only]]></option>
+			<option><![CDATA[Level B with full-face respirator]]></option>
+			<option><![CDATA[Level C with full-face respirator]]></option>
+			<option><![CDATA[Level B with SCBA]]></option>
+		</options>
+
+		<correct_option><![CDATA[6]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

@@ -1,0 +1,31 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part IV: Making Recommendations</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[According to AFPAM 48-151 and ACGIH guidance, the Aircraft Maintenance personnel performing fuel cell repairs should follow a work rest cycle of 10/50 min based on the WBGT and their PPE. The Commander has requested additional recommendations which will enable mission completion while still ensuring the safety of the workers.<br><br>Match each consequence with the possible recommendation to which it applies.]]></questionText>
+		
+		<instructionText><![CDATA[<I>Drag each layer name in the right and place it besides its correct description. When you are done, click <B>Submit.</B></I>]]></instructionText>		
+
+		<target_options>
+			<target_option><![CDATA[Wear protective clothing for the entire duration of the operation]]></target_option>
+			<target_option><![CDATA[Wear protective clothing complying with the work rest cycle recommendations]]></target_option>
+			<target_option><![CDATA[Wear protective clothing, but move the aircraft into a hangar and install an ECU]]></target_option>		
+		
+		</target_options>		
+
+		<drag_options>
+			<drag_option><![CDATA[While radiant load is removed, this decreases available hangar space, may require personnel to relocate, and will require CE assets]]></drag_option>
+			<drag_option><![CDATA[Accomplishing this activity in protective clothing without resting will most likely result in exhaustion from heat strain]]></drag_option>	
+			<drag_option><![CDATA[While this recommendation minimizes the risk of heat stress and chemical exposure, it will delay reconstruction of the aircraft]]></drag_option>			
+			
+		</drag_options>
+
+		<correct_options><![CDATA[3,1,2]]></correct_options>
+		
+	</question>	
+
+</Interactivity>

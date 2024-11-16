@@ -1,0 +1,24 @@
+<data>
+	<PagetitleText><![CDATA[<B>Part IV: Making Recommendations</B>]]></PagetitleText>
+	<InstructionQuestionText><![CDATA[Compile the information that should be included in your briefing to the Commander. Include information in the report by dragging the data from the assessment notes on the right to the report on the left.]]></InstructionQuestionText>
+	<optionRolloverText1><![CDATA[The TVA-1000B was used for soil samples at the site.]]></optionRolloverText1>
+	<optionRolloverText2><![CDATA[Measurements taken in the billeting area.]]></optionRolloverText2>
+	<optionRolloverText3><![CDATA[The 451P was the first to enter the site.]]></optionRolloverText3>
+	<optionRolloverText4><![CDATA[Measurements from the downwind side of the billeting area and in the rest of the camp.]]></optionRolloverText4>
+	<optionRolloverText5><![CDATA[Which type of radiation Cs-137 emits.]]></optionRolloverText5>
+	<optionRolloverText6><![CDATA[The total volume of air sampled.]]></optionRolloverText6>
+	<optionRolloverText7><![CDATA[The estimated total dose for personnel who spent a one-year rotation on the base.]]></optionRolloverText7>
+	<optionRolloverText8><![CDATA[The XRF was used to assess metals.]]></optionRolloverText8>
+	<text2><![CDATA[<B>Part IV: Making Recommendations</B>]]></text2>
+	<text3><![CDATA[<B>Urgent!</B>]]></text3>
+	<text4><![CDATA[The final report of your team's work is due to the Commander.  She has determined that you have received          additional points for the progress your team has made on your mission.]]></text4>
+	<text5><![CDATA[You have been awarded 50 pts for every hour that your team is ahead of schedule.  The mission schedule dictates that there should be 7 hours left at this point.]]></text5>
+	<text6><![CDATA[<p align="center"><B>Findings</B></p>]]></text6>
+	<text7><![CDATA[<p align="center"><B>Conclusions</B></p>]]></text7>
+	<text8><![CDATA[<p align="center"><B>Recommendations</B></p>]]></text8>
+	<text9><![CDATA[<p align="center">Information included in the <B>Findings</B> section of the report.</p>]]></text9>
+	<rightAns><![CDATA[0,1,0,1,1,0,1,0]]></rightAns>
+	<totalDrags><![CDATA[8]]></totalDrags>
+	<totalTargets><![CDATA[1]]></totalTargets>
+	<submitText><![CDATA[<B>Done</B>]]></submitText>
+</data> 

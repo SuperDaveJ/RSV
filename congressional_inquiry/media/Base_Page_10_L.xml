@@ -1,0 +1,33 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[SSgt Johnson briefs you on the new information from Intel. Match the radiation equipment that your team would use with the <I><B>most appropriate</B></I> application.]]></questionText>
+		
+		<instructionText><![CDATA[Select the appropriate answers, then click Done.]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="5" option_gap="5" text_Width="400">
+			<Option><![CDATA[Dose assessment and alpha/beta measurement <BR>on the ground and on air filters]]></Option>
+			<Option><![CDATA[Dose rate assessment]]></Option>
+			<Option><![CDATA[Isotope identification]]></Option>
+			<Option><![CDATA[Personal exposure assessment]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[2,3,1,4]]></CorrectAnswer>	
+
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>SAM 940</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>ADM-300</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>451P</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>EPD</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Application</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

@@ -1,0 +1,31 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[Put the following procedures for collecting samples and conducting chemical analysis in the appropriate order.]]></questionText>
+		
+		<instructionText><![CDATA[<I>Drag each layer name in the right and place it besides its correct description. When you are done, click <B>Submit.</B></I>]]></instructionText>		
+
+		<target_options>
+			<target_option><![CDATA[1]]></target_option>
+			<target_option><![CDATA[2]]></target_option>
+			<target_option><![CDATA[3]]></target_option>		
+			<target_option><![CDATA[4]]></target_option>	
+		</target_options>		
+
+		<drag_options>
+			<drag_option><![CDATA[Collect sample with Quicksilver swabs and scoops]]></drag_option>
+			<drag_option><![CDATA[Run survey method in HAPSITE]]></drag_option>	
+			<drag_option><![CDATA[Perform analysis with HHAs and HazMatID]]></drag_option>			
+			<drag_option><![CDATA[Run Loop Method on HAPSITE]]></drag_option>
+		</drag_options>
+
+		<correct_options><![CDATA[3,1,4,2]]></correct_options>
+		
+	</question>	
+
+</Interactivity>

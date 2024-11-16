@@ -1,0 +1,22 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct answer, then click Done. For assistance, click the Lifeline.]]></instructiontext>
+
+		<questiontext><![CDATA[SrA Mukoda received no reading using the ADM-300 alpha probe.  She observes that on the ADM-300 beta probe, the measurement on the filter is 100 cpm at the downwind sampling point. The other measurements are background. Calculate the disintegration per minute per cubic meter.]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[56 dpm / m&#179;]]></option>
+			<option><![CDATA[2,005 dpm / m&#179;]]></option>		
+			<option><![CDATA[10,025 dpm / m&#179;]]></option>
+			<option><![CDATA[280 dpm / m&#179;]]></option>
+		</options>
+
+		<correct_option><![CDATA[3]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

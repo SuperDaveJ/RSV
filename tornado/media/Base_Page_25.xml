@@ -1,0 +1,22 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I:  Assessing the Situation</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct answer, then click Done.]]></instructiontext>
+
+		<questiontext><![CDATA[Due to loss of control of radioactive material that could cause hazard to life or health, which of the following agencies or personnel should be notified within 3 hours?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Nuclear Regulatory Commission (NRC)]]></option>
+			<option><![CDATA[Environmental Protection Agency (EPA)]]></option>		
+			<option><![CDATA[Department of Homeland Security (DHS)]]></option>
+			<option><![CDATA[Radioisotope Committee (RIC)]]></option>
+		</options>
+
+		<correct_option><![CDATA[4]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

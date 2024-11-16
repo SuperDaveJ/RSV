@@ -1,0 +1,25 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part IV: Making Recommendations</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[What can we conclude based on the preliminary results?]]></questiontext>
+		<text0><![CDATA[EOC Commander]]></text0>
+		<text1><![CDATA[PHEO]]></text1>
+		<text2><![CDATA[Capt Williams]]></text2>
+
+ 		<options>
+			<option><![CDATA[Given HHA results, it is possible that everyone in the Control Tower was exposed to Tularemia]]></option>
+			<option><![CDATA[More time is needed to finish the analysis; no conclusions can be drawn based on the presumptive information]]></option>		
+			
+			
+		</options>
+
+		<correct_option><![CDATA[1]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

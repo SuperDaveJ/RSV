@@ -1,0 +1,124 @@
+<Lessons>
+
+<Topics>
+
+	<DebugMode>Yes</DebugMode>
+		
+	<help>Yes</help>
+	
+	<Menu>Yes</Menu>
+
+	<Exit>Yes</Exit>	
+
+	<CourseTitle>Air Force Medical Support Agency</CourseTitle>
+
+<MLesson>
+	<LessonName>Air Force Medical Support Agency</LessonName>
+		<Topic>
+			<TopicName>introduction</TopicName>
+			<Pages>			
+					<Page MPageNo="Page 1" LPageNo="Page 1">
+						<PageName>media/Base_Page_00.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>no</equipment>
+						<playerInfo>no</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator:</U> Welcome to your web-based Readiness Skills Verification program!<BR><BR>This tool provides an interactive environment that assesses perishable BE skills through knowledge-based test questions and response-oriented scenarios.<BR><BR>Once you're through with this introduction, you'll be able to begin your verification process by selecting the first assessment from the list in the Med+Learn course window.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 2" LPageNo="Page 2">
+						<PageName>media/Base_Page_01.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>no</equipment>
+						<playerInfo>No</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator:</U> Upon selecting a knowledge assessment or scenario, you will notice an animated red, circular selection point at one of the locations on the base. Click on each selection point for more information.]]></Tab_1>
+						<Tab_2><![CDATA[<U>Narrator:</U> Each of your Knowledge Assessments will be accessed through the School House location on the base. Read the information on this screen to learn more. When you are finished, select Return.]]></Tab_2>
+						<Tab_3><![CDATA[<U>Narrator:</U> When you click on a scenario selection point, a popup orientation box will appear that provides you with information relevant to that scenario. You can then choose whether to enter the scenario or return to the menu.<BR><BR>When you enter each scenario, you will randomly be assigned one of three roles: BE Team Lead, BE Team Member, or Exercise Evaluator.<BR><BR>After your role is determined, you will be required to answer scenario-related questions from the perspective you have been assigned. Read the information on this screen to learn more. When you are finished, select Return.]]></Tab_3>
+						<instruction><![CDATA[Click on each selection point <BR>for more information.]]></instruction>
+					</Page>
+
+					<Page MPageNo="Page 3" LPageNo="Page 3">
+						<PageName>media/Base_Page_02.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>No</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator:</U> Audio is a key element used throughout this tool. Every time that audio is played or available, a corresponding audio transcript can be displayed by selecting the Audio Transcript button from the Options Menu.<BR><BR>Audio transcripts do not automatically appear when audio is playing and the button is not active unless there is audio playing. To remove the transcript from the screen, select Audio Transcript from the menu again.]]></Tab_1>
+						<instruction><![CDATA[Select EACH highlighted item to learn more.]]></instruction>
+					</Page>
+
+					<Page MPageNo="Page 4" LPageNo="Page 4">
+						<PageName>media/Base_Page_03.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>No</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> This verification tool includes several types of questions that are used to assess your knowledge and skills related to the RSV objectives. These question types include multiple choice, multiple answer, drag and drop, and click grid questions.]]></TranscriptText>
+						<instruction><![CDATA[Select the highlighted items <BR>to learn more.]]></instruction>
+					</Page>
+
+					<Page MPageNo="Page 5" LPageNo="Page 5">
+						<PageName>media/Base_Page_04.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>No</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> At the conclusion of each assessment, Hotwash screens are displayed which provide specific feedback for each Knowledge Assessment and Scenario.<BR><BR>Use this feedback to identify your strengths and weaknesses. The purpose of the Hotwash is to allow you to see overall feedback on the assessment that you have just completed as well as identify specific areas in which you may need additional training.]]></TranscriptText>
+						<instruction><![CDATA[Select the highlighted items <BR>to learn more.]]></instruction>
+					</Page>
+
+					<Page MPageNo="Page 6" LPageNo="Page 6">
+						<PageName>media/Base_Page_05.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>No</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+
+						<Tab_1><![CDATA[<U>Narrator:</U> As you get ready to use this tool, you should gather up any manuals or reference materials normally used to perform your duties in either a deployed or garrison environment. Just as you can use references in the field, you're allowed to use local reference materials (including the internet) while completing your assessments. However, this is an assessment of individual capabilities, so you are not allowed to work as a group or use other people as your reference source.<BR><BR>Remember, this is a test to determine your individual level of proficiency for perishable skills. Similar to other testing formats that you are familiar with, you will not be given the correct answer on questions you missed. You will be provided with specific references at the end of each assessment for the material covered in that assessment.<BR><BR>The complete verification package will take approximately 7 to 10 hours. You should plan that each individual assessment will take approximately 1 to 2 hours, and it is recommended that you complete only one assessment per sitting.<BR><BR>Now you're ready to begin your verification!]]></Tab_1>
+
+						<instruction><![CDATA[Select Continue to return to the menu and begin your verification.]]></instruction>
+					</Page>
+												
+			</Pages>
+		</Topic>	
+		
+</MLesson>
+
+</Topics>
+</Lessons>				

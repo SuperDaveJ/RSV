@@ -1,0 +1,24 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I: Assessing the Situation</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+	<text5><![CDATA[<B>Part I:  Assessing the Situation</B>]]></text5>
+	<questiontext><![CDATA[Since we know that Ammonia vapors are present and that it has the shortest breakthrough time, 46 min, what are three options for addressing the limitations of this suit?]]></questiontext>
+			<text5><![CDATA[IC]]></text5>
+	<options>
+			<option><![CDATA[Responders should change suits after each entry]]></option>
+			<option><![CDATA[Send responders in with Level B protection]]></option>
+			<option><![CDATA[Switch to a more appropriate suit with a higher breakthrough time]]></option>	
+			<option><![CDATA[Do not allow responders to enter the hot zone]]></option>
+			<option><![CDATA[Limit responders' time in the hot zone to less than 46 minutes]]></option>
+	</options>
+
+	<correct_options><![CDATA[1,3,5]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

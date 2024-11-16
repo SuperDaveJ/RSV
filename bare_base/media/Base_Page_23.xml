@@ -1,0 +1,26 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[CE is drawing water from a fire hydrant via hoses connected to 5,000 gallon bladders which will be used for storing water for showering. Where is the <B>most important</B> point in this system to sample for residual chlorine?]]></questiontext>
+
+		<text1><![CDATA[Dead-end in System<BR>Near Fire Hydrant]]></text1>
+		<text2><![CDATA[Water Storage<BR>Bladders]]></text2>		
+		<text3><![CDATA[Water Treatment Plant]]></text3>
+
+ 		<options>
+			<option><![CDATA[Expedient]]></option>
+			<option><![CDATA[Operational]]></option>		
+			<option><![CDATA[Gross]]></option>
+			
+		</options>
+
+		<correct_option><![CDATA[2]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

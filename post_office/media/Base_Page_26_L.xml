@@ -1,0 +1,22 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[Bio-1 Bravo needs to run background samples on the HAPSITE. They will also need to prepare the XMX liquid impinger for field screening using HHAs.<BR>Which of the following is the appropriate solution to prepare for the XMX?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[10 mL of tryptic soy broth]]></option>
+			<option><![CDATA[10 mL of water]]></option>		
+			<option><![CDATA[5 mL of a bleach solution]]></option>
+			<option><![CDATA[5 mL of a triphosphate buffer solution]]></option>
+		</options>
+
+		<correct_option><![CDATA[4]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

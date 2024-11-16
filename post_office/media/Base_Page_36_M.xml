@@ -1,0 +1,19 @@
+﻿<data>
+ <TitleText><![CDATA[<B>Part II: Executing the Response</B>]]></TitleText>
+	<InstructionQuestionText><![CDATA[You've returned to the ECP and need to describe the layout of the building and equipment for the Bio-1 Bravo Team before they enter the hot zone. Since you did not take in a camera, use the provided floor plan and label the areas on your drawing by dragging the words to the appropriate locations.]]></InstructionQuestionText>
+	<optionRolloverText1><![CDATA[Entrance]]></optionRolloverText1>
+	<optionRolloverText2><![CDATA[Tarp]]></optionRolloverText2>
+	<optionRolloverText3><![CDATA[Shelves]]></optionRolloverText3>
+	<optionRolloverText4><![CDATA[XMX]]></optionRolloverText4>
+	<optionRolloverText5><![CDATA[Suspicious Package]]></optionRolloverText5>
+	
+	<rightAns1><![CDATA[1,4,6,8]]></rightAns1>
+	<rightAns2><![CDATA[7,11]]></rightAns2>
+	<rightAns3><![CDATA[2,3]]></rightAns3>
+	<rightAns4><![CDATA[9]]></rightAns4>
+	<rightAns5><![CDATA[5,10,12]]></rightAns5>
+	<totalDrags><![CDATA[5]]></totalDrags>
+	<totalTargets><![CDATA[5]]></totalTargets>
+	<!-- No. of boxes which contains drag/s -->
+	<totalSets><![CDATA[5]]></totalSets>
+</data>

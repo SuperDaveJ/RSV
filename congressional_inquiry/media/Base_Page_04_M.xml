@@ -1,0 +1,24 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I: Gathering Information</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct answer, then click Done.]]></instructiontext>
+
+		<questiontext><![CDATA[What sources of information should your team use to gather relevant information about the site?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Historical Occupational and Environmental Health Site Assessments]]></option>
+			<option><![CDATA[Interview Host Nation Personnel]]></option>		
+			<option><![CDATA[Armed Forces Medical Intelligence Center Site Assessments]]></option>
+			<option><![CDATA[Air Mobility Command Airfield Risk Assessments]]></option>
+			<option><![CDATA[Historical Defense Intelligence Agency Data]]></option>
+			<option><![CDATA[All of the Above]]></option>
+		</options>
+
+		<correct_option><![CDATA[6]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

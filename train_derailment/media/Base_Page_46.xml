@@ -1,0 +1,22 @@
+﻿<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part IV: Making Recommendations</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[What is the incubation period for Tularemia?]]></questiontext>
+  <text0><![CDATA[EOC Commander]]></text0>
+ 		<options>
+			<option><![CDATA[1-2 days]]></option>
+			<option><![CDATA[2-10 days]]></option>		
+			<option><![CDATA[10-14 days]]></option>
+			<option><![CDATA[1-14 days]]></option>
+		</options>
+
+		<correct_option><![CDATA[4]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

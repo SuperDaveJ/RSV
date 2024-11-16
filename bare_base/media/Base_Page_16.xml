@@ -1,0 +1,39 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I: Assessing the Situation</B>]]></pageTitle>	
+		
+		<questionTextL><![CDATA[Your NCO team decided to conduct the following analyses on the water.<BR>Match the purpose to its corresponding preliminary analysis.]]></questionTextL>
+
+		<questionTextM><![CDATA[The NCO team decided to conduct the following analyses on the water.<BR>Match the purpose to its corresponding preliminary analysis.]]></questionTextM>
+		
+		<instructionText><![CDATA[<I>Drag each layer name in the right and place it besides its correct description. When you are done, click <B>Submit.</B></I>]]></instructionText>		
+
+		<target_options>
+			<target_option><![CDATA[Determine corrosivity<BR>and contact hazard]]></target_option>
+			<target_option><![CDATA[Determine presence of<BR>residual disinfectant]]></target_option>
+			<target_option><![CDATA[Determine if solids<BR>contain suspended<BR>sediments or metals]]></target_option>
+			<target_option><![CDATA[Determine overall amount of<BR>dissolved constituents]]></target_option>
+			<target_option><![CDATA[Identify coliforms]]></target_option>
+			<target_option><![CDATA[Identify volatile organic<BR>compounds and<BR>trihalomethanes]]></target_option>
+			<target_option><![CDATA[Determine the carbon<BR>loading; indication of<BR>organic material present]]></target_option>
+		</target_options>		
+
+		<drag_options>
+			<drag_option><![CDATA[<p align="center">Bacteriological</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">Free Available<BR>Chlorine</p>]]></drag_option>	
+			<drag_option><![CDATA[<p align="center">pH</p>]]></drag_option>			
+			<drag_option><![CDATA[<p align="center">TDS and<BR>Conductivity</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">TOC</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">TSS and<BR>Turbidity</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">VOCs</p>]]></drag_option>
+		</drag_options>
+
+		<correct_options><![CDATA[5,2,1,4,7,3,6]]></correct_options>
+		
+	</question>	
+
+</Interactivity>

@@ -1,0 +1,25 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I:  Assessing the Situation</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select all that apply, then click Done.]]></instructiontext>
+
+	<questiontext><![CDATA[Based <I><B>only</B></I> on the 451P reading of 23 mR/hr at the entryway of the radiological storage area, which statements are <I><B>true</B></I>? ]]></questiontext>
+			
+	<options>
+			<option><![CDATA[This is potentially a high dose rate area]]></option>
+			<option><![CDATA[A pure beta emitter is present]]></option>
+			<option><![CDATA[A gamma emitter is present]]></option>
+			<option><![CDATA[A neutron emitter is present]]></option>
+			<option><![CDATA[Cs-137 has been released]]></option>	
+			<option><![CDATA[Ir-192 has been released]]></option>			
+	</options>
+
+	<correct_options><![CDATA[1,3]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

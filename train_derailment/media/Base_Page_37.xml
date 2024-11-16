@@ -1,0 +1,22 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct answer, then click Done. For assistance, click the Lifeline.]]></instructiontext>
+
+		<questiontext><![CDATA[Based on the assumption that there may have been a biological release, which of the available sampling equipment, listed here, should you use to collect bulk samples from the fire extinguisher and the duct work during your team's second entry?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Dry Filter Unit]]></option>
+			<option><![CDATA[RADeCO]]></option>		
+			<option><![CDATA[Quicksilver Kit]]></option>
+			<option><![CDATA[XMX Liquid Impinger]]></option>
+		</options>
+
+		<correct_option><![CDATA[3]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

@@ -1,0 +1,27 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I: Gathering Information</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[Based on input from your work with EM, the EOC Commander evacuated the Northeast side of the base and restricted access to the Northeast side and other downwind areas. All other personnel will shelter in place.]]></questiontext>
+		
+		<questiontext1><![CDATA[In discussing the evacuation and shelter in place procedures with the EOC Commander, you determine that the Air Traffic Control Tower is in the direct path of the downwind hazard area cordon. Therefore, evacuation of the tower can not be accomplished until control of the airspace has been transferred to another FAA tower.]]></questiontext1>
+		
+		<questiontext2><![CDATA[Which of the following protective actions is the <I><B>best</B></I> option to take until responsibility of the tower has been transferred and evacuation can be accomplished?]]></questiontext2>
+
+ 		<options>
+			<option><![CDATA[Turn off the HVAC system in the tower]]></option>
+			<option><![CDATA[Close all doors and windows in the tower and seal them with tape and plastic]]></option>		
+			<option><![CDATA[Open all doors and windows in the tower to aerate the facility]]></option>
+			<option><![CDATA[Do not take any action at this time]]></option>
+			
+		</options>
+
+		<correct_option><![CDATA[1]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

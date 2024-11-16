@@ -1,0 +1,23 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part III: Interpreting the Findings</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+
+	<questiontext><![CDATA[The TVA-1000B provides a result of 20 ppm on the PID for Methylene Chloride in the Aircraft Maintenance shop.<BR><BR>The manufacturer reports a response factor of 0.73. For this<BR>field method, the accuracy is plus/minus 50%.<BR><BR>What is the <B>most accurate</B> estimated concentration range of Methylene Chloride?]]></questiontext>
+			
+	<options>
+			<option><![CDATA[7-22 ppm]]></option>
+			<option><![CDATA[13-41 ppm]]></option>
+			<option><![CDATA[1.4-146 ppm]]></option>	
+		
+	</options>
+
+	<correct_options><![CDATA[1]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

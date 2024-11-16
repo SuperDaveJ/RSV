@@ -1,0 +1,22 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select all that apply, then click Done.]]></instructiontext>
+
+	<questiontext><![CDATA[As you develop the sampling plan with your team, what types of environmental samples should be collected at the site? ]]></questiontext>
+			
+	<options>
+			<option><![CDATA[Soil]]></option>
+			<option><![CDATA[Air]]></option>
+			<option><![CDATA[Water]]></option>	
+	</options>
+
+	<correct_options><![CDATA[1,2]]></correct_options>
+	
+			
+</question>
+	
+</iz>

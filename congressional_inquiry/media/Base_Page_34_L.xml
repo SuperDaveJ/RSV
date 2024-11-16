@@ -1,0 +1,34 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part IV: Making Recommendations</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[As your team meets to discuss final conclusions of the mission, you must decide the most appropriate information and recommendations for the Commander to provide to the Congressman. In addition to moving the billeting area, what actions could be appropriate to minimize the SeaBees' exposure to radiation?]]></questionText>
+		
+		<instructionText><![CDATA[Select the appropriate answers, then click Done.]]></instructionText>		
+					
+		<Options bgWidth="570" column_gap="5" option_gap="5" text_Width="570">
+			<Option><![CDATA[Cover the billeting soil with additional soil, sand, or concrete]]></Option>
+			<Option><![CDATA[Limit the amount of time personnel can be in the radiation areas; establish this time limit based on the general population exposure standard of 100 mrem/year]]></Option>
+			<Option><![CDATA[Administer Prussian Blue to all personnel that live on the base]]></Option>
+			<Option><![CDATA[Administer Kl to all personnel as they enter the base]]></Option>
+			<Option><![CDATA[Apply a sealant or utilize grass or gravel to minimize aerosolization and dust migration]]></Option>
+			<Option><![CDATA[Secure access to the site and post appropriate signage]]></Option>
+			
+		
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,1,#,#,1,1]]></CorrectAnswer>	
+
+		
+		<option_title><![CDATA[<p align='center'><B>Recommendations</B></p>]]></option_title>			
+		
+
+		<Option_heading><![CDATA[<p align='center'><B>Recommendations</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

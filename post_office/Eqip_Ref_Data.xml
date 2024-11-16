@@ -1,0 +1,150 @@
+﻿<content>
+	<tab>
+		<title><![CDATA[451P]]></title>
+		<discription><![CDATA[<li>Hand-held unit designed for both rugged and normal environments.</li><li>Uses a pressurized ionization chamber to quantify gamma and X-ray radiation (in Roentgens/hour or Sieverts/hour).</li><li>Can be used for monitoring soil, food, and water samples.</li><li>Measures energies between 20 KeV and 2 MeV, and has an operating range from 0 uR/h to 5 R/h. Most (but not all) radionuclides have a gamma or photon component as part of their decay scheme and will be detected by the 451P.</li><li>NOTE: The following nuclides either have too low a gamma energy or do not emit a gamma ray at all, and will not be detected by the 451P: H-3, C-14, Si-32, S-35, Fe-55, Ni-59, Ni-63, Tc-99, I-129, and Pm-147.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[ADM-300 w/ Sources and Probes]]></title>
+		<discription><![CDATA[<li>Multifunction radiation meter used to locate and measure low and high intensities in the form of gamma rays or beta particles.</li><li>External probes locate and measure alpha, beta, gamma, x-ray and neutron radiation.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[C2 Canister]]></title>
+		<discription><![CDATA[<li>Wartime mask canister.</li><li>Protects against chemical, nuclear and biological agents.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[Drager Civil Defense Simultest (CDS) Kit]]></title>
+		<discription><![CDATA[<li>Provides rapid identification (within 5 minutes) of eight chemical warfare agents using detector tube sets.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[EPD-Mk2]]></title>
+		<discription><![CDATA[<li>The EPD Mk2 Electronic Personal Dosimeter is an active dosimeter designed to detect and monitor X-ray, gamma, and beta radiation exposure.</li><li>It provides dose (whole body and skin) from 0 mrem to >1600 rem, and dose rate from 0 mrem/h to 400 rem/h.</li><li>The energy range is 15 KeV to 10 MeV (Gamma and X-Ray), and 250 KeV to 1.5 MeV (Beta).</li><li>Audible alarms can be set for both dose and dose rate. </li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[Full-face Respirator]]></title>
+		<discription><![CDATA[<li>Provides protection against most inhalation and absorption hazards.</li><li>Not for use in IDLH situations.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[Generator]]></title>
+		<discription><![CDATA[<li>Provides portable power for field operations.</li><li>Powers HAPSITE, RADeCO, XMX, etc.</li>]]></discription>
+	</tab>
+
+ <tab>
+		<title><![CDATA[Gloves]]></title>
+		<discription><![CDATA[<li>Provides protection against most contact hazards.</li><li>Specific glove materials protect against specific chemicals (i.e. alcohols - butyl rubber and viton.)</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[HAPSITE]]></title>
+		<discription><![CDATA[<li>Provides on-scene detection, identification and quantification of toxic industrial chemicals, volatile organic compounds and chemical warfare agents in air, water, soil and sludge.</li><li>Includes on-board computer.</li><li>Equipped with built-in GPS. </li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[HAPSITE Consumable Items]]></title>
+		<discription><![CDATA[<li>Carrier gas</li><li>Internal standard gas</li><li>Concentrator tubes</li><li>Sample loop</li><li>V-G tube</li><li>40 mL vials</li><li>Insulation line and bag</li><li>Batteries</li><li>Hotswap cable</li><li>Cross-over cable</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[Hazcat Kit]]></title>
+		<discription><![CDATA[<li>Detects over 1,600 solid and liquid organic and inorganic chemical compounds including mixtures, elements and multi-phase compounds.</li><li>Completely portable and self-contained.</li><li>Flow chart, wet chemistry kit.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[HazMat ID]]></title>
+		<discription><![CDATA[<li>Provides qualitative infrared analysis of solids, powders, pastes, gels and liquid in less than 20 seconds.</li><li>Id's WMD's, toxic industrial chemicals, forensic drugs, white powder, explosives, drug precursors, etc.</li><li>Is a Fourier Transform Infrared (FTIR) spectrophotometer for use in identifying specific chemical compounds (e.g., soils, powders, pastes, and gels) as well as liquid samples can be placed onto the diamond crystal for analyses.</li><li>Identifies substances by matching the chemical absorption that is unique to each specific chemical through infrared spectroscopy from its library database.</li><li>The library can be customized to meet mission requirements.</li><li>The HazMatID does not separate and identify individual components, but if a component of the mixture is in the library database it will identify a match.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[HHA]]></title>
+		<discription><![CDATA[<li>Hand-held immunochromatographic assay used to simultaneously identify up to eight different biological agents</li><li>Used for field screening. (presumptive) and not positive ID.</li> ]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[Level A PPE]]></title>
+		<discription><![CDATA[<li>Fully encapsulated chemical suit used for hazardous material response.</li><li>Includes: SCBA, overboots and fully encapsulated suit.</li><li>Provides splash and vapor protection.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[Level B PPE]]></title>
+		<discription><![CDATA[<li>Chemical suit used for hazardous material response.</li><li>Includes: SCBA, chemical suit, gloves and overboots.</li><li>Provides splash protection.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[Level C PPE]]></title>
+		<discription><![CDATA[<li>Chemical suit used for hazardous material response.</li><li>Includes: Full-face respirator, chemical suit, gloves and overboots.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[M256 Kit]]></title>
+		<discription><![CDATA[<li>The M256A1 Chemical Agent Detection Kit is designed to detect and identify chemical agents present either as liquid or as vapor and consists of a) a booklet of M8 paper to detect agents in liquid form and b) twelve foil-wrapped detector tickets containing eel enzymes as reagents to detect even very low concentrations of chemical vapors.</li><li>Instructions for the use of the detector tickets appear on the outside of each of the foil packets and in a separate instruction booklet in the kit.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[MCU-2/P Gas Mask]]></title>
+		<discription><![CDATA[<li>Wartime protective mask.</li><li>Worn with chemical protective suit.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[Nitrile Rubber Gloves]]></title>
+		<discription><![CDATA[<li>Gloves made out of nitrile rubber.</li><li>Used for protection against chemical contact hazards such as fuel and sulfuric acid.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[OV Respirator Cartridges]]></title>
+		<discription><![CDATA[<li>Organic vapor cartridge provides inhalation protection against organic vapors.</li><li>Requires a chemical cartridge change-out-schedule.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[PAPR Respirator]]></title>
+		<discription><![CDATA[<li>Battery-powered full or half face respirator that uses a blower to force ambient air through the filters.</li><li>Do not use in IDLH environments.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[Quicksilver Sampling Kit]]></title>
+		<discription><![CDATA[<li>Chem/Bio sampling kit.</li><li>Includes M256A1, M8 paper, potassium iodide test paper, pH paper, sample vials, tools, swipes, swabs, etc.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[RADeCO]]></title>
+		<discription><![CDATA[<li>Portable, compact and lightweight sampler for particulates or combination particulates and radioisotopes </li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[SAM 940]]></title>
+		<discription><![CDATA[<li>The SAM 940 is a portable, hand-held radiation surveillance and measurement instrument.</li><li>It is designed for nuclide identification, spectrum analysis, dose rate calculation, total dose, data logging, and as an audible search tool.</li><li>It uses an internal thallium-activated sodium iodide scintillation crystal infused with Lithium-6 to detect/measure gamma (photon) radiation and detect neutrons.</li><li>Its gamma energy range is 18 KeV – 3 MeV and its operating temperature range is -20°C (-4 F) to +50°C (+122 F).</li><li>Quadratic Compression Conversion allows for identification of mixed isotopes in one second and provides 97% ID confidence in 2 seconds.</li><li>It will not detect radionuclides that do not emit gamma, such as H-3 (tritium).</li><li>It is designed to reduce peak energy drifting through automatic stabilization features.</li><li>It is susceptible to interference from strong magnetic fields.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[SCBA]]></title>
+		<discription><![CDATA[<li>Breathing apparatus for Level A and B response.</li><li>Can be used in IDLH.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[TVA-1000B]]></title>
+		<discription><![CDATA[<li>TVA-1000B (Toxic Vapor Analyzer) is a portable, intrinsically-safe, direct-reading monitor that uses a flame ionization detector (FID) and a photo ionization detector (PID) to provide real-time measurements (ppm, ppb, or %) of organic and some inorganic vapor concentrations in air.</li><li>The FID (requiring Hydrogen gas) can measure a wide range of concentrations (1 - 50,000 ppm) of organic compounds, including methane.</li><li>The PID uses various ultraviolet lamps of a specific energy (10.6 eV being the standard) to measure a much smaller concentration range (.5-2000 ppm) of organic/inorganic compounds (to include ammonia, carbon disulfide, carbon tetrachloride, chloroform, ethylamine, formaldehyde, and hydrogen sulfide).</li><li>The TVA is not designed for use below 32 degrees F. </li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[XMX]]></title>
+		<discription><![CDATA[<li>The XMX liquid impinger is a field portable sampler used for collecting aerosolized samples of 1-10 microns.</li><li>Liquid bio-aerosol sample collector for subsequent analysis such as immuno-assay, PCR, culturing, etc.</li><li>Used for biological agent sampling, indoor/outdoor air quality, etc.</li><li>Depending on the configuration, the airborne particles are concentrated into a liquid (Type 1 sterile water or phosphate buffered saline) or onto a dry cartridge filter.</li><li>Equipment can be operated using either external power or using an inverter for vehicle power operation.</li><li>Most of the components can be decontaminated using a 5% bleach solution.</li> ]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[Medical Management of Chemical Casualties Handbook]]></title>
+		<discription><![CDATA[<li>Reference that provides medical personnel with recognition and treatment information about chemical warfare agents.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[NBC Toolkit]]></title>
+		<discription><![CDATA[<li>Search engine for medical CBRN information.</li><li>Supplemental CDs provided for more details.</li>]]></discription>
+	</tab> 
+
+
+
+	
+</content>

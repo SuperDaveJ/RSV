@@ -1,0 +1,37 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I: Assessing the Situation</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[Select the appropriate equipment to use for each of these preliminary analyses.]]></questionText>
+		
+		<instructionText><![CDATA[<>.Select the appropriate answers,<BR>then click Done.</B>]]></instructionText>		
+					
+		<Options bgWidth="170" column_gap="1" option_gap="1" text_Width="170">
+			<Option><![CDATA[Bacteriological]]></Option>
+			<Option><![CDATA[Free Available Chlorine]]></Option>
+			<Option><![CDATA[pH]]></Option>
+			<Option><![CDATA[TDS and Conductivity]]></Option>
+			<Option><![CDATA[TOC]]></Option>
+			<Option><![CDATA[TSS and Turbidity]]></Option>
+			<Option><![CDATA[VOCs ]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,2,4,2,2,2,3]]></CorrectAnswer>	
+
+		<option_titles>
+			
+			<option_title><![CDATA[<p align='center'><B>Colilert</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>HACH<BR>2400</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>HAPSITE<BR>HSS</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>pH Pen</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Preliminary Water<BR>Analyses</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

@@ -1,0 +1,40 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[SrA Mukoda needs to calculate the disintegration per minute per cubic meter. Match the constants with the corresponding variables in the equation below.]]></questionText>
+		
+		<instructionText><![CDATA[<I>Drag each layer name in the right and place it besides its correct description. When you are done, click <B>Submit.</B></I>]]></instructionText>		
+
+		<target_options>
+			<target_option><![CDATA[<B>cpm</B>]]></target_option>
+			<target_option><![CDATA[<B>F</B>]]></target_option>
+			<target_option><![CDATA[<B>Ec</B>]]></target_option>		
+			<target_option><![CDATA[<B>Ac</B>]]></target_option>	
+			<target_option><![CDATA[<B>M&#179;</B>]]></target_option>		
+			<target_option><![CDATA[<B>Ef</B>]]></target_option>	
+			<target_option><![CDATA[<B>Af</B>]]></target_option>		
+		</target_options>		
+
+		<drag_options>
+			<drag_option><![CDATA[<p align="center">62 cm&#178;</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">15.5 cm&#178;</p>]]></drag_option>	
+			<drag_option><![CDATA[<p align="center">406 cm&#178;</p>]]></drag_option>			
+			<drag_option><![CDATA[<p align="center">0.3 efficiency of counting instrument</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">Measurement from ADM-300 beta probe</p>]]></drag_option>	
+			<drag_option><![CDATA[<p align="center">Total volume of air sampled</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">0.5 filter absorption factor (alpha)</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">0.1 filter absorption factor (beta)</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">123 cm&#178;</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">0.95 collection efficiency of filter</p>]]></drag_option>
+		</drag_options>
+
+		<correct_options><![CDATA[7,4,0,3,1,5,0,2,0,6]]></correct_options>
+		
+	</question>	
+
+</Interactivity>

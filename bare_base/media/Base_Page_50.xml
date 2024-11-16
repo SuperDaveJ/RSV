@@ -1,0 +1,23 @@
+<Quiz>
+
+<question>
+
+	<text0><![CDATA[<B>Part III: Interpreting the Findings</B>]]></text0>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+
+	<questiontext><![CDATA[When using DPD tablet 1 to sample for residual chlorine, they found the disinfection levels at the bladder are 0.5 ppm. What is the standard that should be used at this point of distribution?]]></questiontext>
+			
+	<options>
+			<option><![CDATA[1 ppm]]></option>
+			<option><![CDATA[2.5 ppm]]></option>
+			<option><![CDATA[5 ppm]]></option>	
+			
+	</options>
+
+	<correct_options><![CDATA[3]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

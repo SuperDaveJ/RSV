@@ -1,0 +1,34 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I:  Assessing the Situation</B>]]></pageTitle>	
+		
+		<questiontextL><![CDATA[Which of the following are <B><I>true</I></B> statements, related to calibration and operation of the equipment your team is taking into the building?]]></questiontextL>
+		
+		<questiontextM><![CDATA[Which of the following are <B><I>true</I></B> statements, related to calibration and operation of the equipment you are taking into the building? ]]></questiontextM>
+		
+		<instructionText><![CDATA[Select the appropriate answers, then click Done.]]></instructionText>		
+					
+		<Options bgWidth="570" column_gap="5" option_gap="5" text_Width="570">
+			<Option><![CDATA[The EPDs do not monitor dose rate]]></Option>
+			<Option><![CDATA[The EPDs will monitor dose for gamma and beta radiation]]></Option>
+			<Option><![CDATA[The 451P will detect gamma and x-ray radiation, but does not quantify it]]></Option>
+			<Option><![CDATA[The team must calibrate the SAM 940 and take background measurements]]></Option>
+					
+		</Options>
+	
+		<CorrectAnswer><![CDATA[0,1,0,1]]></CorrectAnswer>	
+
+		
+		<option_title><![CDATA[<p align='center'><B>True</B></p>]]></option_title>			
+		
+
+		<Option_heading><![CDATA[<p align='center'><B>Statement</B></p>]]></Option_heading>
+		<choice_heading><![CDATA[<p align='center'><B>True</B></p>]]></choice_heading>
+		
+	</question>	
+
+</Interactivity>

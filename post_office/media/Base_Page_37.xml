@@ -1,0 +1,35 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></pageTitle>	
+		
+		<questionTextM><![CDATA[After receiving the layout of the Post Office, Bio-1 Bravo prepares to enter the hot zone and run the CDS Kit for Lewisite and the TVA-1000B PID and FID for airborne hazards. Put the steps in the correct order.]]></questionTextM>
+
+		<questionTextL><![CDATA[After describing the layout of the building, Bio-1 Alpha directs Bio-1 Bravo to enter the hot zone and run the CDS Kit for Lewisite and the TVA-1000B PID and FID for airborne hazards. Put their next steps in the correct order.]]></questionTextL>
+		
+		<instructionText><![CDATA[<I>Drag each layer name in the right and place it besides its correct description. When you are done, click <B>Submit.</B></I>]]></instructionText>		
+
+		<target_options>
+			<target_option><![CDATA[<B>1</B>]]></target_option>
+			<target_option><![CDATA[<B>2</B>]]></target_option>
+			<target_option><![CDATA[<B>3</B>]]></target_option>		
+			<target_option><![CDATA[<B>4</B>]]></target_option>
+			<target_option><![CDATA[<B>5</B>]]></target_option>
+		</target_options>		
+
+		<drag_options>
+			<drag_option><![CDATA[<p align="center">Suit up</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">Collect background measurement</p>]]></drag_option>	
+			<drag_option><![CDATA[<p align="center">Turn on PID/FID</p>]]></drag_option>			
+			<drag_option><![CDATA[<p align="center">Enter hot zone</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">Light flame</p>]]></drag_option>
+		</drag_options>
+
+		<correct_options><![CDATA[4,3,1,5,2]]></correct_options>
+		
+	</question>	
+
+</Interactivity>

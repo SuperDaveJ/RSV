@@ -1,0 +1,48 @@
+<data>
+<PageTitle><![CDATA[<B>Part I: Assessing the Situation</B>]]></PageTitle>
+<QuestionTextL><![CDATA[To make the most progress, decide how to task yourself and the remaining team members.]]></QuestionTextL>
+<QuestionTextM><![CDATA[To make the most progress, decide how Maj Marks should task himself and the remaining team members.]]></QuestionTextM>
+<instructionText><![CDATA[Drag the steps into the correct order, then click <B>Submit</B>.]]></instructionText>
+<text0><![CDATA[TSgt Hopper BE-7 Level, Environmental Exp.]]></text0>
+<text1><![CDATA[SSgt Johnson BE-7 Level, Environmental Exp.]]></text1>
+<text2><![CDATA[SrA Pritt PH-5 Level; WRM Exp.]]></text2>
+<text3><![CDATA[SrA Mukoda BE-5 Level; Industrial Hygiene]]></text3>
+<text4><![CDATA[Maj Marks BE-7 Level,<BR>CIH]]></text4>
+<text5><![CDATA[<B>Drag Item List</B>]]></text5>
+<text6><![CDATA[MSgt Phillips]]></text6>
+<text7><![CDATA[Colonel Potts]]></text7>
+<text8><![CDATA[Capt Hall]]></text8>
+<text9><![CDATA[Maj Ramirez]]></text9>
+<text10><![CDATA[MSgt Dower]]></text10>
+
+
+<!--please add your dragable name here and in ans in ans="1" -->
+<drags>
+		<drag targetID="3"><![CDATA[<p align='center'><b>11 Ditching straps</b></p>]]></drag>
+		<drag targetID="3"><![CDATA[<p align='center'><b>2 Megaphone</b></p>]]></drag>
+		<drag targetID="1"><![CDATA[<p align='center'><b>3 AED</b></p>]]></drag>
+		<drag targetID="1"><![CDATA[<p align='center'><b>4 Medical pouch</b></p>]]></drag>
+		<drag targetID="2"><![CDATA[<p align='center'><b>5 Halon extinguisher</b></p>]]></drag>		
+</drags>
+
+<!-- Add your target names and targets here -->
+<targets>
+	<target><![CDATA[<B>1 Unpack pallets</B>]]></target>
+	<target><![CDATA[<B>2 Assess Tent city Area</B>]]></target>
+	<target><![CDATA[<B>3 Identify Water</B>]]></target>
+</targets>
+
+<maxDrops>5,5,5</maxDrops>
+<total_attempts>1</total_attempts>
+<offset>2</offset>
+<target_spacing>10</target_spacing>
+
+<correctFeedback><![CDATA[<B>Correct</B>. You've matched the locations of the main cabin emergency equipment correctly.]]></correctFeedback>	
+<firstIncorrectFeedback><![CDATA[<B>Incorrect</B>. Please try again.]]></firstIncorrectFeedback>
+<secondIncorrectFeedback><![CDATA[<B>Incorrect</B>. This is not the correct solution.]]></secondIncorrectFeedback>
+<submitButtonText><![CDATA[<B>Submit</B>]]></submitButtonText>
+<solutionButtonText><![CDATA[<B>Solution</B>]]></solutionButtonText>	
+<ResetButtonText><![CDATA[<B>Reset</B>]]></ResetButtonText>	
+<FeedbackTitleText><![CDATA[<B>Feedback</B>]]></FeedbackTitleText>
+<closeButtonText><![CDATA[<B>Close</B>]]></closeButtonText>
+</data>

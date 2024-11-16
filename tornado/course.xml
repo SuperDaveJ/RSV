@@ -1,0 +1,1365 @@
+﻿<Lessons>
+  <Topics>
+    <DebugMode>Yes</DebugMode>
+    <help>Yes</help>
+    <Menu>Yes</Menu>
+    <Exit>Yes</Exit>
+    <CourseTitle>Air Force Medical Support Agency</CourseTitle>
+    <MLesson>
+      <LessonName>Air Force Medical Support Agency</LessonName>
+      <Topic>
+        <TopicName>Scenario 5</TopicName>
+        <Pages>
+          <Page>
+            <PageName>media/Base_Page_00.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>No</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>Yes</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>Narrator:</U> A tornado warning is now in effect!  All personnel should take protective action.  Restriction of movement procedures are in place.  A tornado warning is now in effect! ]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the highlighted selection point to access the assessment.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 1" LPageNo="Page 1">
+            <PageName>media/Base_Page_01.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_3>
+              <![CDATA[<U>Dispatch:</U> A tornado has touched down on base, northwest of the hospital and family housing.  It was traveling southwest to northeast.  The National Weather Service is reporting wind velocities of up to 84 miles per hour (or 73 knots) associated with the tornado. <BR><BR>Security Forces reported that minor to moderate damage has been sustained to Building 808, used as hazardous waste storage for the hospital.  The fire department and CE are already on scene.<BR><BR>At this time, the Emergency Operations Center is standing up with limited representation.  The following functional areas should send a representative to the EOC at the EM office immediately:<UL><LI>Emergency Management</LI><LI>Civil Engineering</LI><LI>Bioenvironmental Engineering</LI><LI>Medical</LI></UL><BR>Restriction of movement procedures are to continue throughout the base.  All personnel not required for this immediate response should remain at their current location until further notice.  Any additional damage should be reported to your unit control center. ]]>
+            </Tab_3>
+            <Tab_5>
+              <![CDATA[<U>Major Fletcher:</U> I'll report to the EOC.  Lt Peña, MSgt Washington, go ahead and start calling everyone that's left for the day.  With the wind and rain, depending on how much damage was done to that storage area, we could be looking at a long evening.  Put them on telephone standby and let them know that once we have more intel about the situation and restriction of movement procedures have lifted, they may need to come back.  Also, pull the file on Building 808 and get me that information at the EOC as soon as possible.]]>
+            </Tab_5>
+            <instruction>
+              <![CDATA[Select the items in the BE Office<BR>to gather more information.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 2" LPageNo="Page 2">
+            <PageName>media/Base_Page_02.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_2>
+              <![CDATA[<U>Major Fletcher</U> I already have my team pulling all the information we have on Building 808.  I don't have it yet, but I'll provide the report as soon as I've got the information.]]>
+            </Tab_2>
+            <Tab_3>
+              <![CDATA[<U>CE Representative:</U> Before we realized what the facility was being used for, our damage assessment team rushed in to assess structural integrity without PPE.  Once they entered the radiological area, they identified that there was damage to some of the containers and backed out after doing a quick visual of the structure.<BR><BR>The building is structurally sound.  The power's off; looks like the outside breaker box was knocked out.  There's emergency lighting on in there that should be enough for the Bio team to assess the situation.  It'll probably take us 24 hours to get full power restored, but the battery power on the emergency lighting should last 12 to 18 hours.]]>
+            </Tab_3>
+            <Tab_4>
+              <![CDATA[<U>Medical Representative:</U> The only issue the hospital has faced to this point is the electricity flickering during the storm.  There was a lot of wind and some light rain, but we didn't feel any other impact.  We did move patients to the tornado shelter when we heard that there could be heavy storm activity earlier today, but those patients are being moved back to their regular rooms.  My biggest concern right now is whether any of the hazardous waste could have been dispersed by the winds of the tornado or if the rain water would have washed any of it outside.  If there's contamination spread toward the hospital or housing area, we could have a bigger problem on our hands.]]>
+            </Tab_4>
+            <Tab_5>
+              <![CDATA[<U>EOC Commander:</U> Security Forces' initial report indicated that the building sustained damage to the roof on the northwest corner.  Knowing that this is the temporary storage site for hazardous hospital waste, I had them set an initial cordon of 5,000 feet, which reaches into the housing area.  We've mapped the incident location and cordon on the wall map.<BR><BR>The tornado's peak wind speeds were reported by the National Weather Service as 73 knots or higher out of the southwest.  By the time it touched down on base, the estimated wind speeds were down to between 43 and 52 knots.  It appears that the tornado hit the storage building as it was lifting away.  At least the hospital and housing area weren't affected by anything but the rain.<BR><BR>Current winds are still out of the southwest, but they're down to 15 knots, and the current temperature is 72 degrees.  The rain has also stopped in that area of the base.<BR><BR>I spoke with the facility manager a little bit ago.  He'd already left for the day, but he's on his way back in.  He said the unit Radiation Safety Officer is TDY so we'll need to rely on Bio.<BR><BR>What I learned from the facility manager already was that the waste in there is segregated by hazard type.  The building's approved for the storage of biological and radiological waste generated by patient therapy.  It's also storing some industrial chemicals generated by hospital operations.  The area with damage is the radiological waste storage area.]]>
+            </Tab_5>
+            <instruction>
+              <![CDATA[Select the items and people<BR>in the EOC for more information.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Lead" LPageNo="Page 3">
+            <PageName>media/Base_Page_03_L.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>
+              <![CDATA[<U>Narrator:</U>  You have just received the Building 808 information that your team sent over from the office.  Select each tab of the folder to review the information with the EOC Commander.]]>
+            </TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>Major Fletcher:</U> Commander, I have the Building 808 information now.  Here's the RAM Permit for that building.  It looks like it's permitted to store:<UL><LI>Cesium-137, in quantities up to 6 Ci</LI><LI>Cobalt-57, up to 1 Ci total</LI><LI>Iodine-125, up to 1 Ci total</LI><LI>Iodine-131, up to 2 Ci total</LI><LI>Iridium-192, up to 1 Ci total</LI><LI>Palladium-103, up to 1 Ci total</LI><LI>Sodium-22, up to 95 microCi</LI></UL>]]>
+            </Tab_1>
+            <Tab_2>
+              <![CDATA[<U>Major Fletcher:</U> The room that got hit isn't very large, only 30 by 30.]]>
+            </Tab_2>
+            <Tab_3>
+              <![CDATA[<U>Major Fletcher:</U> Hmmm, the last storage survey was done four months ago, so the quantities and isotopes it shows that were in that building then may be a little different now.  There wasn't any concern at the time of the last survey about exposure levels.]]>
+            </Tab_3>
+            <instruction>
+              <![CDATA[Select each tab of the folder and <BR>the available reports for more information.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Member" MPageNo="Page 3">
+            <PageName>media/Base_Page_03_M.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>
+              <![CDATA[<U>Narrator:</U>  Major Fletcher has just received the Building 808 information that you sent over from the office.  Select each tab of the folder to see what he is reviewing with the EOC Commander.]]>
+            </TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>Major Fletcher:</U> Commander, I have the Building 808 information now.  Here's the RAM Permit for that building.  It looks like it's permitted to store:<UL><LI>Cesium-137, in quantities up to 6 Ci</LI><LI>Cobalt-57, up to 1 Ci total</LI><LI>Iodine-125, up to 1 Ci total</LI><LI>Iodine-131, up to 2 Ci total</LI><LI>Iridium-192, up to 1 Ci total</LI><LI>Palladium-103, up to 1 Ci total</LI><LI>Sodium-22, up to 95 microCi</LI></UL>]]>
+            </Tab_1>
+            <Tab_2>
+              <![CDATA[<U>Major Fletcher:</U> The room that got hit isn't very large, only 30 by 30.]]>
+            </Tab_2>
+            <Tab_3>
+              <![CDATA[<U>Major Fletcher:</U> Hmmm, the last storage survey was done four months ago, so the quantities and isotopes it shows that were in that building then may be a little different now.  There wasn't any concern at the time of the last survey about exposure levels.]]>
+            </Tab_3>
+            <instruction>
+              <![CDATA[Select each tab of the folder and <BR>the available reports for more information.]]>
+            </instruction>
+          </Page>
+          <Page PageID="51040" CompentancyID ="1" CompentancyObj = "1" CompentancyText = "BE Basics" CompentancyDescription = "Recommend appropriate shelter-in-place/evacuation actions based upon a given hazard." CompentancyTopic = "" MPageNo="Page 4" LPageNo="Page 4">
+            <STS_Line>
+              <![CDATA[<li>3.1.5 Brief CBRN (and physical) hazards/risks to personnel (shop personnel, commanders, incident commander, etc.) </li><li>5.2.3 Use emergency management response plans and checklists</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Communicate HRA Results</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>AFI 10-2501, AF Emergency Management Program Planning and Operations</li><li>AFMAN 10-2502, AF Incident Mgmt System (AFIMS) Standards and Procedures</li>]]>
+            </Training_Reference>
+            <PageName>media/Base_Page_04.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>EOC Commander:</U>  Well, now we know what could be in there.  What I need to know next is what kind of contamination potential we're dealing with here and what we should be doing right now to protect people. ]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the EOC Commander to hear the question, then select all that apply.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 5" LPageNo="Page 5">
+            <PageName>media/Base_Page_05.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Make your decision. ]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 6" LPageNo="Page 6">
+            <PageName>media/Base_Page_06.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>Yes</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>Major Fletcher:</U>  An ECP is being established on the southwest side of the cordon set around Building 808.  The initial cordon has been set at 5,000 feet, but we need to see if it's feasible to reduce that once the situation has been further assessed.<BR><BR>What we know right now is that the area of the building that's been damaged is used for storage of radiological waste.  Other areas of the building containing biological and chemical waste have not been breached.  The facility manager is on his way back to base and will be able to provide an inventory so we can verify it against our information.<BR><BR>Please take a team of at least four to the ECP and begin assessment activities.  You'll need to report to the Incident Commander when you arrive.  CE has already ruled that the building is structurally sound and all other access to the building has been restricted until you complete your assessment.  The fire department has performed gross decon of the damage assessment team and first responders. Those personnel are remaining on site until they can be further evaluated.<BR><BR>Security Forces is informing individuals in the cordon area to remain sheltered-in-place until we have more information.  Resources are not available to perform evacuation until measurements are available that indicate it's warranted.<BR><BR>Also, the restriction of movement procedures outside the cordon area have been lifted.  Have someone who's staying at the office complete the recall of the flight in case we need them.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Select the items in the BE Office<BR>to gather more information.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 7" LPageNo="Page 7">
+            <PageName>media/Base_Page_07.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>No</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select all that apply, then click Done. ]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 8" LPageNo="Page 8">
+            <PageName>media/Base_Page_07a.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>Yes</Slider>
+            <Audio>Yes</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>No</DoesPageScores>
+            <TranscriptText>
+              <![CDATA[<U>Narrator:</U> At a minimum, equipment with the capability to survey for or measure radioactivity will be used in the response.  The Quicksilver Sampling Kit may be needed for collecting samples of material or taking swipe samples.  Taking a camera to document the scene is also a good idea.<br /><br />Use the buttons to compare the choices you made with the equipment selections for this scenario. ]]>
+            </TranscriptText>
+            <instruction>
+              <![CDATA[]]>
+            </instruction>
+          </Page>
+          <Page PageID="51080" CompentancyID ="5" CompentancyObj = "2" CompentancyText = "Equip" CompentancyDescription = "Identify capabilities and limitations of personal dosimeters." CompentancyTopic = "" MPageNo="Page 9" LPageNo="Page 9">
+            <STS_Line>
+              <![CDATA[<li>4.9.3.2 Types of personal dosimeters</li><li>6.15 Radiation detection equipment (theory of operation, capabilities, limitations for each)</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Perform HRA – Radiation</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>AFI 48-148, Ionizing Radiation Protection</li><li>EPD User’s Manual</li>]]>
+            </Training_Reference>
+            <PageName>media/Base_Page_08.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>No</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select the appropriate answers, <BR>then click Done.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 10" LPageNo="Page 10">
+            <PageName>media/Base_Page_09.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>Incident Commander:</U>  Ah, just in time.  This is Mr. Jackson.  He's the Facility Manager for Building 808.  He was just about to tell us what you can expect inside the building.]]>
+            </Tab_1>
+            <Tab_2>
+              <![CDATA[<U>Mr. Jackson, Facility Manager:</U> Here’s the inventory for the radiological waste storage area.  This is just temporary storage, so none of it stays here very long before being transported out.  Right now we have:<BR><BR><UL><LI>Cobalt-57</LI><LI>Cesium-137</LI><LI>Iridium-192</LI><LI>Palladium-103</LI></UL>The hospital brought over a box right before I left today, but I didn't have time to catalog it and I don't remember what it was. <BR><BR>I'd heard the reports on the radio that there was a tornado warning for the area so I took off a little early.<BR><BR>I put the box on the middle shelf back in that northwest corner. ]]>
+            </Tab_2>
+            <instruction>
+              <![CDATA[Click the Incident Commander<BR>to hear the on-scene briefing.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 11" LPageNo="Page 11">
+            <PageName>media/Base_Page_10.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>No</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>Yes</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select the correct answer, <BR>then click Done.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 12" LPageNo="Page 12">
+            <PageName>media/Base_Page_11.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>No</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText></TranscriptText>
+            <instruction>
+              <![CDATA[Select all that apply, then click Done.]]>
+            </instruction>
+          </Page>
+          <Page LPageNo="Page 13" MPageNo="Page 13" PageID="51120" CompentancyID ="5" CompentancyObj = "3" CompentancyText = "Equip" CompentancyDescription = "Determine the capabilities and limitations of radiation detection equipment." CompentancyTopic = "" >
+            <STS_Line>
+              <![CDATA[<li>6.15 Radiation detection equipment (theory of operation, capabilities, limitations for each)</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Perform HRA – Radiation</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>451P User’s Pamphlet</li><li>EPD User’s Manual</li><li>SAM 940 Field Guide</li>]]>
+            </Training_Reference>
+            <PageName>media/Base_Page_12.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>No</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select the appropriate answers,<BR> then click Done.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Lead" LPageNo="Page 14">
+            <PageName>media/Base_Page_13.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>No</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>MSgt Washington:</U> Bio-1 to Bio Lead.<BR><BR><U>Major Fletcher:</U> Go ahead.<BR><BR><U>MSgt Washington:</U>We’re about to conduct our initial entry into the scene.  Emergency Management has already established a Contamination Control Area at the ECP.  TSgt Nguyen and I will be going in as the first team.  We’ve completed auto calibration on the SAM 940.  Before we suit-up, I’ll also take a background reading with the SAM 940. <BR><BR>We’re each wearing an EPD.  We’ve set the dose rate alarm at 2 millirem per hour and the dose alarm at 50 millirem.<BR><BR>I’m going in as the lead, carrying the 451P to assess the dose rate. TSgt Nguyen will have the SAM 940 to identify isotopes if we can.  We’re also taking in the camera so we can capture what the area looks like.  Over. <BR><BR><U>Major Fletcher:</U> Roger.  Let us know what you find.  Out.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the graphic to hear your conversation with your response team.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Member" MPageNo="Page 14">
+            <PageName>media/Base_Page_13_M.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>No</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Click the graphic to hear your conversation with Major Fletcher.]]>
+            </instruction>
+            <Tab_1>
+              <![CDATA[<U>MSgt Washington:</U> Bio-1 to Bio Lead.<BR><BR><U>Major Fletcher:</U> Go ahead.<BR><BR><U>MSgt Washington:</U>We’re about to conduct our initial entry into the scene.  Emergency Management has already established a Contamination Control Area at the ECP.  TSgt Nguyen and I will be going in as the first team.  We’ve completed auto calibration on the SAM 940.  Before we suit-up, I’ll also take a background reading with the SAM 940. <BR><BR>We’re each wearing an EPD.  We’ve set the dose rate alarm at 2 millirem per hour and the dose alarm at 50 millirem.<BR><BR>I’m going in as the lead, carrying the 451P to assess the dose rate. TSgt Nguyen will have the SAM 940 to identify isotopes if we can.  We’re also taking in the camera so we can capture what the area looks like.  Over. <BR><BR><U>Major Fletcher:</U> Roger.  Let us know what you find.  Out.]]>
+            </Tab_1>
+          </Page>
+          <Page MPageNo="Page 15" LPageNo="Page 15">
+            <PageName>media/Base_Page_14.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>Yes</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>
+              <![CDATA[<U>MSgt Washington</U> I’m getting a reading of 23 mR/hr here at the doorway of the radiological storage room.  Let’s not go in any further yet.  We’ll just get a feel for what we’ve got from here.<BR><BR><U>TSgt Nguyen:</U> Roger.<BR><BR><U>MSgt Washington:</U> This place is a mess.<BR><BR><U>TSgt Nguyen:</U> Yeah, it sort of looks like a tornado hit it.<BR><BR><U>MSgt Washington:</U> Funny.<BR><BR><U>TSgt Nguyen:</U> Seriously though, I’m surprised this is all the damage a tornado did.  Some things are perfectly in place and others are turned over—very odd.  I guess we’re lucky it only hit this building before it moved on. <BR><BR><U>MSgt Washington:</U> Yeah, tornados are weird like that.  Let’s see what we’ve got. The most damage occurred right under the hole in the ceiling.  You see that PIG over there.  I’m not sure it’s still in tact.  It looks like something spilled out of it.<BR><BR><U>TSgt Nguyen:</U> I wonder what all this trash is about.  It looks like it came from that box that’s been torn open.<BR><BR><U>MSgt Washington:</U> The facility manager said the new waste that came today was in a box he put in that corner, and there’s not a box there now.  I wonder if the one that’s opened is the box he was talking about.  If so, that means it probably contains an isotope that wasn’t on his inventory list.]]>
+            </TranscriptText>
+            <instruction>
+              <![CDATA[]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 16" LPageNo="Page 16">
+            <PageName>media/Base_Page_15.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select all that apply, then click Done.]]>
+            </instruction>
+          </Page>
+          <Page PageID="51160" CompentancyID ="6" CompentancyObj = "4" CompentancyText = "CBRN" CompentancyDescription = "Identify radiological or nuclear hazards for a given scenario." CompentancyTopic = "" MPageNo="Page 17" LPageNo="Page 17">
+            <STS_Line>
+              <![CDATA[<li>4.9.2.2 Radiation and radioisotopes (quantities and units)</li><li>4.9.2.6 Identify radiological/nuclear hazards</li><li>4.9.2.8 Perform RAM storage and use surveys</li><li>4.9.2.11.1 Ion Chamber (i.e., Victoreen 451P)</li><li>6.15 Radiation detection equipment (theory of operation, capabilities, limitations for each)</li><li>6.15.2 Calibrate & operate 451P  (or equivalent)</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Perform HRA – Radiation</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>451P User's Manual</li><li>BE Guide to Ionizing Radiation</li>]]>
+            </Training_Reference>
+            <PageName>media/Base_Page_16.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select all that apply, then click Done.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 18"  LPageNo="Page 18">
+            <PageName>media/Base_Page_17.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>No</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>MSgt Washington:</U> Okay, so we know we have a gamma emitter here.  With this high of a dose reading already, we shouldn't stay too long. Have you started the identification yet?<BR><BR><U>TSgt Nguyen:</U> Yeah, the SAM 940 reading is already showing us Cesium-137.<BR><BR><U>MSgt Washington:</U> I don't think Major Fletcher thought the EPDs would alarm this quickly.  Because the dose rate's this high just inside the door, let's take a few pictures of the room and then back out and discuss the findings with him.  We can finish characterization of this area on a later entry.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the graphic to hear<BR>your entry team’s conversation.]]>
+            </instruction>
+          </Page>
+		  <Page PageID="51180" CompentancyID ="1" CompentancyObj = "5" CompentancyText = "BE Basics" CompentancyDescription = "Identify appropriate decontamination/contamination control procedures for a given scenario." CompentancyTopic = "" MPageNo="Page 19" LPageNo="Page 19">
+            <PageName>media/Base_Page_18.swf</PageName>
+            <STS_Line>
+              <![CDATA[<li>6.20 Recommend decontamination procedures (personnel, equipment, vehicles, aircraft, buildings)</li><li>6.21 Recommend contamination control of contaminated patients/casualties</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Perform HRA – Radiation</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>DoD 3150.8-M, Nuclear Accident Response Procedures (NARP)</li>]]>
+            </Training_Reference>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select the correct answer,<BR>then click Done.]]>
+            </instruction>
+          </Page>
+		  <Page MPageNo="Page 20" LPageNo="Page 20">
+            <PageName>media/Base_Page_19.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>No</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>MSgt Washington:</U> Bio-1 to Bio Lead.<BR><BR><U>Major Fletcher:</U> Go ahead.<BR><BR><U>MSgt Washington:</U> We’ve completed our initial entry and have processed through the CCA.  The EPDs alarmed at the door.  The 451P started picking up readings above background as soon as we walked in the building; it showed a dose rate of 23 mR/hr at the entryway of the rad storage room.<BR><BR>There’s a lead PIG on the floor about 27 feet from the entryway.  It appears to have been breached and there’s a small pile of what looks like little white pellets beside it.  We've identified Cesium-137 from the entryway.  Because our EPDs were alarming already, we didn’t proceed any further.<BR><BR>We visually identified several locations where potentially contaminated waste has been blown throughout the room.  It looks like it came from a breached storage box. <BR><BR>We visually identified several locations where potentially contaminated waste has been blown throughout the room.  It looks like it came from a breached storage box. <BR><BR>There’s a section of the roof torn off near the contamination and light damage to the wall.  The room has been exposed to some rain, but there’s not enough water in the room to have caused pooling.<BR><BR>We’ve taken pictures of the room from the entryway.  We’ll get them over to you.<BR><BR>We’ve also recorded our EPD dose readings of 3.8 millirem.  Over.<BR><BR><U>Major Fletcher:</U> Roger. The Commander wants an evaluation of whether that contamination got outside of the building.  We do need to go back in to characterize the contamination.  But, we also need to determine if we can reduce the cordon or if we need to deal with any effects of far-reaching contamination in the housing or hospital area, or even off-base.<BR><BR>I'll talk with the EM team about working up some plume modeling on the Cesium.  Over.<BR><BR><U>MSgt Washington:</U> Roger.  I think we need to call out some of the other BEs from the office so we can complete the outside assessment more efficiently.  That way, we can focus on getting enough information to determine impact to a wider population and sending in a team to finish the interior characterization as simultaneous priorities.  I'll get back with you about the specifics.  Over.<BR><BR><U>Major Fletcher:</U> I'll call the office and send out some more help.  I'll also recommend to the EOC Commander that we contact the ESOH Service Center to alert the USAFSAM Radiation Health Branch or AFRAT about the situation.  Out.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the graphic to hear your conversation with your response team.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Lead" LPageNo="Page 21">
+            <PageName>media/Base_Page_21_L.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>No</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>EOC Commander:</U> What's the status of your team, Major Fletcher?<BR><BR><U>Major Fletcher:</U> So far, my team has identified one radiological source that's been breached.  The isotope is Cesium-137, the source listed here on the inventory.<BR><BR>Because of the high dose rate readings they were receiving at the entryway they were only able to conduct preliminary measurements and take pictures.  We'll need to go back in to complete a more thorough survey and determine if there were other radioactive materials released.<BR><BR><U>EOC Commander:</U> High dose rates?  Does that mean that there's a medical consequence because of their entry? Or to the CE damage assessment team?<BR><BR><U>Major Fletcher:</U> We set our dose limits low enough to ensure there are no medical effects to our team.  We've initiated an exposure investigation and performed decon on the damage assessment team, Security Forces, and Fire.  We'll have to consult with the USAFSAM Radiation Health Branch or AFRAT to complete that process.<BR><BR><U>EOC Commander:</U> We need to determine whether that material was released to the environment.  With the housing area within the cordon, that's obviously one of our biggest concerns.<BR><BR><U>Major Fletcher:</U> I'm sending additional support to the ECP to assist in surveying within the cordon to assess whether the Cesium was dispersed.<BR><BR>I recommend talking with EM about developing a plume model for the potential dispersal of the Cesium so we can use that information in our surveying.  Also, I suggest that we go ahead and contact the ESOH Service Center so we can start getting guidance from the Radiation Health Branch or AFRAT.<BR><BR>We have enough team members available that we'll also be taking additional measurements inside the building to further characterize the hazard.<BR><BR>I'm gathering specific health effect information as well.<BR><BR><U>EOC Commander:</U> I agree with your recommendations for the next steps.  Make sure your people don't get overexposed in the building, and complete that exposure investigation as soon as possible.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the graphic to hear your conversation with the EOC Commander.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Member" MPageNo="Page 21">
+            <PageName>media/Base_Page_21_M.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>No</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>Incident Commander:</U> What’s the status of your team, MSgt Washington?<BR><BR><U>MSgt Washington:</U> So far, we’ve identified one radiological source that’s been breached.  The isotope is Cesium-137, the source listed here on the inventory.<BR><BR>Because of the high dose rate readings we were receiving at the entryway we were only able to conduct preliminary measurements and take pictures.  We’ll need to go back in to complete a more thorough survey and determine if there were other radioactive materials released.<BR><BR><U>Incident Commander:</U> High dose rates?  Does that mean that there’s a medical consequence because of your entry? Or to the CE damage assessment team?<BR><BR><U>MSgt Washington:</U> We set our dose limits low enough to ensure there are no medical effects to our team.  We’ve initiated an exposure investigation and performed decon on the damage assessment team, Security Forces, and Fire.  We’ll have to consult with the USAFSAM Radiation Health Branch or AFRAT to complete that process.<BR><BR><U>Incident Commander:</U> We need to determine whether that material was released to the environment.  With the housing area within the cordon, that’s obviously one of our biggest concerns.<BR><BR><U>MSgt Washington:</U> Major Fletcher is sending additional support to assist in surveying within the cordon to assess whether the Cesium was dispersed.<BR><BR>I recommend talking with EM about developing a plume model for the potential dispersal of the Cesium so we can use that information in our surveying.  Also, I am going to suggest to Major Fletcher that we go ahead and contact the ESOH Service Center so we can start getting guidance from the Radiation Health Branch or AFRAT. We have enough team members available that we‘ll also be taking additional measurements inside the building to further characterize the hazard.<BR><BR>Specific health effect information is being gathered as well.<BR><BR><U>Incident Commander:</U> I agree with your recommendations for the next steps.  Make sure you don’t get overexposed in the building.  We need to complete that exposure investigation as soon as possible.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the graphic to hear your conversation with the IC.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 22"  LPageNo="Page 22">
+            <PageName>media/Base_Page_22.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Drag the items to the appropriate locations, then click Done.]]>
+            </instruction>
+          </Page>
+		  <Page Name="Team Lead" PageID="51230" CompentancyID ="1,6" CompentancyObj = "6" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Investigate suspected ionizing radiation overexposure or abnormal exposure." CompentancyTopic = ""  LPageNo="Page 23" >
+            <STS_Line>
+              <![CDATA[<li>3.1.5 Brief CBRN (and physical) hazards/risks to personnel (shop personnel, commanders, incident commander, etc.)</li><li>4.9.2.12 Investigate suspected ionizing radiation overexposures/abnormal exposures</li><li>6.8 Medical countermeasures (Potassium iodide, Prussian Blue, Chelating Agents)</li><li>6.8.1 Recommend countermeasures</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Perform HRA – Radiation</li><li>Communicate HRA Results</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>AFI 48-148, Ionizing Radiation Protection, BE Guide to Ionizing Radiation</li><li>DoD 3150.8-M, Nuclear Accident Response Procedures (NARP)</li>]]>
+            </Training_Reference>
+            <PageName>media/Base_Page_23.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>EOC Commander:</U> What should we be doing for those responders who were likely exposed?]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the EOC Commander to hear the question, then select all that apply.]]>
+            </instruction>
+          </Page>
+		  <Page PageID="51230" MPageNo="Page 23" Name="Team Member"  CompentancyID ="1,6" CompentancyObj = "6" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Investigate suspected ionizing radiation overexposure or abnormal exposure." CompentancyTopic = "">
+            <STS_Line>
+              <![CDATA[<li>3.1.5 Brief CBRN (and physical) hazards/risks to personnel (shop personnel, commanders, incident commander, etc.)</li><li>4.9.2.12 Investigate suspected ionizing radiation overexposures/abnormal exposures</li><li>6.8 Medical countermeasures (Potassium iodide, Prussian Blue, Chelating Agents)</li><li>6.8.1 Recommend countermeasures</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Perform HRA – Radiation</li><li>Communicate HRA Results</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>AFI 48-148, Ionizing Radiation Protection, BE Guide to Ionizing Radiation</li><li>DoD 3150.8-M, Nuclear Accident Response Procedures (NARP)</li>]]>
+            </Training_Reference>
+            <PageName>media/Base_Page_23_M.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>Incident Commander:</U> What should we be doing for those responders who were likely exposed?]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the Incident Commander to hear the question, then select all that apply.]]>
+            </instruction>
+          </Page>
+		  <Page PageID="51240" CompentancyID ="1,6" CompentancyObj = "7" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Differentiate between types of radiation." CompentancyTopic = "" LPageNo="Page 24" MPageNo="Page 24">
+            <PageName>media/Base_Page_24.swf</PageName>
+            <STS_Line>
+              <![CDATA[<li>4.9.1.4 Types of radiation</li><li>6.5.3 Radiation hazards</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Perform HRA – Radiation</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>AFPAM 10-100, Airman's Manual</li><li>BE Guide to Ionizing Radiation</li>]]>
+            </Training_Reference>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select the appropriate column for each item, then click Done.]]>
+            </instruction>
+          </Page>
+		  <Page  PageID="51250" CompentancyID ="1" CompentancyObj = "8" CompentancyText = "BE Basics" CompentancyDescription = "Identify on and off-base agencies that should be notified of radiological incidents." CompentancyTopic = "" MPageNo="Page 25" LPageNo="Page 25">
+            <PageName>media/Base_Page_25.swf</PageName>
+            <STS_Line>
+              <![CDATA[<li>4.9.1.1 Roles and interactions in Radiation Safety Program Management</li><li>5.2.3 Use emergency management response plans and checklists</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Perform HRA – Radiation</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>AFI 10-2501, Air Force Emergency Management (EM) Program Planning and Operations</li><li>AFI 40-201, Managing Radioactive Materials in the US Air Force</li>]]>
+            </Training_Reference>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select the correct answer,<BR>then click Done. ]]>
+            </instruction>
+          </Page>
+		  <Page MPageNo="Page 26" LPageNo="Page 26">
+            <PageName>media/Base_Page_26.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>No</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 27" LPageNo="Page 27">
+            <PageName>media/Base_Page_27.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>Major Stevens:</U>  Radiation Health Branch.<BR><BR><U>Major Fletcher:</U> Hi, this is Major Fletcher from the BE flight at Lawrence.  We're responding to a possible radiological incident here.  I hate to bother you at home, but I called the ESOH Service Center and they said I should contact you since it's probably not a large enough incident that AFRAT will be activated.<BR><BR><U>Major Stevens:</U> Tell me about what you're dealing with.<BR><BR><U>Major Fletcher:</U> At 1625, a tornado hit a hospital hazardous waste storage area.  The tornado caused minor to moderate damage to a part of the building storing radiological waste.  A section of the roof was torn off, with little damage to the outside walls.<BR><BR><U>Major Stevens:</U> Has your team or anyone else been inside the building yet?<BR><BR><U>Major Fletcher:</U> Yes, we have.  Security Forces were first on scene, followed shortly by Fire.  They conducted a perimeter search of the building. A CE damage assessment team went in before they realized the possible hazard and weren't in PPE.  My team arrived shortly after that and conducted an initial entry. Their EPDs alarmed at the door, so they took some initial readings and then backed out to make a second entry plan.<BR><BR><U>Major Stevens:</U> All right, it sounds like you're on the right track.  Why don't you send me an email with any of the specifics you've got – initial measurements and readings, building layout, RAM Permit, all of that.  I'll go into the office, and then give you a call back when I get the email and we can go over it together.<BR><BR><U>Major Stevens:</U> Will do.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the graphic to hear<BR>your conversation.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 28" LPageNo="Page 28">
+            <PageName>media/Base_Page_28.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>No</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_3>
+              <![CDATA[<U>Major Fletcher:</U> Major Fletcher<BR><BR><U>Major Stevens:</U> Hey, it's Major Stevens.  I got your email and looked at the attachments.  It looks like the Lead PIG that was breached is most likely the source of the Cesium.  Could your techs tell anything about the condition of the Cesium?<BR><BR><U>Major Fletcher:</U> They said it just looked like a small pile of pellets.  It was damp in the area, but as I noted, there weren't any pools of water.<BR><BR><U>Major Stevens:</U> And the readings were taken about 27 feet from that Cesium?<BR><BR><U>Major Fletcher:</U> Right.<BR><BR><U>Major Stevens:</U> Okay, it seems like that can be considered a point source then.  I looked at the RAM Permit and the inventory.  It doesn't seem like they're currently storing all of the permitted items, is that right?<BR><BR><U>Major Fletcher:</U> Yes, that's right.  Based on the information we have, they don't currently have any Iodine-125, Iodine-131, or Sodium-22 in storage.  But, the facility manager indicated there was one item that came in today that's not on the inventory.  He doesn't remember what it was.<BR><BR><U>Major Stevens:</U> Do we know yet what's on the debris?<BR><BR><U>Major Fletcher:</U> No, they weren't able to identify it before their alarms sounded.<BR><BR><U>Major Stevens:</U> Okay.  What are you planning to do next?<BR><BR><U>Major Fletcher:</U> We're collecting health effects information on all the possible isotopes in the building, and our team at the ECP is preparing for a second entry to determine the extent of contamination and to further characterize the situation.  Also, we're preparing to send teams to evaluate the cordon area – we'd like to get that cordon decreased and reduce PPE requirements. I'm going to talk to EM right now about getting plume models worked up.<BR><BR><U>Major Stevens:</U> Great.  Remember when trying to reduce the cordon to look at public exposure limits and determine your RP requirements based on the derived air concentration for Cesium-137 rather than the plutonium-based guidelines from the NARP.  Are you doing anything to evaluate those individuals who were on scene before the initial BE entry?<BR><BR><U>Major Fletcher:</U> The Fire Department performed decon, and EM monitored for contamination with negative results.  We recommended that bioassay sampling be initiated on those individuals in the form of nasal swabs and urine samples.  One of my techs is helping with exposure investigation interviews right now.<BR><BR><U>Major Stevens:</U> Sounds like you have a handle on the situation.  We probably won't have to activate a full AFRAT response, but keep us posted.  At a minimum, it looks like we'll send a small team from here to help out once we have all the details.  I'll start things on my end for that.]]>
+            </Tab_3>
+            <instruction>
+              <![CDATA[Select the items in the office<BR>to complete the consultation.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 29" LPageNo="Page 29">
+            <PageName>media/Base_Page_29.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>Major Fletcher:</U> Sergeant Romero, we need to get a plume model for the potential Cs-137 release to the environment.  Can you help us out with that?<BR><BR><U>MSgt Romero:</U> Actually, we’ve already looked at the data points that we would normally enter into the Joint Effects Modeling Program.  Normally, weather is input based upon wind speed, direction, and stability categories.  Those don’t apply to a tornado situation.  Any model we’d attempt to run would be inappropriate, based on what we know.<BR><BR>We recommend maintaining the 5,000 ft cordon until you can conduct a radial survey to get ground truth on what you have.<BR><BR><U>Major Fletcher:</U> Ok, thanks for your information.  We’ll work based from that recommendation.<BR><BR><U>MSgt Romero:</U> We have some additional personnel on scene.  If you need some help, we’re also trained on conducting radial surveys and we’d be happy to augment your team.  Do you have any sense of how much could have been released into the environment?]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the graphic to hear<BR>your conversation with EM.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 30" LPageNo="Page 30">
+            <PageName>media/Base_Page_30.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>Yes</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select the correct answer, then click Done. For assistance, click the Lifeline. ]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 31" LPageNo="Page 31">
+            <PageName>media/Base_Page_31.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>Major Fletcher:</U> Based on the inventory amount of 5.2 Ci and the estimated activity left in the building, the maximum amount we expect released to the environment is 0.2 Curie.<BR><BR><U>MSgt Romero</U> With that level of potential release it sounds like the radial survey is definitely the way to go.  Again, let me know if we can help. ]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the graphic to hear<BR>your conversation with EM.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Lead" LPageNo="Page 32">
+            <PageName>media/Base_Page_32.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>Yes</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>MSgt Washington:</U>  Bio-1 to Bio Lead.<BR><BR><U>Major Fletcher:</U> Go ahead.<BR><BR><U>MSgt Washington:</U> We have 8 people on scene right now.  We’re planning to split up for the survey process, using the four additional team members from the office (SSgt Jones, TSgt Schmidt, TSgt Zhang, and SrA Powell) to conduct surveys within the cordon.  They’ve set up temporary lighting, so they shouldn’t have any problem completing the surveying as the sun sets.<BR><BR>Also, SSgt Sumrall and SrA O’Neill, who came with us originally, will enter the building to conduct further characterization of the debris.  Over.<BR><BR><U>Major Fletcher:</U> Putting four people on the outside survey is probably a good idea.  There’s not appropriate plume modeling available for this kind of an incident, so you should plan to conduct a radial survey in the cordon and conduct air sampling.  Some personnel from EM are heading over to support that activity as well.<BR><BR>The Radiation Health Branch is on stand-by until we have more information from the cordon survey and air sampling.  If needed, they can be here within the next day.  Until then, we will proceed with response operations.  TSgt Hopper is at the hospital helping with assessment of the personnel who could have been exposed.  Over. <BR><BR><U>MSgt Washington:</U> Copy.  Out.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the graphic to hear your conversation with your response team.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Member" MPageNo="Page 32">
+            <PageName>media/Base_Page_32_M.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>Yes</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>MSgt Washington:</U>  Bio-1 to Bio Lead.<BR><BR><U>Major Fletcher:</U> Go ahead.<BR><BR><U>MSgt Washington:</U> We have 8 people on scene right now.  We’re planning to split up for the survey process, using the four additional team members from the office (SSgt Jones, TSgt Schmidt, TSgt Zhang, and SrA Powell) to conduct surveys within the cordon.  They’ve set up temporary lighting, so they shouldn’t have any problem completing the surveying as the sun sets.<BR><BR>Also, SSgt Sumrall and SrA O’Neill, who came with us originally, will enter the building to conduct further characterization of the debris.  Over.<BR><BR><U>Major Fletcher:</U> Putting four people on the outside survey is probably a good idea.  There’s not appropriate plume modeling available for this kind of an incident, so you should plan to conduct a radial survey in the cordon and conduct air sampling.  Some personnel from EM are heading over to support that activity as well.<BR><BR>The Radiation Health Branch is on stand-by until we have more information from the cordon survey and air sampling.  If needed, they can be here within the next day.  Until then, we will proceed with response operations.  TSgt Hopper is at the hospital helping with assessment of the personnel who could have been exposed.  Over.<BR><BR><U>MSgt Washington:</U> Copy.  Out.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the graphic to hear your conversation with Major Fletcher.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 33" LPageNo="Page 33">
+            <PageName>media/Base_Page_33.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select all that apply, then click Done.]]>
+            </instruction>
+          </Page>
+          <Page PageID="51340" CompentancyID ="1,6" CompentancyObj = "9" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Perform ionizing radiation calculations." CompentancyTopic = "" MPageNo="Page 34" LPageNo="Page 34">
+            <PageName>media/Base_Page_34.swf</PageName>
+            <STS_Line>
+              <![CDATA[<li>3.2.1  Solve calculations using basic arithmetic functions (add, subtract, multiply, and divide whole numbers, fractions, and decimals)</li><li>3.2.2 Perform conversion of units using dimensional analysis (formula manipulation), metric conversions</li><li>4.9.2.13 Perform ionizing radiation calculations (dose, dose rate, stay time, protection factors, decay, etc.)</li><li>6.13 Calculate stay times</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Perform HRA – Radiation</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>AFI 48-148, Ionizing Radiation Protection</li><li>BE Guide to Ionizing Radiation</li><li>BE Field Manual</li>]]>
+            </Training_Reference>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>Yes</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Complete the calculations, then click Done.  For assistance, click the Lifeline.]]>
+            </instruction>
+          </Page>
+		  <Page MPageNo="Page 35" LPageNo="Page 35">
+            <PageName>media/Base_Page_34a.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Click the graphic to see the calculation.]]>
+            </instruction>
+          </Page>
+          <Page PageID="51350" CompentancyID ="1,6" CompentancyObj = "10" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Determine proper controls based on the radiological health hazard." CompentancyTopic = "" MPageNo="Page 36" LPageNo="Page 36">
+            <PageName>media/Base_Page_35.swf</PageName>
+            <STS_Line>
+              <![CDATA[<li>4.9.2.14 Ionizing radiation hazard controls</li><li>6.25 Evaluate personnel exposure/risk assessment</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Perform HRA – Radiation</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>AFI 48-148, Ionizing Radiation Protection</li><li>BE Guide to Ionizing Radiation</li><li>BE Field Manual</li>]]>
+            </Training_Reference>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select all that apply, then click Done.]]>
+            </instruction>
+          </Page>
+		  <Page PageID="51360" CompentancyID ="1,6" CompentancyObj = "11" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Determine appropriate controls based on the radiological health hazard." CompentancyTopic = "" MPageNo="Page 37" LPageNo="Page 37">
+            <PageName>media/Base_Page_36.swf</PageName>
+            <STS_Line>
+              <![CDATA[<li>4.9.2.14 Ionizing radiation hazard controls</li><li>6.25 Evaluate personnel exposure/risk assessment</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Perform HRA – Radiation</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>AFI 48-148, Ionizing Radiation Protection</li><li>BE Guide to Ionizing Radiation</li><li>BE Field Manual</li>]]>
+            </Training_Reference>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select all that apply, then click Done.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Lead" LPageNo="Page 38">
+            <PageName>media/Base_Page_37.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>Yes</Slider>
+            <Audio>Yes</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>
+              <![CDATA[<U>Narrator:</U> Before your interior surveying team enters, you want to talk with the Radiation Health Branch to determine how the shielding measures will affect their stay time.]]>
+            </TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>Major Stevens:</U> Major Stevens.<BR><BR><U>Major Fletcher:</U> Hi, this is Major Fletcher.  I have a quick question to run by you.<BR><BR><U>Major Stevens:</U> OK, what’s that?<BR><BR><U>Major Fletcher:</U> We’ve determined that we can safely increase the EPD dose alarm to 2.5 REM, which will increase the time my team can stay inside the building for characterization activities to 36 minutes.<BR><BR>We also plan to shield the Cesium source by covering it with 2 lead aprons and 6 inches of soil in sand bags.  And finally, we’re going to build a brick cave around that area with bricks that are 4 inches thick. <BR><BR><U>Major Stevens.</U> Those are good controls to put in place.  That should get you quite a bit more time in the hot zone to finish the work.<BR><BR><U>Major Fletcher:</U> Well, that’s exactly my question.  How much will the stay time increase by adding that shielding?<BR><BR><U>Major Stevens:</U> Give me just a minute here.<BR><BR>All right, with the increase in the dose limit and the shielding, taking into account the dose received while constructing the shielding, I would plan on a stay time of 2 1/2 hours.  Additional entry teams after the controls are put into place could stay in up to 3 1/2 hours.<BR><br>These stay times should keep people under the dose limit of 2.5 REM.  Mind you, these are estimated stay times; that’s why you have your EPDs to monitor the dose while you’re in there.<BR><BR><U>Major Fletcher:</U> Great, thanks.<BR><BR><U>Major Stevens:</U> Have you gotten the plume model yet?  Or had any preliminary results from your air sampling?<BR><BR><U>Major Fletcher:</U> Actually, after consulting with EM we found out there was not an appropriate plume model to fit this situation.  My team and EM are conducting radial surveys to characterize the area.  The RADeCos are still running, so we don’t have air sampling results yet.  I’ll keep you posted.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Select the graphic to hear <BR>your conversation.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Member" MPageNo="Page 38">
+            <PageName>media/Base_Page_37_M.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>Yes</Slider>
+            <Audio>Yes</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>
+              <![CDATA[<U>Narrator:</U> Before your interior surveying team enters, Major Fletcher wants to talk with the Radiation Health Branch to determine how the shielding measures will affect their stay time.]]>
+            </TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>Major Stevens:</U> Major Stevens.<BR><BR><U>Major Fletcher:</U> Hi, this is Major Fletcher.  I have a quick question to run by you.<BR><BR><U>Major Stevens:</U> OK, what’s that?<BR><BR><U>Major Fletcher:</U> We’ve determined that we can safely increase the EPD dose alarm to 2.5 REM, which will increase the time my team can stay inside the building for characterization activities to 36 minutes.<BR><BR>We also plan to shield the Cesium source by covering it with 2 lead aprons and 6 inches of soil in sand bags.  And finally, we’re going to build a brick cave around that area with bricks that are 4 inches thick. <BR><BR><U>Major Stevens.</U> Those are good controls to put in place.  That should get you quite a bit more time in the hot zone to finish the work.<BR><BR><U>Major Fletcher:</U> Well, that’s exactly my question.  How much will the stay time increase by adding that shielding?<BR><BR><U>Major Stevens:</U> Give me just a minute here.<BR><BR>All right, with the increase in the dose limit and the shielding, taking into account the dose received while constructing the shielding, I would plan on a stay time of 2 1/2 hours.  Additional entry teams after the controls are put into place could stay in up to 3 1/2 hours.<BR><br>These stay times should keep people under the dose limit of 2.5 REM.  Mind you, these are estimated stay times; that’s why you have your EPDs to monitor the dose while you’re in there.<BR><BR><U>Major Fletcher:</U> Great, thanks.<BR><BR><U>Major Stevens:</U> Have you gotten the plume model yet?  Or had any preliminary results from your air sampling?<BR><BR><U>Major Fletcher:</U> Actually, after consulting with EM we found out there was not an appropriate plume model to fit this situation.  My team and EM are conducting radial surveys to characterize the area.  The RADeCos are still running, so we don’t have air sampling results yet.  I’ll keep you posted.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Select the graphic to hear <BR>Major Fletcher’s conversation.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 39" LPageNo="Page 39">
+            <PageName>media/Base_Page_38.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>Yes</IsBookmarkPoint>
+            <DoesPageScores>No</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 40" LPageNo="Page 40">
+            <PageName>media/Base_Page_39.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>No</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>SSgt Sumrall:</U> Bio-1 this is Bio-2.<BR><BR><U>MSgt Washington:</U> Go ahead.<BR><BR><U>SSgt Sumrall:</U> We shielded the Cesium as discussed and confirmed the dose rate decreased as expected.<BR><BR><U>MSgt Washington:</U> Copy.  <BR><BR><U>SSgt Sumrall:</U> Just wanted to let you know we have identified the isotope present on the debris in the storage room.  It’s Iodine-131.  It and the Cesium are all we’re finding.  Over.<BR><BR><U>MSgt Washington:</U> That Iodine must be what was brought in this afternoon, because it’s not on the current inventory.  How’s it going in there?  <BR><BR><U>SSgt Sumrall:</U> We’ve finished most of the characterization in the radiological storage area, and we’re moving to the other areas now.  We shouldn’t be much longer.  Over.<BR><BR><U>MSgt Washington:</U> Roger.  The cordon survey teams haven’t returned yet either, but so far they haven’t found any ground contamination.  Over.<BR><BR><U>SSgt Sumrall:</U> It doesn’t look like much, if anything, would have gotten carried out of here.  Out.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the graphic to hear<BR>your team’s conversation.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 41"  LPageNo="Page 41">
+            <PageName>media/Base_Page_40.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>Yes</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>No</DoesPageScores>
+            <TranscriptText>
+              <![CDATA[<U>Narrator:</U>  SSgt Sumrall and SrA O'Neill have completed their interior surveying and have mapped the extent of contamination for I-131 as well as dose rate measurements for the Cs-137.  They have completed decon at the CCA and returned to the ECP staging area.]]>
+            </TranscriptText>
+            <instruction>
+              <![CDATA[Click the graphic to view<BR>the dose rate measurements.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 42"  LPageNo="Page 42">
+            <PageName>media/Base_Page_41.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>No</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 43"  LPageNo="Page 43">
+            <PageName>media/Base_Page_42.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 44" LPageNo="Page 44">
+            <PageName>media/Base_Page_43.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>Yes</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select all that apply, then click Done. ]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Lead" LPageNo="Page 45">
+            <PageName>media/Base_Page_44.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>
+              <![CDATA[<U>Narrator:</U> As MSgt Washington and TSgt Nguyen finish reviewing all current results with their team, TSgt Hopper, who had been at the hospital helping with evaluation of the damage assessment team and first responders, arrives at the ECP.]]>
+            </TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>TSgt Hopper:</U> MSgt Washington, Major Fletcher asked me to bring you the information I got from the hospital so you can compare it to what you’ve found.<BR><BR><U>MSgt Washington:</U> What do you have for us?<BR><BR><U>TSgt Hopper:</U> Well, I conducted interviews with the Security Forces, Fire, and CE personnel who initially responded to the scene.  The summary is that Security Forces and Fire remained outside of the building and conducted a full perimeter search.  A damage assessment team of two CEs entered the building to check for structural integrity.  One headed straight back toward the area of damage, while the other did a check of the front rooms before proceeding toward the room in the northwest corner where she met her teammate at the door.<BR><BR><U>MSgt Washington:</U> Did both CEs ever enter the radiological storage room?<BR><BR><U>TSgt Hopper:</U> No, just the first guy.  He had to push a box out of the way to open the door completely, and then he said he only walked about a foot in the room and could see that there was quite a mess going on in there.  He did a complete visual survey to determine that there was very minimal damage to the walls and that, while the roof had a corner torn off, it was substantially in tact.  That’s when he noticed the radiation placard on the door and he knew it wasn’t a good idea for him to hang around.<BR><BR><U>MSgt Washington:</U> Anything else happen while they were in the building?<BR><BR><U>TSgt Hopper:</U> As soon as they got out of the building they checked with the Fire team to make sure that the outside looked good too, and then they called their team lead to inform him that they thought they might have been exposed to something.  About that time is when the EOC Commander alerted the Fire Department and EM to have those individuals go through decon.  <BR><BR><U>MSgt Washington:</U> Has the hospital run any tests?<BR><BR><U>TSgt Hopper:</U> Yeah, they took nasal swabs to check for signs of inhalation, and then initiated urine samples.  I checked the nasal swabs with the ADM-300 with beta probe and they showed no indication of internal contamination.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the graphic to hear<BR>your team’s conversation.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Member" MPageNo="Page 45">
+            <PageName>media/Base_Page_44_M.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>
+              <![CDATA[<U>Narrator:</U> As you finish reviewing all current results with the other team members, TSgt Hopper, who had been at the hospital helping with evaluation of the damage assessment team and first responders, arrives at the ECP. ]]>
+            </TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>TSgt Hopper:</U> MSgt Washington, Major Fletcher asked me to bring you the information I got from the hospital so you can compare it to what you’ve found.<BR><BR><U>MSgt Washington:</U> What do you have for us?<BR><BR><U>TSgt Hopper:</U> Well, I conducted interviews with the Security Forces, Fire, and CE personnel who initially responded to the scene.  The summary is that Security Forces and Fire remained outside of the building and conducted a full perimeter search.  A damage assessment team of two CEs entered the building to check for structural integrity.  One headed straight back toward the area of damage, while the other did a check of the front rooms before proceeding toward the room in the northwest corner where she met her teammate at the door.<BR><BR><U>MSgt Washington:</U> Did both CEs ever enter the radiological storage room?<BR><BR><U>TSgt Hopper:</U> No, just the first guy.  He had to push a box out of the way to open the door completely, and then he said he only walked about a foot in the room and could see that there was quite a mess going on in there.  He did a complete visual survey to determine that there was very minimal damage to the walls and that, while the roof had a corner torn off, it was substantially in tact.  That’s when he noticed the radiation placard on the door and he knew it wasn’t a good idea for him to hang around.<BR><BR><U>MSgt Washington:</U> Anything else happen while they were in the building?<BR><BR><U>TSgt Hopper:</U> As soon as they got out of the building they checked with the Fire team to make sure that the outside looked good too, and then they called their team lead to inform him that they thought they might have been exposed to something.  About that time is when the EOC Commander alerted the Fire Department and EM to have those individuals go through decon.  <BR><BR><U>MSgt Washington:</U> Has the hospital run any tests?<BR><BR><U>TSgt Hopper:</U> Yeah, they took nasal swabs to check for signs of inhalation, and then initiated urine samples.  I checked the nasal swabs with the ADM-300 with beta probe and they showed no indication of internal contamination.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the graphic to hear<BR>your conversation.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 46" LPageNo="Page 46">
+            <PageName>media/Base_Page_45.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select all that apply, then click Done.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Lead" LPageNo="Page 47">
+            <PageName>media/Base_Page_46.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>No</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>MSgt Washington:</U> Bio-1 to Bio Lead.<BR><BR><U>Major Fletcher:</U> Go ahead.<BR><BR><U>MSgt Washington:</U> We’ve completed our surveying. Over.<BR><BR><U>Major Fletcher:</U> What are we dealing with?<BR><BR><U>MSgt Washington:</U> We’ve identified the isotope that wasn’t on the inventory – it’s I-131 and it’s on the debris that was thrown around the room.  No I-131 was detected outside of the building and no debris has escaped the confines of the building that we found.  It’s unlikely that any additional I-131 exposure will occur.  <BR><BR>Surveys for surface or ground presence of Cs-137 were negative, but there is a detectable dose rate around the northwest corner of the building within 35 ft.  Based on the reduction in count rate over a 30-minute period, we can conclude that if any Cesium was released to the air, it’s negligible and has been dispersed to levels that do not pose any significant health threat.  Based upon the 2 mR/hr line, it’s safe to reduce the cordon to 300 ft and lift the shelter-in-place restrictions.  Over.<BR><BR><U>Major Fletcher:</U> Copy.  Have you talked with TSgt Hopper about the damage assessment team and first responders yet? Over.<BR><BR><U>MSgt Washington:</U> Yes, sir.  Based on their interviews and our map of the contamination in the building, it looks like one of the CEs entered the radiological room.  He also touched the box that contained the I-131 waste.  They didn’t find any external contamination and the nasal swabs that were taken didn’t indicate internal contamination.  They’ve started urine sampling though to confirm.  The dose reconstruction should probably be performed on the Security Forces, Fire, and CE damage assessment team who were in the area so their dose can be documented in their medical records.  Over. <BR><BR><U>Major Fletcher:</U> Copy. Send your map of the interior and notes on your other findings over.  I’m going to brief the EOC Commander.  Then, take a break.  I am going to recommend to the EOC Commander that he request a small group from the Radiation Health Branch come in to help with the clean up and any other required activities.  Out.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the graphic to hear your conversation with your response team.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Member" MPageNo="Page 47">
+            <PageName>media/Base_Page_46_M.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>No</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>MSgt Washington:</U> Bio-1 to Bio Lead.<BR><BR><U>Major Fletcher:</U> Go ahead.<BR><BR><U>MSgt Washington:</U> We’ve completed our surveying. Over.<BR><BR><U>Major Fletcher:</U> What are we dealing with?<BR><BR><U>MSgt Washington:</U> We’ve identified the isotope that wasn’t on the inventory – it’s I-131 and it’s on the debris that was thrown around the room.  No I-131 was detected outside of the building and no debris has escaped the confines of the building that we found.  It’s unlikely that any additional I-131 exposure will occur.  <BR><BR>Surveys for surface or ground presence of Cs-137 were negative, but there is a detectable dose rate around the northwest corner of the building within 35 ft.  Based on the reduction in count rate over a 30-minute period, we can conclude that if any Cesium was released to the air, it’s negligible and has been dispersed to levels that do not pose any significant health threat.  Based upon the 2 mR/hr line, it’s safe to reduce the cordon to 300 ft and lift the shelter-in-place restrictions.  Over.<BR><BR><U>Major Fletcher:</U> Copy.  Have you talked with TSgt Hopper about the damage assessment team and first responders yet? Over.<BR><BR><U>MSgt Washington:</U> Yes, sir.  Based on their interviews and our map of the contamination in the building, it looks like one of the CEs entered the radiological room.  He also touched the box that contained the I-131 waste.  They didn’t find any external contamination and the nasal swabs that were taken didn’t indicate internal contamination.  They’ve started urine sampling though to confirm.  The dose reconstruction should probably be performed on the Security Forces, Fire, and CE damage assessment team who were in the area so their dose can be documented in their medical records.  Over. <BR><BR><U>Major Fletcher:</U> Copy. Send your map of the interior and notes on your other findings over.  I’m going to brief the EOC Commander.  Then, take a break.  I am going to recommend to the EOC Commander that he request a small group from the Radiation Health Branch come in to help with the clean up and any other required activities.  Out.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[Click the graphic to hear<BR>your conversation.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Lead" LPageNo="Page 48">
+            <PageName>media/Base_Page_47.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>Yes</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>
+              <![CDATA[<U>Narrator:</U> Before you brief the EOC Commander on your team’s findings, you decide to check your email to see if you have received the health effects information from the office.]]>
+            </TranscriptText>
+            <instruction>
+              <![CDATA[Select the computer screen<BR>to check your email.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Member" MPageNo="Page 48">
+            <PageName>media/Base_Page_47_M.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>Yes</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>
+              <![CDATA[<U>Narrator:</U> Before you brief the Incident Commander on your latest findings, you decide to review the health effects information sent over from the office, focusing on the information for only those isotopes identified during the building surveys.]]>
+            </TranscriptText>
+            <instruction>
+              <![CDATA[Click each document<BR>for more information.]]>
+            </instruction>
+          </Page>
+		  <Page PageID="51480" CompentancyID ="1,6" CompentancyObj = "12" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Associate potential biological effects to types of ionizing radiation." CompentancyTopic = "" MPageNo="Page 49" LPageNo="Page 49">
+            <PageName>media/Base_Page_48.swf</PageName>
+            <STS_Line>
+              <![CDATA[<li>3.1.5 Brief CBRN (and physical) hazards/risks to personnel (shop personnel, commanders, incident commander, etc.)</li><li>4.9.2.4 Biological effects of ionizing radiation</li><li>4.1.2.9 Associate exposure with affected personnel using spatial and temporal reference marks</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Perform HRA – Radiation</li><li>Communicate HRA Results</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>AFI 48-148, Ionizing Radiation Protection</li><li>BE Guide to Ionizing Radiation</li><li>BE Field Manual</li>]]>
+            </Training_Reference>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint></IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select the appropriate column for each item, then click Done.]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 50" LPageNo="Page 50">
+            <PageName>media/Base_Page_49.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>Yes</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select all that apply, then click Done. ]]>
+            </instruction>
+          </Page>
+		  <Page PageID="51500" CompentancyID ="1,6" CompentancyObj = "13" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Determine how radioactive decay affects hazard control." CompentancyTopic = "" MPageNo="Page 51" LPageNo="Page 51">
+            <PageName>media/Base_Page_50.swf</PageName>
+            <STS_Line>
+              <![CDATA[<li>3.2.1  Solve calculations using basic arithmetic functions (add, subtract, multiply, and divide whole numbers, fractions, and decimals)</li><li>3.2.2 Perform conversion of units using dimensional analysis (formula manipulation), metric conversions</li><li>4.9.2.1 Radioactive decay</li><li>4.9.2.14 Ionizing radiation hazard controls</li><li>4.9.2.13 Perform ionizing radiation calculations</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Perform HRA – Radiation</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>AFI 48-148, Ionizing Radiation Protection</li><li>BE Guide to Ionizing Radiation</li><li>BE Field Manual</li>]]>
+            </Training_Reference>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select the correct answer,<BR>then click Done. ]]>
+            </instruction>
+          </Page>
+          <Page PageID="51510" CompentancyID ="1" CompentancyObj = "14" CompentancyText = "BE Basics" CompentancyDescription = "Identify the information that is critical to communicate concerning hazards." CompentancyTopic = "" MPageNo="Page 52" LPageNo="Page 52">
+            <PageName>media/Base_Page_51.swf</PageName>
+            <STS_Line>
+              <![CDATA[<li>3.1.5 Brief CBRN (and physical) hazards/risks to personnel (shop personnel, commanders, incident commander, etc.)</li><li>4.1.10 Health risk assessment</li><li>4.9.2.14 Ionizing radiation hazard controls</li><li>4.9.2.15 ALARA training</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Perform HRA – Radiation</li><li>Communicate HRA Results</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>DoD Risk Communication Primer: A Guide for Communicating with Any Stakeholder on Any Issue that Impacts Your Mission</li>]]>
+            </Training_Reference>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select all that apply, then click Done.]]>
+            </instruction>
+          </Page>
+          <Page PageID="51520" CompentancyID ="1" CompentancyObj = "15" CompentancyText = "BE Basics" CompentancyDescription = "Identify the fundamentals of risk communication." CompentancyTopic = "" MPageNo="Page 53" LPageNo="Page 53">
+            <PageName>media/Base_Page_52.swf</PageName>
+            <STS_Line>
+              <![CDATA[<li>3.1.3 Fundamentals of risk communication</li>]]>
+            </STS_Line>
+            <RSV_Area>
+              <![CDATA[<li>Communicate HRA Results</li>]]>
+            </RSV_Area>
+            <Training_Reference>
+              <![CDATA[<li>DoD Risk Communication Primer: A Guide for Communicating with Any Stakeholder on Any Issue that Impacts Your Mission</li>]]>
+            </Training_Reference>
+            <PageType>Animation</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>Yes</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <instruction>
+              <![CDATA[Select all that apply, then click Done.]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Lead" LPageNo="Page 54">
+            <PageName>media/Base_Page_53.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>Yes</Slider>
+            <Audio>Yes</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>EOC Commander</U>: It’s been a long day.  After you finish up these final activities go home and get some rest.  We’ll reconvene the EOC at 0830 to assess where we are and determine whether there are any other steps to complete before the consultation team arrives.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[]]>
+            </instruction>
+          </Page>
+          <Page Name="Team Member" MPageNo="Page 54">
+            <PageName>media/Base_Page_53_M.swf</PageName>
+            <PageType>Animation</PageType>
+            <Slider>Yes</Slider>
+            <Audio>Yes</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>Yes</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>No</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>Incident Commander </U>: It’s been a long day.  After you finish up these final activities go home and get some rest.  The EOC is reconvening at 0830 to assess where we are and determine whether there are any other steps to complete before the consultation team arrives.]]>
+            </Tab_1>
+            <instruction>
+              <![CDATA[]]>
+            </instruction>
+          </Page>
+          <Page MPageNo="Page 55" LPageNo="Page 55">
+            <PageName>media/Base_Page_54.swf</PageName>
+            <PageType>Result</PageType>
+            <Slider>No</Slider>
+            <Audio>No</Audio>
+            <lifeLine>No</lifeLine>
+            <help>Yes</help>
+            <equipment>No</equipment>
+            <playerInfo>Yes</playerInfo>
+            <IsBookmarkPoint>Yes</IsBookmarkPoint>
+            <DoesPageScores>#</DoesPageScores>
+            <TranscriptText>#</TranscriptText>
+            <Tab_1>
+              <![CDATA[<U>BE Expert</U>: The major goal of this scenario was for you to understand your role as an emergency responder and health risk assessor in a radiological incident.<BR><BR>Important aspects of the scenario include use of health risk assessment skills to identify situation-specific hazards, selection and use of proper equipment, and execution of response procedures.<BR><BR>Take a look at the listed objectives.  Notice areas where you excelled and areas where you may want to review. <BR><BR>Print this feedback form for your reference.  If you have further questions see your immediate supervisor for assistance.]]>
+            </Tab_1>
+            <instruction_1>
+              <![CDATA[You've completed this scenario. Print this page, then proceed for feedback.]]>
+            </instruction_1>
+            <instruction_2>
+              <![CDATA[Print your feedback form for your records, then click Continue to return to the Menu.]]>
+            </instruction_2>
+          </Page>
+        </Pages>
+      </Topic>
+    </MLesson>
+  </Topics>
+</Lessons>

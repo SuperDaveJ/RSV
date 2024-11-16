@@ -1,0 +1,21 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part IV: Making Recommendations</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct answer, then click Done.]]></instructiontext>
+
+		<questiontext><![CDATA[How would you communicate the risk of radiation to Maj Marks for his response to the Commander?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[There is no evidence of exposure to radiation, chemicals, or biological hazards]]></option>
+			<option><![CDATA[Personnel are exposed to low levels of radiation; the risk from the radiation exposure increases their lifetime risk of cancer by 1:4,000]]></option>		
+			<option><![CDATA[Personnel are exposed to Cs-137 through inhalation and absorption; their risk of death has increased from this experience]]></option>
+					</options>
+
+		<correct_option><![CDATA[2]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

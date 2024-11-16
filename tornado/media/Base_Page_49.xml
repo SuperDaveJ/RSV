@@ -1,0 +1,25 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part IV:  Making Recommendations</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select all that apply, then click Done.]]></instructiontext>
+
+	<questiontextL><![CDATA[What recommendations can you make to the EOC Commander about how to proceed?]]></questiontextL>
+	<questiontextM><![CDATA[What recommendations can you make to the Incident Commander about how to proceed?]]></questiontextM>
+			
+	<options>
+			<option><![CDATA[Have CE cover the hole in the roof]]></option>
+			<option><![CDATA[Contact AFRRAD about Cs-137 and I-131 disposition]]></option>
+			<option><![CDATA[Have BEs clean up the Cs-137 and re-seal the PIG]]></option>
+			<option><![CDATA[Have BEs go in to take additional dose rate measurements]]></option>	
+			<option><![CDATA[Request USAFSAM Radiation Health Branch assistance]]></option>		
+	</options>
+
+	<correct_options><![CDATA[1,2,5]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

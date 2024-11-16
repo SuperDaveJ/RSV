@@ -1,0 +1,25 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I:  Determining Strategies and Response Plan</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+	<text5><![CDATA[<B>Part I:  Determining Strategies and Response Plan</B>]]></text5>
+	<questiontextL><![CDATA[You agree with MSgt Washington’s recommendation to increase the survey team’s dose limit for this entry to 2.5 REM, which will increase the stay time to 36 min.  The EPDs alarm setting will be adjusted accordingly.<BR><BR>To further increase the allowable time in the room which three of the following are the best options for shielding the source?]]></questiontextL>
+	<questiontextM><![CDATA[Major Fletcher agrees with your recommendation to increase the survey team’s dose limit for this entry to 2.5 REM, which will increase the stay time to 36 min.  The EPDs alarm setting will be adjusted accordingly.<BR><BR>To further increase the allowable time in the room which three of the following are the best options for shielding the source?]]></questiontextM>
+			<text5><![CDATA[IC]]></text5>
+	<options>
+			<option><![CDATA[Cover the source with sandbags]]></option>
+			<option><![CDATA[Use bricks to build a cave around the source]]></option>
+			<option><![CDATA[Cover the source with lead aprons from the hospital]]></option>	
+			<option><![CDATA[Cover the source with a cardboard waste disposal box]]></option>
+			<option><![CDATA[Build a barrier around the source by covering it with a metal trash can]]></option>
+	</options>
+
+	<correct_options><![CDATA[1,2,3]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

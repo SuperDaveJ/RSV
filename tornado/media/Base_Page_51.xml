@@ -1,0 +1,17 @@
+﻿<data>
+	<PagetitleText><![CDATA[<B>Part IV:  Making Recommendations</B>]]></PagetitleText>
+	<InstructionQuestionTextL><![CDATA[The EOC Commander asks you to help prepare the information that he’ll deliver to CE personnel who are asked to seal the building. Drag the appropriate information to the notebook.]]></InstructionQuestionTextL>
+	
+	<InstructionQuestionTextM><![CDATA[The Incident Commander asks you to help prepare the information that will be delivered to CE personnel who are asked to seal the building. Drag the appropriate information to the notebook.]]></InstructionQuestionTextM>
+	
+	<optionRolloverText1><![CDATA[There is a radiation hazard present]]></optionRolloverText1>
+	<optionRolloverText2><![CDATA[An EPD will be worn while working to monitor the<BR>dose being received]]></optionRolloverText2>
+	<optionRolloverText3><![CDATA[The Cs-137 measurement at the door of the room<BR>was 23 mR/hr]]></optionRolloverText3>
+	<optionRolloverText4><![CDATA[They’ll need applicable training]]></optionRolloverText4>
+	<optionRolloverText5><![CDATA[Describe the health risks of every isotope and chemical<BR>stored in the building]]></optionRolloverText5>
+	<optionRolloverText6><![CDATA[Proper procedures will be in place so their doses<BR>are ALARA]]></optionRolloverText6>
+	<rightAns><![CDATA[1,1,0,1,0,1]]></rightAns>
+	<totalDrags><![CDATA[6]]></totalDrags>
+	<totalTargets><![CDATA[1]]></totalTargets>
+	<submitText><![CDATA[<B>Done</B>]]></submitText>
+</data> 

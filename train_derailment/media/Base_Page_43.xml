@@ -1,0 +1,24 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part IV: Making Recommendations</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+
+	<questiontext><![CDATA[The EOC Commander wants to know if the agent is contagious and if quarantine procedures should be implemented. Which two of the following personnel should also be involved in advising the Commander on this decision?]]></questiontext>
+
+	<options>
+			<option><![CDATA[Casualty Management Officer]]></option>
+			<option><![CDATA[Medical Intelligence Officer]]></option>
+			<option><![CDATA[Operations Group Commander]]></option>	
+			<option><![CDATA[Public Health Emergency Officer]]></option>
+			<option><![CDATA[Bioenvironmental Engineer]]></option>
+	</options>
+
+	<correct_options><![CDATA[1,4]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

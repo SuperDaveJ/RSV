@@ -1,0 +1,25 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part IV: Making Recommendations</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+
+	<questiontextL><![CDATA[You've determined that there is a low concentration of heavy metals (relative to the Army TG230 soil MEGs) in the soil within tent city that was collected by SrA Mukoda.<br><BR>Predominant winds at this base are out of the West at 10 knots. You've received information that additional personnel will be arriving in the next 48 hours, and you have not completed monitoring other areas of concern or off-base industries.<br><BR>Given this information, which one of the following recommendations <B>best</B> supports operations?]]></questiontext>
+	<questiontextM><![CDATA[You've determined that there is a low concentration of heavy metals (relative to the Army TG230 soil MEGs) in the soil within tent city that was collected by SrA Mukoda.<br><BR>Predominant winds at this base are out of the West at 10 knots. The BE Team has received information that additional personnel will be arriving in the next 48 hours, and you have not completed monitoring other areas of concern or off-base industries.<br><BR>Given this information, which one of the following recommendations <B>best</B> supports operations?]]></questiontext>
+			
+	<options>
+			<option><![CDATA[Recommend relocation of tent city to the <BR>other side of the flight line to minimize <BR>heavy metal exposure]]></option>
+			<option><![CDATA[Recommend that CE suppress contaminant <BR>resuspension during peak wind periods by <BR>spraying water]]></option>
+			<option><![CDATA[Recommend all personnel wear N95 <BR>respirators while outside]]></option>	
+			<option><![CDATA[Recommend aircrew that have been outside <BR>for greater than 8 hours undergo blood metal <BR>screening]]></option>
+			<option><![CDATA[Recommend no control actions at this time <BR>but continue to monitor for better <BR>characterization of heavy metal exposure]]></option>
+	</options>
+
+	<correct_options><![CDATA[5]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

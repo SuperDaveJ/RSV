@@ -1,0 +1,33 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part II:  Executing the Response</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+
+	<questiontext><![CDATA[Which five of the following are methods for controlling sample<BR>cross-contamination that SrA Mukoda should consider while conducting her<BR>soil sampling?]]></questiontext>
+			
+	<options>
+			<option><![CDATA[Wear gloves]]></option>
+			<option><![CDATA[Use de-ionized water rinse]]></option>
+			<option><![CDATA[Put down ground covering]]></option>	
+			<option><![CDATA[Reuse the same disposable <BR>sampling devices]]></option>
+            <option><![CDATA[Place lid on ground while collecting <BR>samples]]></option>
+			<option><![CDATA[Use soap and water]]></option>
+			<option><![CDATA[Contain generated waste]]></option>
+			<option><![CDATA[Conduct pH neutralization]]></option>
+
+
+
+
+
+
+	</options>
+
+	<correct_options><![CDATA[1,2,3,6,7]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

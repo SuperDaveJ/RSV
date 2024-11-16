@@ -1,0 +1,22 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part III: Interpreting the Findings</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct answer, then click Done.]]></instructiontext>
+
+		<questiontext><![CDATA[There will likely be an increased risk of long-term fatal cancer with a risk factor of 1:4,000. With a probability of likely, what is the <I><B>short-term</B></I> health risk from an estimated dose exposure of 438 mrem/year of Cs-137?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Extremely High]]></option>
+			<option><![CDATA[High]]></option>		
+			<option><![CDATA[Moderate]]></option>
+			<option><![CDATA[Low]]></option>
+		</options>
+
+		<correct_option><![CDATA[4]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

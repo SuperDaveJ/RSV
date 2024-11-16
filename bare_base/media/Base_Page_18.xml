@@ -1,0 +1,26 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I: Assessing the Situation</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+
+	<questiontext><![CDATA[Which four items should they have reviewed during the visit?]]></questiontext>
+			
+	<options>
+			<option><![CDATA[Location of backflow prevention devices]]></option>
+			<option><![CDATA[Location of sampling points]]></option>
+			<option><![CDATA[Operators certification]]></option>	
+			
+			<option><![CDATA[Sampling log]]></option>
+			<option><![CDATA[System maintenance log]]></option>
+			<option><![CDATA[Training records for employees]]></option>
+	</options>
+
+	<correct_options><![CDATA[1,2,4,5]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

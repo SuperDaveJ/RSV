@@ -1,0 +1,16 @@
+<data>
+	<PageTitleText><![CDATA[Part II: Executing the Response]]></PageTitleText>
+ <InstructionQuestionTextM><![CDATA[Your team has been instructed to enter the hot zone in Level A PPE. You have decided to split into two teams: Bio-1 Alpha and Bio-1 Bravo. What PPE should the entering team, Bio-1 Alpha, don?]]></InstructionQuestionTextM>
+	<InstructionQuestionTextL><![CDATA[Your Bio-1 team at the ECP has been instructed to enter the hot zone in Level A PPE. They have split into two teams: Bio-1 Alpha and Bio-1 Bravo. What PPE should the entering team don?]]></InstructionQuestionTextL>
+	<optionRolloverText1><![CDATA[<font color="#ff6633">Encapsulated Protective Suit</font>]]></optionRolloverText1>
+	<optionRolloverText2><![CDATA[<font color="#ff6633">PAPR</font>]]></optionRolloverText2>
+	<optionRolloverText3><![CDATA[<font color="#ff6633">SCBA</font>]]></optionRolloverText3>
+	<optionRolloverText4><![CDATA[<font color="#ff6633">C2 Canister</font>]]></optionRolloverText4>
+	<optionRolloverText5><![CDATA[<font color="#ff6633">MCU-2/P</font>]]></optionRolloverText5>
+	<rightAns><![CDATA[3,1]]></rightAns>
+	<rightAns1><![CDATA[1,3]]></rightAns1>
+	<totalDrags><![CDATA[5]]></totalDrags>
+	<totalTargets><![CDATA[1]]></totalTargets>
+	<submitText><![CDATA[<B>Done</B>]]></submitText>
+	
+</data> 

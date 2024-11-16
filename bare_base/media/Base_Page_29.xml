@@ -1,0 +1,36 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></pageTitle>	
+		
+		<questionTextL><![CDATA[After she collected and sent vegetation samples for further analysis, your BE Tech continued her field assessment of the soil while you performed the air assessment.<br><br>Match each piece of equipment that she should have used during her site assessment with the capability it provides.]]></questionText>
+		<questionTextM><![CDATA[After she collected and sent vegetation samples for further analysis, the BE Tech continued her field assessment of the soil while you helped perform  the air assessment.<br><br>Match each piece of equipment that she should have used during her site assessment with the capability it provides.]]></questionText>
+		
+		<instructionText><![CDATA[Select the appropriate answers, then click Done.]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="5" option_gap="5" text_Width="400">
+			<Option><![CDATA[Gamma radiation]]></Option>
+			<Option><![CDATA[Broad spectrum VOCs identification in soil gas]]></Option>
+			<Option><![CDATA[Alpha and beta particles]]></Option>
+			<Option><![CDATA[Metals]]></Option>
+			<Option><![CDATA[Screening organic and inorganic compounds]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,3,2,5,4]]></CorrectAnswer>	
+
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>451P</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>ADM-300 w/ Alpha and Beta Probes</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>HAPSITE</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>TVA-1000B</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>XRF</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Capability</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

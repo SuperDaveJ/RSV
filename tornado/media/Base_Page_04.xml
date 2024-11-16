@@ -1,0 +1,30 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I:  Gathering Information</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[]]></instructiontext>
+
+	<questiontextL><![CDATA[Which two of the following courses of action would be <u>inappropriate</u> for BE or others to perform at this time?]]></questiontextL>
+	<questiontextM><![CDATA[Which two of the following courses of action would be <u>inappropriate</u> for BE or others to perform at this time?]]></questiontextM>
+	
+	<text5><![CDATA[EOC Commander]]></text5>
+	
+			
+	<options>
+			<option><![CDATA[Evacuate the hospital<BR><BR>]]></option>
+			<option><![CDATA[Wait for AFRAT to respond<BR><BR>]]></option>
+			<option><![CDATA[Restrict access to the storage building]]></option>	
+			<option><![CDATA[Shelter-in-place individuals in the cordon area]]></option>
+			<option><![CDATA[Obtain the inventory from the facility manager]]></option>
+			<option><![CDATA[Take a team to the scene for hazard assessment]]></option>
+			<option><![CDATA[Perform decon for the damage assessment team and first responders]]></option>
+	</options>
+
+	<correct_options><![CDATA[1,2]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

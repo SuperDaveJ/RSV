@@ -1,0 +1,31 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[Match each piece of equipment that you'll use with the capability it provides.]]></questionText>
+		
+		<instructionText><![CDATA[<I>Drag the items to the appropriate locations, then click Done</I>]]></instructionText>		
+
+		<target_options>
+			<target_option><![CDATA[<p align="right">Screening for VOCs, including low molecular weight VOCs</p>]]></target_option>
+			<target_option><![CDATA[<p align="right">Specific VOC identification</p>]]></target_option>
+			<target_option><![CDATA[<p align="right">Airborne radioactive materials</p>]]></target_option>		
+			<target_option><![CDATA[<p align="right">Gamma radiation</p>]]></target_option>	
+		</target_options>		
+
+		<drag_options>
+			<drag_option><![CDATA[451P]]></drag_option>
+			<drag_option><![CDATA[HAPSITE]]></drag_option>	
+			<drag_option><![CDATA[RADeCO and ADM-300]]></drag_option>			
+			<drag_option><![CDATA[TVA-1000B]]></drag_option>
+		</drag_options>
+
+		<correct_options><![CDATA[4,2,3,1]]></correct_options>
+		
+	</question>	
+
+</Interactivity>

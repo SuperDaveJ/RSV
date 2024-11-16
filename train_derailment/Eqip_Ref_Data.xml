@@ -1,0 +1,145 @@
+<content>
+	<tab>
+		<title><![CDATA[451P]]></title>
+		<discription><![CDATA[<li>Hand-held unit designed for both rugged and normal environments.</li><li>Uses a pressurized ionization chamber to quantify gamma and X-ray radiation (in Roentgens/hour or Sieverts/hour).</li><li>Can be used for monitoring soil, food, and water samples.</li><li>Measures energies between 20 KeV and 2 MeV, and has an operating range from 0 uR/h to 5 R/h. Most (but not all) radionuclides have a gamma or photon component as part of their decay scheme and will be detected by the 451P.</li><li>NOTE: The following nuclides either have too low a gamma energy or do not emit a gamma ray at all, and will not be detected by the 451P: H-3, C-14, Si-32, S-35, Fe-55, Ni-59, Ni-63, Tc-99, I-129, and Pm-147.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[4-gas Meter]]></title>
+		<discription><![CDATA[<li>Portable confined space monitor that combines a Photoiononization detector(PID) with the standard foour gases of a confined space monitor. (O2, LEL, and 2 any two toxic gas sensors: CO, H2S, SO2, NO, NO2, CI2, HCN, NH3, PH3.</li><li>0-2,000 ppm measurements of VOCs with 0.1 ppm resolution.</li><li>Can be used for confined space, HazMat/Homeland Security, Environmental, and Industrial Hygiene.</li>]]></discription>
+	</tab>
+	
+	<tab>
+		<title><![CDATA[ADM-300 w/ Sources and Probes]]></title>
+		<discription><![CDATA[<li>Multifunction radiation meter used to locate and measure low and high intensities in the form of gamma rays or beta particles.</li><li>External probes locate and measure alpha, beta, gamma, x-ray and neutron radiation.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[Drager Civil Defense Simultest (CDS) Kit]]></title>
+		<discription><![CDATA[<li>Provides rapid identification (within 5 minutes) of eight chemical warfare agents using detector tube sets.</li>]]></discription>
+	</tab>
+	
+	
+	<tab>
+		<title><![CDATA[Drager Chip Management System (CMS)]]></title>
+		<discription><![CDATA[<li>The electronic version of the Drager Tubes.</li><li>System consist of an analyzer and substance specific chips.</li>]]></discription>
+	</tab>
+	
+	
+	<tab>
+		<title><![CDATA[Dry Filter Unit]]></title>
+		<discription><![CDATA[<li>Portable one-person air sampling device.</li><li>Used to collect bio-particulates from ambient air for later analysis using Hand Held Assays, Polymerase Reaction or other microbiological confirmatory techniques.</li>]]></discription>
+	</tab>
+	
+	<tab>
+		<title><![CDATA[EPD-Mk2]]></title>
+		<discription><![CDATA[<li>The EPD Mk2 Electronic Personal Dosimeter is an active dosimeter designed to detect and monitor X-ray, gamma, and beta radiation exposure.</li><li>It provides dose (whole body and skin) from 0 mrem to >1600 rem, and dose rate from 0 mrem/h to 400 rem/h.</li><li>The energy range is 15 KeV to 10 MeV (Gamma and X-Ray), and 250 KeV to 1.5 MeV (Beta).</li><li>Audible alarms can be set for both dose and dose rate. </li>]]></discription>
+	</tab>
+	
+	<tab>
+		<title><![CDATA[Geomet DTAPS Level A Suit]]></title>
+		<discription><![CDATA[<li>Provides protection against dual-use industrial chemicals, chemical warfare agents and biological warfare agents.</li><li>Constructed with multi-laminant film technology (Tychem<font face='Lucida console' size ='15' >®</font>).</li><li>Provides up to 12 hrs protection against Chemical Warfare Agents (GA, GB, GD, HD, L, and Vx), depending on concentration levels.</li><li>Protective against 21 chemicals listed in ASTM F 1001 and numerous other toxic industrial materials.</li><li>Permeation data available for more than 250 chemicals.</li>]]></discription>
+	</tab>
+	
+	
+	<tab>
+		<title><![CDATA[HHA]]></title>
+		<discription><![CDATA[<li>Hand-held immunochromatographic assay used to simultaneously identify up to eight different biological agents</li><li>Used for field screening. (presumptive) and not positive ID.</li> ]]></discription>
+	</tab>
+
+		<tab>
+		<title><![CDATA[HAPSITE]]></title>
+		<discription><![CDATA[<li>Provides on-scene detection, identification and quantification of toxic industrial chemicals, volatile organic compounds and chemical warfare agents in air, water, soil and sludge.</li><li>Includes on-board computer.</li><li>Equipped with built-in GPS. </li>]]></discription>
+	</tab>
+	
+	
+	<tab>
+		<title><![CDATA[Hazcat Kit]]></title>
+		<discription><![CDATA[<li>Detects over 1,600 solid and liquid organic and inorganic chemical compounds including mixtures, elements and multi-phase compounds.</li><li>Completely portable and self-contained.</li><li>Flow chart, wet chemistry kit.</li>]]></discription>
+	</tab>
+	
+	<tab>
+		<title><![CDATA[HazMat ID]]></title>
+		<discription><![CDATA[<li>Provides qualitative infrared analysis of solids, powders, pastes, gels and liquid in less than 20 seconds.</li><li>Id's WMD's, toxic industrial chemicals, forensic drugs, white powder, explosives, drug precursors, etc.</li><li>Is a Fourier Transform Infrared (FTIR) spectrophotometer for use in identifying specific chemical compounds (e.g., soils, powders, pastes, and gels) as well as liquid samples can be placed onto the diamond crystal for analyses.</li><li>Identifies substances by matching the chemical absorption that is unique to each specific chemical through infrared spectroscopy from its library database.</li><li>The library can be customized to meet mission requirements.</li><li>The HazMatID does not separate and identify individual components, but if a component of the mixture is in the library database it will identify a match.</li>]]></discription>
+	</tab>
+	
+	<tab>
+		<title><![CDATA[JBAIDS]]></title>
+		<discription><![CDATA[<li>Reusable, portable, and modifiable biological agent identification and diagnostic system.</li><li>Designed for the medical lab community.</li><li>Helps commanders and health care professionals select and implement medical counter-measures, medical treatment, prophylaxis, and future preventive medicine measures that follow biological agent exposure.</li>]]></discription>
+	</tab>
+	
+	<tab>
+		<title><![CDATA[Level A PPE]]></title>
+		<discription><![CDATA[<li>Fully encapsulated chemical suit used for hazardous material response.</li><li>Includes: SCBA, overboots and fully encapsulated suit.</li><li>Provides splash and vapor protection.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[Level B PPE]]></title>
+		<discription><![CDATA[<li>Chemical suit used for hazardous material response.</li><li>Includes: SCBA, chemical suit, gloves and overboots.</li><li>Provides splash protection.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[M1M]]></title>
+		<discription><![CDATA[<li>The BioVeris M-SERIES  M1M SYSTEM (M1M) is an instrument which uses technology based on the principles of electrochemiluminescence (ECL).</li><li>The M1M is capable of detecting toxins from a variety of samples.</li><li>ECL employs labels designed to emit light when electrochemically stimulated.</li><li>These labels provide a universal platform for biological measurements.</li><li>In this detection process, when a BV-TAG label at the surface of an electrode becomes excited an emission of light ensues.</li><li>Each BV-TAG label undergoes many excitation/emission cycles, which amplifies the light and increases sensitivity of the reaction.</li>]]></discription>
+	</tab>
+	
+	<tab>
+		<title><![CDATA[M256 Kit]]></title>
+		<discription><![CDATA[<li>The M256A1 Chemical Agent Detection Kit is designed to detect and identify chemical agents present either as liquid or as vapor and consists of a) a booklet of M8 paper to detect agents in liquid form and b) twelve foil-wrapped detector tickets containing eel enzymes as reagents to detect even very low concentrations of chemical vapors.</li><li>Instructions for the use of the detector tickets appear on the outside of each of the foil packets and in a separate instruction booklet in the kit.</li>]]></discription>
+	</tab> 
+
+
+	<tab>
+		<title><![CDATA[M8 Paper]]></title>
+		<discription><![CDATA[<li>M8 paper is packaged in 25 perforated sheets, 2.5 in X 4 in, and is blotted on liquids that arouse suspicion.</li><li>It identifies Chemical Agents by changing colors within 30 seconds of exposure:</li><li>Dark green for persistent nerve agents.</li><li>Yellow for persistent nerve agents.</li><li>Red for persistent blister agents.</li>]]></discription>
+	</tab>
+
+
+	<tab>
+		<title><![CDATA[M9 Tape]]></title>
+		<discription><![CDATA[<li>Detects the same class of agents as M8 paper.</li><li>Does not distinguish between classes of agents.</li><li>Has adhesive backing.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[PAPR Respirator]]></title>
+		<discription><![CDATA[<li>Battery-powered full or half face respirator that uses a blower to force ambient air through the filters.</li><li>Do not use in IDLH environments.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[pH Paper]]></title>
+		<discription><![CDATA[<li>Paper strips used to determine the pH of liquids.</li><li>pH stand for "Potential of Hydrogen."</li><li>Acids have pH values under 7.</li><li>Alkalis have pH values over 7.</li><li>pH value of 7 indicates neutral.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[Quicksilver Sampling Kit]]></title>
+		<discription><![CDATA[<li>Chem/Bio sampling kit.</li><li>Includes M256A1, M8 paper, potassium iodide test paper, pH paper, sample vials, tools, swipes, swabs, etc.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[RADeCO]]></title>
+		<discription><![CDATA[<li>Portable, compact and lightweight sampler for particulates or combination particulates and radioisotopes </li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[SAM 940]]></title>
+		<discription><![CDATA[<li>The SAM 940 is a portable, hand-held radiation surveillance and measurement instrument.</li><li>It is designed for nuclide identification, spectrum analysis, dose rate calculation, total dose, data logging, and as an audible search tool.</li><li>It uses an internal thallium-activated sodium iodide scintillation crystal infused with Lithium-6 to detect/measure gamma (photon) radiation and detect neutrons.</li><li>Its gamma energy range is 18 KeV – 3 MeV and its operating temperature range is -20°C (-4 F) to +50°C (+122 F).</li><li>Quadratic Compression Conversion allows for identification of mixed isotopes in one second and provides 97% ID confidence in 2 seconds.</li><li>It will not detect radionuclides that do not emit gamma, such as H-3 (tritium).</li><li>It is designed to reduce peak energy drifting through automatic stabilization features.</li><li>It is susceptible to interference from strong magnetic fields.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[SCBA Respirator]]></title>
+		<discription><![CDATA[<li>Breathing apparatus for Level A and B response.</li><li>Can be used in IDLH.</li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[TVA-1000B]]></title>
+		<discription><![CDATA[<li>TVA-1000B (Toxic Vapor Analyzer) is a portable, intrinsically-safe, direct-reading monitor that uses a flame ionization detector (FID) and a photo ionization detector (PID) to provide real-time measurements (ppm, ppb, or %) of organic and some inorganic vapor concentrations in air.</li><li>The FID (requiring Hydrogen gas) can measure a wide range of concentrations (1 - 50,000 ppm) of organic compounds, including methane.</li><li>The PID uses various ultraviolet lamps of a specific energy (10.6 eV being the standard) to measure a much smaller concentration range (.5-2000 ppm) of organic/inorganic compounds (to include ammonia, carbon disulfide, carbon tetrachloride, chloroform, ethylamine, formaldehyde, and hydrogen sulfide).</li><li>The TVA is not designed for use below 32 degrees F. </li>]]></discription>
+	</tab> 
+
+
+	<tab>
+		<title><![CDATA[XMX]]></title>
+		<discription><![CDATA[<li>The XMX liquid impinger is a field portable sampler used for collecting aerosolized samples of 1-10 microns.</li><li>Liquid bio-aerosol sample collector for subsequent analysis such as immuno-assay, PCR, culturing, etc.</li><li>Used for biological agent sampling, indoor/outdoor air quality, etc.</li><li>Depending on the configuration, the airborne particles are concentrated into a liquid (Type 1 sterile water or phosphate buffered saline) or onto a dry cartridge filter.</li><li>Equipment can be operated using either external power or using an inverter for vehicle power operation.</li><li>Most of the components can be decontaminated using a 5% bleach solution.</li>]]></discription>
+	</tab>
+
+	
+</content>

@@ -1,0 +1,22 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I:  Assessing the Situation</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct answer, then click Done.]]></instructiontext>
+
+		<questiontext><![CDATA[Based upon the information you have so far, approximately how much Cesium-137 could have been released into the environment?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[8 Ci]]></option>
+			<option><![CDATA[5 Ci]]></option>		
+			<option><![CDATA[2.5 Ci]]></option>
+			<option><![CDATA[0.2 Ci]]></option>
+		</options>
+
+		<correct_option><![CDATA[4]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

@@ -1,0 +1,24 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select all that apply, then click Done.]]></instructiontext>
+
+	<questiontext><![CDATA[While you're working on your field assessment, you learn that the Aircraft Maintenance personnel brought several solvents with them to clean aircraft parts under a 100-hour inspection procedure. They have also requested that the contracting officer procure additional products.<br><br>An admin troop is concerned about the vapors generated in the hangar where she works. Which pieces of equipment will most likely help you assess the risk?]]></questiontext>
+			
+	<options>
+			<option><![CDATA[HAPSITE]]></option>
+			<option><![CDATA[RADeCO]]></option>	
+			<option><![CDATA[TVA-1000B]]></option>
+			<option><![CDATA[ADM-300]]></option>	
+			<option><![CDATA[4-gas Meter]]></option>
+	</options>
+
+	<correct_options><![CDATA[1,0,1,0,1]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

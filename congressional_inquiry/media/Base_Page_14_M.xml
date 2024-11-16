@@ -1,0 +1,41 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[Before you conduct the first assessment of the site with your team, Maj Marks calls for an inventory of equipment and the capability of that equipment.<BR><BR>For each piece of equipment below, match the specific hazard(s) to which it is associated.]]></questionText>
+		
+		<instructionText><![CDATA[<I>Select the appropriate answers, then click Done.</I>]]></instructionText>		
+					
+		<Options bgWidth="300" column_gap="2" option_gap="5" text_Width="400">
+			<Option><![CDATA[RADeCO]]></Option>
+			<Option><![CDATA[TVA-1000B]]></Option>
+			<Option><![CDATA[XRF]]></Option>
+			<Option><![CDATA[451P]]></Option>
+			<Option><![CDATA[ADM-300]]></Option>
+			<Option><![CDATA[HAPSITE]]></Option>
+			<Option><![CDATA[SAM 940]]></Option>
+		</Options>
+	
+		<!-- Following is the answer format for this template!!
+		Use $ to separate answers columwise, and if there are some optional answers use * for that-->
+		<CorrectAnswer><![CDATA[1,0,0,0,5,0,0,$,1,0,0,*,5,0,0,$,0,0,0,4,5,0,7,$,*,0,3,0,0,0,*,$,0,2,0,0,0,6,0,$,0,2,0,0,0,0,0,$,0,0,0,0,0,0,7]]></CorrectAnswer>
+
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>Alpha Radiation</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Beta Radiation</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Gamma Radiation</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Metals</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>VOCs</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Inorganic Compounds</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Isotope Identification</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Equipment</B></p>]]></Option_heading>
+		
+	</question>	
+
+<

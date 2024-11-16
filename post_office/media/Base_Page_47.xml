@@ -1,0 +1,22 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part IV: Making Recommendations</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[After personnel have secured the package in an overpack drum, follow-on responders can wear which level of PPE?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Level C with PAPR]]></option>
+			<option><![CDATA[Level C with no respirator]]></option>		
+			<option><![CDATA[Full face respirator with coveralls]]></option>
+			<option><![CDATA[No PPE]]></option>
+		</options>
+
+		<correct_option><![CDATA[1]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

@@ -1,0 +1,22 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[Bio-1 Alpha has used pH and M8 paper from the Quicksilver Kit on the surface of the table. The pH paper showed no effect and the M8 paper turned red. The team decided to run the HAPSITE survey method as their next analysis and nothing was identified. What should they do next?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Run 15-minute loop method]]></option>
+			<option><![CDATA[Return HAPSITE to cart]]></option>		
+			<option><![CDATA[Rerun survey method]]></option>
+			<option><![CDATA[Report results as all-clear]]></option>
+		</options>
+
+		<correct_option><![CDATA[1]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

@@ -1,0 +1,22 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part III: Interpreting the Findings</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct answer, then click Done.]]></instructiontext>
+
+		<questiontext><![CDATA[To determine the level of exposure to the SeaBee personnel, you're considering a requirement for all personnel deployed to the site to submit bioassay samples for analysis. What is your next step to collect these samples?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Collect nasal swabs only, because Cesium is airborne]]></option>
+			<option><![CDATA[Contact the USAFSAM ESOH Service Center to determine which samples should be collected]]></option>		
+			<option><![CDATA[Collect fecal, urine, and lung samples for analysis from CHPPM]]></option>
+			<option><![CDATA[Coordinate with Public Health for collection of all samples]]></option>
+		</options>
+
+		<correct_option><![CDATA[2]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

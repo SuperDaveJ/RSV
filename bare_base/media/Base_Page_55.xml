@@ -1,0 +1,25 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part III: Interpreting the Findings</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[What is the overall risk to the worker for a 1-hour exposure? ]]></questiontext>
+		<text0><![CDATA[Based on the following information, answer each question regarding the risk to a worker for a 1-hour exposure:<BR><li>The estimated concentration of Methylene Chloride is between 7-22 ppm</li><li>The tasks in the maintenance shop are performed with no hazard controls.</li><li>You can assume a medium confidence in characterization.</li>]]></text0>
+<text1><![CDATA[You have 1 question left.]]></text1>
+
+ 		<options>
+			<option><![CDATA[Low]]></option>
+			<option><![CDATA[Medium]]></option>		
+			<option><![CDATA[High]]></option>
+			<option><![CDATA[Extremely High]]></option>
+		
+		</options>
+
+		<correct_option><![CDATA[2]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

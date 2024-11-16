@@ -1,0 +1,23 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontextL><![CDATA[After checking the VETCOM web-site, the team determined that the bottled water which can be ordered by the contractor is approved.<BR><BR>Per USCENTAF policy, what is the minimum number of bottled water samples that should be collected for bacteriological analysis from this approved source?]]></questiontext>
+		<questiontextM><![CDATA[The team determined that the bottled water which can be ordered by the contractor is from a VETCOM-approved source that has a stable history of use.<BR><BR>Per USAFCENT policy, what is the maximum number of bottled water samples that should be collected for bacteriological analysis from this approved source?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[4 per lot]]></option>
+			<option><![CDATA[10 per lot]]></option>		
+			<option><![CDATA[1 per gallon]]></option>
+			<option><![CDATA[4 per 100 gallons]]></option>
+		</options>
+
+		<correct_option><![CDATA[1]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

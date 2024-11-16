@@ -1,0 +1,36 @@
+﻿<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I:  Assessing the Situation</B>]]></pageTitle>	
+		
+		<questiontextL><![CDATA[Your team at the ECP is going to have two members conduct the initial entry into the building.  The initial entry tasks are to perform a visual inspection of the area, assess dose rate, and identify isotopes present if possible.<BR><BR>To complete these tasks, which pieces of equipment will the initial entry team utilize?]]></questiontextL>
+		
+		<questiontextM><![CDATA[You are having two team members conduct the initial entry into the building.  Your initial entry tasks are to perform a visual inspection of the area, assess dose rate, and identify isotopes present if possible.<BR><BR>To complete these tasks, which pieces of equipment will you utilize?]]></questiontextM>
+		
+		<instructionText><![CDATA[]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="5" option_gap="5" text_Width="400">
+			<Option><![CDATA[451P]]></Option>
+			<Option><![CDATA[ADM-300 without a probe]]></Option>
+			<Option><![CDATA[ADM-300 w/alpha probe]]></Option>
+			<Option><![CDATA[ADM-300 w/beta probe]]></Option>
+			<Option><![CDATA[Camera]]></Option>
+			<Option><![CDATA[EPDs]]></Option>
+			<Option><![CDATA[Quicksilver sampling kit]]></Option>
+			<Option><![CDATA[RADeCO]]></Option>
+			<Option><![CDATA[SAM 940]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,#,#,#,1,1,#,#,1]]></CorrectAnswer>
+			
+		<option_title><![CDATA[]]></option_title>
+		
+		<Option_heading><![CDATA[]]></Option_heading>
+		<choice_heading><![CDATA[]]></choice_heading>
+
+	</question>	
+
+</Interactivity>

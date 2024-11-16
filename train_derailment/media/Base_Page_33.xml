@@ -1,0 +1,32 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I: Assessing the Situation </B>]]></pageTitle>	
+		
+		<questionText><![CDATA[In what order will you assess the potential hazards of this situation?]]></questionText>
+		
+		<instructionText><![CDATA[<I>Drag each layer name in the right and place it besides its correct description. When you are done, click <B>Submit.</B></I>]]></instructionText>		
+	    <Text1><![CDATA[1]]></Text1>
+	    <Text2><![CDATA[2]]></Text2>
+	    <Text3><![CDATA[3]]></Text3>
+	
+		<target_options>
+			<target_option><![CDATA[<B>1</B>]]></target_option>
+			<target_option><![CDATA[<B>2</B>]]></target_option>
+			<target_option><![CDATA[<B>3</B>]]></target_option>
+		</target_options>		
+
+		<drag_options>
+			<drag_option><![CDATA[Chemical]]></drag_option>
+			<drag_option><![CDATA[Biological]]></drag_option>	
+			<drag_option><![CDATA[Nuclear/<br>Radiological]]></drag_option>			
+		</drag_options>
+
+		<correct_options><![CDATA[2,3,1]]></correct_options>
+		
+	</question>	
+
+</Interactivity>

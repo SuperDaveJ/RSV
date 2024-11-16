@@ -1,0 +1,34 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I: Gathering Information</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[Choose which equipment you should include in the Grab and Go package.]]></questionText>
+		
+		<instructionText><![CDATA[<I>When you are done, click <B>Submit.</B></I>]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="5" option_gap="5" text_Width="400">
+			<Option><![CDATA[TVA-1000B]]></Option>
+			<Option><![CDATA[HAPSITE]]></Option>
+			<Option><![CDATA[Quicksilver Sampling Kit]]></Option>
+			<Option><![CDATA[HazMat ID]]></Option>
+			<Option><![CDATA[SAM 940]]></Option>
+			<Option><![CDATA[451 P]]></Option>
+			<Option><![CDATA[EPDs]]></Option>
+			<Option><![CDATA[Level A PPE]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,#,1,1,#,1,1,1]]></CorrectAnswer>	
+
+		
+		<option_title><![CDATA[<p align='center'><B>Items to be Included</B></p>]]></option_title>			
+		
+
+		<Option_heading><![CDATA[<p align='center'><B>Equipment Name</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

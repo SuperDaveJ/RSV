@@ -1,0 +1,27 @@
+﻿<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part IV:  Making Recommendations</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct answer,then click Done. ]]></instructiontext>
+
+	<questiontextL><![CDATA[The EOC Commander agrees that the building should be sealed.  He asks you to contact Major Stevens about getting assistance with terminating the incident and AFRRAD about the Cs-137 disposition.<br><br>While talking with Major Stevens, he suggests securing the storage area, allowing the Iodine-131 contamination to decay to safe levels. <BR><BR>I-131 has a short radiological half-life of 8.04 days.  If the activity of the Iodine is presently 4.8 µCi and the safe level is 0.1 µCi, how long would the storage area need to be secured? ]]></questiontextL>
+	
+	<questiontextM><![CDATA[The Incident Commander agrees that the building should be sealed.<br><br>Major Fletcher contacts Major Stevens about getting assistance with terminating the incident and AFRRAD about the Cs-137 disposition.<br><br>While talking with Major Stevens, he suggests securing the storage area, allowing the Iodine-131 contamination to decay to safe levels. <BR><BR>I-131 has a short radiological half-life of 8.04 days.  If the activity of the Iodine is presently 4.8 µCi and the safe level is 0.1 µCi, how long would the storage area need to be secured?]]></questiontextM>
+			
+	<options>
+			<option><![CDATA[8 hours]]></option>
+			<option><![CDATA[3 days]]></option>
+			<option><![CDATA[24 days]]></option>
+			<option><![CDATA[30 days]]></option>	
+			<option><![CDATA[45 days]]></option>	
+			<option><![CDATA[90 days]]></option>		
+	</options>
+
+	<correct_option><![CDATA[5]]></correct_option>
+	
+			
+</question>
+	
+</Quiz>

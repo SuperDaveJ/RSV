@@ -1,0 +1,23 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part I: Gathering Information</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[Given that this will include a HazMat response, what level of decontamination would you expect to be established in the warm zone?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Expedient]]></option>
+			<option><![CDATA[Operational]]></option>		
+			<option><![CDATA[Gross]]></option>
+			<option><![CDATA[Technical]]></option>
+			<option><![CDATA[Mass Casualty]]></option>
+		</options>
+
+		<correct_option><![CDATA[4]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

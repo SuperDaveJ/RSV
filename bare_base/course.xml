@@ -1,0 +1,1418 @@
+<Lessons>
+
+<Topics>
+
+	<DebugMode>Yes</DebugMode>
+		
+	<help>Yes</help>
+	
+	<Menu>Yes</Menu>
+
+	<Exit>Yes</Exit>	
+
+	<CourseTitle>Air Force Medical Support Agency</CourseTitle>
+
+<MLesson>
+	<LessonName>Air Force Medical Support Agency</LessonName>
+		<Topic>
+			<TopicName>Scenario 2</TopicName>
+			<Pages>					
+
+					<Page Name="Team Lead">
+						<PageName>media/Base_Page_00.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Unit Deployment Manager:</U> Major Marks, you're being deployed as the BE Team Lead on the PAM team to an undisclosed bare base location to establish a co-located operating base that will contain Army, Air Force, and British military personnel. You'll be leaving tomorrow at 0800.]]></Tab_1>
+						<instruction><![CDATA[Click the highlighted selection point to access the assessment.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Member">
+						<PageName>media/Base_Page_00.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Major Marks:</U> We’re being deployed as the PAM team to an undisclosed bare base location to establish a co-located operating base that will contain Army, Air Force, and British Military personnel.  We’ll be leaving tomorrow at 0800. ]]></Tab_1>
+						<instruction><![CDATA[Click the highlighted selection point to access the assessment.]]></instruction>
+					</Page>
+					
+					
+					<Page MPageNo="Page 1" LPageNo="Page 1">
+						<PageName>media/Base_Page_01.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> Your PAM team is about to land at Woodruff Air Force Base at an undisclosed location in Central Asia where they will serve as the initial medical unit on the ground. It is currently 93 degrees Fahrenheit.<BR><BR>Third Country Nationals (TCNs) are building tent city in accordance with the Expeditionary Site Plan (ESP). The base will be supporting EC-130s and AWACS aircraft.]]></TranscriptText>
+						<instruction><![CDATA[]]></instruction>
+					</Page>	
+
+					<Page MPageNo="Page 2" LPageNo="Page 2">
+						<PageName>media/Base_Page_02.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>	
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>	
+						<instruction><![CDATA[Select each graphic to learn more about your team.]]></instruction>
+					</Page>
+
+					
+					
+					<Page MPageNo="Page 3" LPageNo="Page 3">
+						<PageName>media/Base_Page_03.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>British Counterpart, Squadron Leader Fletcher:</U> Welcome to Woodruff. I'm Squadron Leader Fletcher. We currently have the sleeping area established in the main hangar while the TCNs are building tent city. Would you like to see the hangar first or start with a tour of the installation?]]></TranscriptText>
+						<instruction><![CDATA[Make your decision.]]></instruction>
+					</Page>
+					
+					<Page PageID="21031a" CompentancyObj = "1" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Apply preventive medicine aspects to selection of a bed down location." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 3a1" MPageNo="Page 3a1">
+						<PageName>media/Base_Page_04.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.2.1 Site Selection</li><li>4.1.2.4 Exposure pathway evaluation</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFCENT Deployed BE Guide</li><li>AFMAN 48-155, Occupational and Environmental Health Exposure Controls </li><li>AIHA, The Occupational Environment: Its Evaluation, Control and Management</li><li>ASTM E 2318-03, Standard Guide for Environmental Health Site Assessment Process for Military Deployments</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the appropriate areas, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 3a2" LPageNo="Page 3a2">
+						<PageName>media/Base_Page_05.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>British Counterpart, Squadron Leader Fletcher:</U> We have 1 Harvest Falcon Latrine and we've been using field showers since we've arrived.]]></Tab_1>
+						<Tab_2><![CDATA[<U>British Counterpart, Squadron Leader Fletcher:</U> All personnel are using bottled water. Each unit has a 3-day supply of water remaining.]]></Tab_2>
+						<Tab_3><![CDATA[<U>British Counterpart, Squadron Leader Fletcher:</U> Yes, we can order additional supplies through the logistics contractor.]]></Tab_3>
+						<Tab_4><![CDATA[<U>British Counterpart, Squadron Leader Fletcher:</U> My unit can continue to prepare food for the next week until things settle down. We've been on base conducting a coalition exercise for the past two weeks.]]></Tab_4>	
+
+						<instruction><![CDATA[Select each question for more information, then click Continue.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" LPageNo="Page 3b1">
+						<PageName>media/Base_Page_06.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>British Counterpart, Squadron Leader Fletcher:</U> You'll see as we drive along the flight line here that the hangar space is off to your right. Across the main road is where we're establishing tent city.<BR><BR>Those buildings over there along the flight line were probably used by the Russians that occupied this installation during the Cold War.<BR><BR><U>BE Team Lead, Maj Marks:</U> What do you know about how they used the buildings?<BR><BR><U>British Counterpart, Squadron Leader Fletcher:</U> We have no idea what they disposed of or used on this base.<BR><BR><U>BE Team Lead, Maj Marks:</U> What do you know about the threats in the area?<BR><BR><U>British Counterpart, Squadron Leader Fletcher:</U> After the kidnapping of British Navy personnel and continued support for local insurgents, Country X presents the greatest threat to regional stability. They hold quarterly military exercises which could be ploys for attacks. They also provide cross-border weapons and training to local insurgents. There are few local threats, however Country X and transnational terrorists continue to exhibit hostile intent. Last week a hard-drive was exploited indicating plans to inject KCN into a water system in theater. There was a water system on this base, but it is not operable. Arrangements have been made with the host nation to utilize their existing water sources.]]></TranscriptText>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page Name="Team Member" MPageNo="Page 3b1">
+						<PageName>media/Base_Page_06.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>British Counterpart, Squadron Leader Fletcher:</U> You'll see as we drive along the flight line here that the hangar space is off to your right. Across the main road is where we're establishing tent city.<BR><BR>Those buildings over there along the flight line were probably used by the Russians that occupied this installation during the Cold War.<BR><BR><U>BE Team Member, TSgt Hopper:</U> What do you know about how they used the buildings? <BR><BR><U>British Counterpart, Squadron Leader Fletcher:</U> We have no idea what they disposed of or used on this base.<BR><BR><U>BE Team Member, TSgt Hopper:</U> What do you know about the threats in the area?<BR><BR><U>British Counterpart, Squadron Leader Fletcher:</U> After the kidnapping of British Navy personnel and continued support for local insurgents, Country X presents the greatest threat to regional stability. They hold quarterly military exercises which could be ploys for attacks. They also provide cross-border weapons and training to local insurgents. There are few local threats, however Country X and transnational terrorists continue to exhibit hostile intent. Last week a hard-drive was exploited indicating plans to inject KCN into a water system in theater. There was a water system on this base, but it is not operable. Arrangements have been made with the host nation to utilize their existing water sources.]]></TranscriptText>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" LPageNo="Page 4">
+						<PageName>media/Base_Page_07.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Control Center (on radio):</U> Control Center to the Squadron Leader. The Commander is establishing a threat working group and requests that the BE Lead report to the building immediately West of the main hangar.<BR><BR><U>British Counterpart, Squadron Leader Fletcher (on radio):</U> Copy. I'll bring him over.<BR><BR><U>British Counterpart, Squadron Leader Fletcher (not on radio):</U> Sounds like it's time for you to meet with Colonel Potts.]]></TranscriptText>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page Name="Team Member" MPageNo="Page 4">
+						<PageName>media/Base_Page_07.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Control Center (on radio):</U> Control Center to the Squadron Leader. The Commander is establishing a threat working group and requests that the BE Team report to the building immediately West of the main hangar.<BR><BR><U>British Counterpart, Squadron Leader Fletcher (on radio):</U> Copy. <BR><BR><U>British Counterpart, Squadron Leader Fletcher (not on radio):</U> Sounds like it's time for you to meet with Colonel Potts.]]></TranscriptText>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					
+					<Page LPageNo="Page 5" MPageNo="Page 5">
+						<PageName>media/Base_Page_08.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Base Commander, Col Potts:</U> We're at force protection Bravo now. I'd like some input from you on whether that's appropriate. Based on your tour, what is your recommendation?]]></Tab_1>
+						<instruction><![CDATA[Click the Commander to hear the question, then select the correct answer.]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 6" LPageNo="Page 6">
+						<PageName>media/Base_Page_09.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 7" LPageNo="Page 7">
+						<PageName>media/Base_Page_10.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Col Potts:</U> Which two measures would you recommend that the CE Commander institute to handle the overflowing latrine?]]></Tab_1>
+						<instruction><![CDATA[Click the Commander to hear the question, then select all that apply.]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 8" LPageNo="Page 8">
+						<PageName>media/Base_Page_11.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> After traveling for 24 hours, you have not had enough sleep and decide to retire to the cots so that you can get an early start the next morning in daylight.]]></TranscriptText>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+										
+					<Page Name="Team Lead" LPageNo="Page 9">
+						<PageName>media/Base_Page_12.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> Upon waking up, you've found your pallets unloaded from the aircraft. Maj Ramirez has found a building of opportunity to use for a clinic. MSgt Dower will help unpack medical supplies from the CONEX. Capt Hall and MSgt Phillips are going to meet with the Commander regarding food and latrine issues. To make the most progress, decide how to task yourself and the remaining team members.]]></TranscriptText>
+						<instruction><![CDATA[Drag the items to the appropriate locations, then click Done.]]></instruction>
+					</Page>
+
+					<Page Name="Team Member" MPageNo="Page 9">
+						<PageName>media/Base_Page_12.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> Upon waking up, you've found your pallets unloaded from the aircraft. Maj Ramirez has found a building of opportunity to use for a clinic. MSgt Dower will help unpack medical supplies from the CONEX. Capt Hall and MSgt Phillips are going to meet with the Commander regarding food and latrine issues. To make the most progress, decide how Maj Marks should task himself and the remaining team members.]]></TranscriptText>
+						<instruction><![CDATA[Drag the items to the appropriate locations, then click Done.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" LPageNo="Page 10">
+						<PageName>media/Base_Page_13.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> While you could split your team several different ways to accomplish these tasks based on team member strengths, for the purposes of this response you will proceed with assessment of the area where tent city is being constructed; the two BE NCOs, TSgt Hopper and SSgt Johnson, will work on identifying appropriate water sources; and the two remaining technicians will unload the pallets. The techs will be available for other tasks when unpacking has been completed.<BR><BR>Use the buttons to compare the assignments you made with the team assignments chosen for this scenario.]]></TranscriptText>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+
+					<Page Name="Team Member" MPageNo="Page 10">
+						<PageName>media/Base_Page_13.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> :  While Maj Marks could split the team several different ways to accomplish these tasks based on team member strengths, for the purposes of this response he will proceed with assessment of the area where tent city is being constructed; the two BE NCOs, TSgt Hopper and SSgt Johnson, will work on identifying appropriate water sources; and the two remaining technicians will unload the pallets. The techs will be available for other tasks when unpacking has been completed.<BR><BR>Use the buttons to compare the assignments you made with the team assignments chosen for this scenario.]]></TranscriptText>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" LPageNo="Page 11">
+						<PageName>media/Base_Page_14.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> The technicians have finished unpacking the pallets. The Public Health Tech has joined the IDMT in the clinic and the BE Tech, SrA Mukoda, has started assisting with other needed OESHA tasks. Your NCO team has been working on source water identification and assessment while you are continuing assessment of tent city. Select each team to review what assessment activities are being conducted.]]></TranscriptText>
+						<instruction><![CDATA[Select each team or item on the screen to continue assessing the situation.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Member" MPageNo="Page 11">
+						<PageName>media/Base_Page_14.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> The technicians have finished unpacking the pallets. The Public Health Tech has joined the IDMT in the clinic and the BE Tech, SrA Mukoda, has started assisting with other needed OESHA tasks. The NCO team has been working on source water identification and assessment while the Team Lead is continuing assessment of tent city. Select each team to review what assessment activities are being conducted.]]></TranscriptText>
+						<instruction><![CDATA[Select each team or item on the screen to continue assessing the situation.]]></instruction>
+					</Page>
+					
+					<Page PageID="21121a" CompentancyObj = "2" CompentancyID ="3,6" CompentancyText = "Water &#38; CBRN" CompentancyDescription = "Determine criteria for bacteriological, chemical, radiological, and physical monitoring requirements for a water distribution system." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 11a1" MPageNo="Page 11a1">
+						<PageName>media/Base_Page_15.swf</PageName>
+						<STS_Line><![CDATA[<li>4.15.3.1 Sampling Analysis and Monitoring Plan</li><li>4.15.3.2 Develop a water/liquid sampling strategy</li><li>4.15.3.5 Water/liquid sampling devices equipment</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Water</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFI 48-144, Safe Drinking Water Surveillance Program</li><li>AFMAN 48-138_IP, Sanitary Control and Surveillance of Field Water Supplies</li><li>DoD 4715.05-G, Overseas Environmental Baseline Guidance Document</li><li>Standard Methods for the Examination of Water and Wastewater</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Drag the appropriate items to the notepad, then click Done.]]></instruction>
+					</Page>
+					
+					<Page PageID="21121b" CompentancyObj = "3" CompentancyID ="3" CompentancyText = "Water" CompentancyDescription = "Define terms associated with water analysis." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 11a2" MPageNo="Page 11a2">
+						<PageName>media/Base_Page_16.swf</PageName>
+						<STS_Line><![CDATA[<li>4.15.3.5 Water/liquid sampling devices equipment</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Water</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>Standard Methods for the Examination of Water and Wastewater</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Drag the items to the appropriate locations, then click Done.]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 11a3" LPageNo="Page 11a3">
+						<PageName>media/Base_Page_17.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the appropriate answers, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 11a4" LPageNo="Page 11a4">
+						<PageName>media/Base_Page_18.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> As part of the water vulnerability assessment, the NCO team conducted a tour of the installation's water treatment plant. Which four items should they have reviewed during the visit?]]></TranscriptText>
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+					
+					<Page MPageNo="Page 11a5" LPageNo="Page 11a5">
+						<PageName>media/Base_Page_19.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					
+					<Page PageID="21121f" CompentancyObj = "4" CompentancyID ="3" CompentancyText = "Water" CompentancyDescription = "Conduct a water vulnerability assessment and assign risk." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 11a6" MPageNo="Page 11a6">
+						<PageName>media/Base_Page_20.swf</PageName>
+						<STS_Line><![CDATA[<li>4.15.1.10 Health risk ratings for backflow or cross connection areas</li><li>4.15.1.11 Assign Health Risk ratings</li><li>4.15.1.12 Base sanitary surveys</li><li>4.15.1.13 Perform base sanitary surveys</li><li>4.15.1.14 Water vulnerability assessment</li><li>4.15.1.15 Perform water vulnerability assessment</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Water</li><li>Perform & Communicate VAs</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFI 48-144, Safe Drinking Water Surveillance Program</li><li>AFIOH Water Vulnerability and Risk Assessments for Potable Water Assets</li><li>USAFSAM Drinking Water Surveillance Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					
+					<Page Name="Team Lead" PageID="21121g" CompentancyObj = "5" CompentancyID ="3" CompentancyText = "Water" CompentancyDescription = "After completing a water vulnerability assessment, make appropriate recommendations." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 11a7" >
+						<PageName>media/Base_Page_21.swf</PageName>
+						<STS_Line><![CDATA[<li>4.15.1.15 Perform water vulnerability assessment</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform & Communicate VAs</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFI 48-144, Safe Drinking Water Surveillance Program</li><li>AFIOH Water Vulnerability and Risk Assessments for Potable Water Assets</li><li>USAFSAM Drinking Water Surveillance Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> After touring the water treatment plan, your NCO team met with the logistics support contractor on base. He informed the team that they have the capability of providing bottled water for the installation. Which of these steps is NOT necessary when obtaining and providing the bottled water?]]></TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>	
+					
+					<Page Name="Team Member" PageID="21121g" CompentancyObj = "5" CompentancyID ="3" CompentancyText = "Water" CompentancyDescription = "After completing a water vulnerability assessment, make appropriate recommendations." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements"  MPageNo="Page 11a7">
+						<PageName>media/Base_Page_21.swf</PageName>
+						<STS_Line><![CDATA[<li>4.15.1.15 Perform water vulnerability assessment</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform & Communicate VAs</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFI 48-144, Safe Drinking Water Surveillance Program</li><li>AFIOH Water Vulnerability and Risk Assessments for Potable Water Assets</li><li>USAFSAM Drinking Water Surveillance Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> After touring the water treatment plan, the NCO team met with the logistics support contractor on base. He informed the team that they have the capability of providing bottled water for the installation. Which of these steps is NOT necessary when obtaining and providing the bottled water?]]></TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>	
+					
+					
+					<Page PageID="21121h" CompentancyObj = "6" CompentancyID ="3" CompentancyText = "Water" CompentancyDescription = "Establish the number and frequency of bacteriological samples required for water surveillance in a deployed setting." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 11a8" MPageNo="Page 11a8">						
+						<PageName>media/Base_Page_22.swf</PageName>
+						<STS_Line><![CDATA[<li>4.15.3.2 Develop a water/liquid sampling strategy</li><li>4.15.3.1 Sampling analysis and monitoring plan</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Water</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFMAN 48-138_IP, Sanitary Control and Surveillance of Field Water Supplies</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>Yes</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, then click <BR>Done. For assistance, click the Lifeline.]]></instruction>
+					</Page>
+					
+					<Page PageID="21121i" CompentancyObj = "7" CompentancyID ="3" CompentancyText = "Water" CompentancyDescription = "Given a water distribution system, determine the most appropriate sampling location(s)." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements"  LPageNo="Page 11a9" MPageNo="Page 11a9">
+						<PageName>media/Base_Page_23.swf</PageName>
+						<STS_Line><![CDATA[<li>4.5.1.2 OEH sample guide (include USAPHC guide)</li><li>4.15.3.1 Sampling Analysis and Monitoring Plan</li><li>4.15.3.2 Develop a water/liquid sampling strategy</li><li>4.15.3.3 Collect water samples from swimming pools, hot tubs, spas, natural bathing areas or other nonpotable sources</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Water</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFI 48-144, Safe Drinking Water Surveillance Program</li><li>Technical Bulletin 577, Sanitary Control and Surveillance of Field Water Supplies</li><li>USAFSAM Drinking Water Surveillance Technical Guide</li><li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the appropriate area, <BR>then click Done.]]></instruction>
+					</Page>
+
+						
+					
+					
+					<Page MPageNo="Page 11b1" LPageNo="Page 11b1">
+						<PageName>media/Base_Page_24.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the appropriate answers, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page PageID="21122b" CompentancyObj = "8" CompentancyID ="6" CompentancyText = "CBRN" CompentancyDescription = "Relate the correct CBRN equipment with its hazard identification capability." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 11b2" MPageNo="Page 11b2">
+						<PageName>media/Base_Page_25.swf</PageName>
+						<STS_Line><![CDATA[<li>4.5.2.6.2 PID/FID</li><li>4.5.2.6.3 Portable GC-MS</li><li>4.5.3.4 Soil/solid sampling devices</li><li>4.9.2.11.1 Ion Chamber (Victoreen 451P)</li><li>4.9.2.11.3 Geiger-Mueller (i.e., ADM-300)</li><li>4.9.2.11.5 High Volume Air Sampler (i.e., RaDeco)</li><li>6.15 Radiation detection equipment (theory of operation, capabilities, limitations of each) </li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Environmental</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>451P User's Pamphlet</li><li>ADM-300 User's Manual</li><li>HAPSITE User's Manual</li><li>RADeCO User's Manual</li><li>TVA-1000B User's Manual</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Drag the items to the appropriate locations, then click Done.]]></instruction>
+					</Page>
+					
+					
+					<Page PageID="21122c" CompentancyObj = "9" CompentancyID ="2, 6" CompentancyText = "Air &#38; CBRN" CompentancyDescription = "Apply airborne hazard evaluation principles to an occupational chemical exposure scenario to anticipate, recognize, and evaluate inhalation hazards." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 11b3" MPageNo="Page 11b3">
+						<PageName>media/Base_Page_26.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.2 Occupational and Environmental Health Assessment</li><li>4.1.2.3 Exposure Assessment Strategies</li><li>4.5.2.4 Determine or establish air sampling strategies</li><li>4.5.2.6.2 PID/FID</li><li>4.5.2.6.3 Portable GC-MS</li><li>4.5.2.6.4 Combustible gas meters</li><li>4.5.3.4 Soil/solid sampling devices</li><li>4.9.2.11.3 Geiger-Mueller (i.e., ADM-300)</li><li>6.15.1 Calibrate & operate ADM-300 kit</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Air</li><li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>451P User's Pamphlet</li><li>ADM-300 User's Manual</li><li>AFMAN 48-154, Occupational & Environmental Health Site Assessment</li><li>AIHA, The Occupational Environment: Its Evaluation, Control and Management</li><li>ASTM E 2318-03, Standard Guide for Environmental Health Site Assessment Process for Military Deployments</li><li>HAPSITE User's Manual</li><li>MultiRae Meter User's Manual</li><li>OEHSA Documentation and Data Management Technical Guide</li><li>RADeCO User's Manual</li><li>TVA-1000B User's Manual</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+					
+					<Page PageID="21122d" CompentancyObj = "10" CompentancyID ="6" CompentancyText = "CBRN" CompentancyDescription = "Assess base vulnerability to Toxic Industrial Chemicals/Toxic Industrial Materials used as potential weapons." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 11b4" MPageNo="Page 11b4">
+						<PageName>media/Base_Page_27.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.4 Perform TIC/TIM vulnerability assessment</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform & Communicate VAs</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>ASTM E 2318-03, Standard Guide for Environmental Health Site Assessment Process for Military Deployments</li><li>Toxic Industrial Chemicals, Toxic Industrial Materials Vulnerability Assessment Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+
+					<Page PageID="21123a" CompentancyObj = "11" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Given an OEHSA scenario, develop a sampling strategy to identify possible environmental hazards." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 11c1" MPageNo="Page 11c1">
+						<PageName>media/Base_Page_28.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.2.3 Exposure assessment strategies</li><li>4.5.1.1 Sampling methodology (solid, liquid, gas)</li><li>4.5.1.2 OEH sample guide (include USAPHC guide)</li><li>4.5.3.2 Determine or establish soil/solid sampling strategies</li><li>4.5.2.4 Establish air sampling strategies</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li><li>Perform HRA – Soil</li><li>Perform HRA – Air</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFMAN 48-154, Occupational & Environmental Health Site Assessment</li><li>AIHA, The Occupational Environment: Its Evaluation, Control and Management</li><li>ASTM E 2318-03, Standard Guide for Environmental Health Site Assessment Process for Military Deployments</li><li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+
+					<Page LPageNo="Page 11c2" MPageNo="Page 11c2">
+						<PageName>media/Base_Page_29.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the appropriate answers, <BR>then click Done.]]></instruction>
+					</Page>
+
+
+					<Page LPageNo="Page 11d1" MPageNo="Page 11d1">
+						<PageName>media/Base_Page_30.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select each item to gather more information.]]></instruction>
+					</Page>
+					
+
+					<Page LPageNo="Page 11d2" MPageNo="Page 11d2">
+						<PageName>media/Base_Page_31.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the appropriate areas, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					
+					<Page PageID="21124c" CompentancyObj = "12" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Identify Areas of Concern and the possible hazards associated with them." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 11d3" MPageNo="Page 11d3">
+						<PageName>media/Base_Page_32.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.2.3 Exposure Assessment Strategies</li><li>4.1.2.2 Conceptual Site Model</li><li>4.2.2 Perform routine assessments</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFMAN 48-154, Occupational & Environmental Health Site Assessment</li><li>ASTM E 2318-03, Standard Guide for Environmental Health Site Assessment Process for Military Deployment</li><li>OEHSA Documentation and Data Management Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the appropriate answers, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page LPageNo="Page 11d4" MPageNo="Page 11d4">
+						<PageName>media/Base_Page_33.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> Select each button to compare the hazards you identified with those identified for this scenario.]]></TranscriptText>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page PageID="21124e" CompentancyObj = "13" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Identify appropriate location of base assets to promote prevention of illness." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 11d5" MPageNo="Page 11d5">
+						<PageName>media/Base_Page_34.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.2.1 Site Selection</li><li>4.1.2.4 Exposure pathway evaluation</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFMAN 48-154, Occupational & Environmental Health Site Assessment</li><li>ASTM E 2318-03, Standard Guide for Environmental Health Site Assessment Process for Military Deployments</li><li>OEHSA Documentation and Data Management Technical Guide</li><li>TG 248, Guide for Deployed Preventive Medicine Personnel on Health Risk Management</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Drag the items to the appropriate locations, then click Done.]]></instruction>
+					</Page>
+					
+					<Page LPageNo="Page 12" MPageNo="Page 12" >
+						<PageName>media/Base_Page_35.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> After a long, hot day of assessment, your team is ready to go to sleep for the night.]]></TranscriptText>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" LPageNo="Page 13">
+						<PageName>media/Base_Page_36.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> After breakfast, you split your BE team members to accomplish needed tasks for the day. SrA Mukoda will continue working with soil assessment, while TSgt Hopper and SSgt Johnson, your BE NCOs, continue working with water analysis. You have a couple more air analysis tasks you need to complete. Select whether you'd like to complete your tasks or review the activities of your other team members first.]]></TranscriptText>
+						<instruction><![CDATA[Make your decision.]]></instruction>
+					</Page>
+					
+					<Page  Name="Team Member" MPageNo="Page 13">
+						<PageName>media/Base_Page_36.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> After breakfast, Maj Marks splits the BE team members to accomplish needed tasks for the day.  SrA Mukoda will continue working with soil assessment, while TSgt Hopper and SSgt Johnson, the BE NCOs, continue working with water analysis.  You are to assist Maj Marks with a couple more air analysis tasks that need to be completed.  Select whether you’d like to complete your tasks or review the activities of the other team members first.]]></TranscriptText>
+						<instruction><![CDATA[Make your decision.]]></instruction>
+					</Page>
+					
+					<Page PageID="22151a" CompentancyObj = "14" CompentancyID ="3" CompentancyText = "Water" CompentancyDescription = "Calculate potable water requirements for personnel and make appropriate recommendations." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 13a1" MPageNo="Page 13a1">
+						<PageName>media/Base_Page_37.swf</PageName>
+						<STS_Line><![CDATA[<li>4.15.1.6 Field drinking water</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Air</li><li>Communicate HRA Results</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFH 10-222, Vol 9, Guide to Reverse Osmosis Water Purification Unit Installation and Operation</li><li>AFMAN 48-138_IP, Sanitary Control and Surveillance of Field Water Supplies</li>]]></Training_Reference>
+						<PageType>Animation</PageType>							
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>Yes</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Make your decision. For more information, click the Lifeline.]]></instruction>
+					</Page>
+
+
+					<Page LPageNo="Page 13a2" MPageNo="Page 13a2">
+						<PageName>media/Base_Page_38.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" PageID="22151c" CompentancyObj = "15" CompentancyID ="3" CompentancyText = "Water" CompentancyDescription = "Given an OEHSA scenario, determine appropriate water sampling and monitoring strategies." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 13a3" >
+						<PageName>media/Base_Page_39.swf</PageName>
+						<STS_Line><![CDATA[<li>4.15.3.1 Sampling analysis and monitoring plan</li><li>4.15.3.2 Develop a water/liquid sampling strategy</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Water</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFCENT Deployed BE Guide</li><li>AFMAN 48-138_IP, Sanitary Control and Surveillance of Field Water Supplies</li><li>TG 244, Bacteriological Surveillance of Drinking Water</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> Based upon planning factors, the efficiency of the unit, and the quantity of water being supplied from the host nation, the single ROWPU available could produce approximately 8,333 gallons per day of treated water.<BR><BR>Using the 20 gallons per day allocation, the source water provided is not enough water to meet the demand.<BR><BR>The CE Commander concurred with your NCO team's recommendation to use bottled water for drinking.<BR><BR>At which three points should your NCOs establish routine sampling?]]></TranscriptText>
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Member" PageID="22151c" CompentancyObj = "15" CompentancyID ="3" CompentancyText = "Water" CompentancyDescription = "Given an OEHSA scenario, determine appropriate water sampling and monitoring strategies." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 13a3">
+						<PageName>media/Base_Page_39.swf</PageName>
+						<STS_Line><![CDATA[<li>4.15.3.1 Sampling analysis and monitoring plan</li><li>4.15.3.2 Develop a water/liquid sampling strategy</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Water</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFCENT Deployed BE Guide</li><li>AFMAN 48-138_IP, Sanitary Control and Surveillance of Field Water Supplies</li><li>TG 244, Bacteriological Surveillance of Drinking Water</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> Based upon planning factors, the efficiency of the unit, and the quantity of water being supplied from the host nation, the single ROWPU available could produce approximately 8,333 gallons per day of treated water.<BR><BR>Using the 20 gallons per day allocation, the source water provided is not enough water to meet the demand.<BR><BR>The CE Commander concurred with the NCO team's recommendation to use bottled water for drinking.<BR><BR>At which three points should the NCOs establish routine sampling?]]></TranscriptText>
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+					
+					<Page LPageNo="Page 13a4" MPageNo="Page 13a4">
+						<PageName>media/Base_Page_40.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+					
+					<Page PageID="22151e" CompentancyObj = "16" CompentancyID ="5" CompentancyText = "Equip" CompentancyDescription = "Select the proper detection equipment for a specific VOC." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 13a5" MPageNo="Page 13a5">
+						<PageName>media/Base_Page_41.swf</PageName>
+						<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices </li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Air</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>CDS Kit User's Manual</li><li>HAPSITE User's Manual</li><li>HazMat ID Guidance Document</li><li>NIOSH Pocket Guide to Chemical Hazards</li><li>TVA-1000B User's Manual</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>Yes</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, then click Done. For assistance, click the Lifeline.]]></instruction>
+					</Page>
+					
+					<Page LPageNo="Page 13b1" MPageNo="Page 13b1">
+						<PageName>media/Base_Page_42.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>PHO, Capt Hall (on radio):</U> BE Team Lead this is the Public Health Officer, I'm headed over to the dining hall to investigate a spike in gastrointestinal complaints from patients we've been seeing at the clinic. Over.<BR><BR><U>BE Team Lead, Maj Marks (on radio):</U> Copy. Have there been any other health issues in the two days we've been on-site? Over.<BR><BR><U>PHO, Capt Hall (on radio):</U> Negative, just a few safety-related injuries. I'll inform you when I have more information. Out.]]></TranscriptText>
+						<Tab_1><![CDATA[<U>PHO, Capt Hall (on radio):</U> BE Team Lead this is the Public Health Officer, I'm headed over to the dining hall to investigate a spike in gastrointestinal complaints from patients we've been seeing at the clinic. Over.<BR><BR><U>BE Team Lead, Maj Marks (on radio):</U> Copy. Have there been any other health issues in the two days we've been on-site? Over.<BR><BR><U>PHO, Capt Hall (on radio):</U> Negative, just a few safety-related injuries. I'll inform you when I have more information. Out.]]></Tab_1>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page PageID="22153a" CompentancyObj = "17" CompentancyID ="4" CompentancyText = "Soil" CompentancyDescription = "Define basic principles of soil/solid composite sampling." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 13c1" MPageNo="Page 13c1">
+						<PageName>media/Base_Page_43.swf</PageName>
+						<STS_Line><![CDATA[<li>4.5.1.1 Sampling methodology (solid, liquid, gas)</li><li>4.5.1.2 OEH sample guide (include USAPHC guide)</li><li>4.5.3.2 Determine or establish soil/solid sampling strategies</li><li>4.5.3.3 Collect soil/solid samples</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Soil</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>ASTM E 2318-03, Standard Guide for Environmental Health Site Assessment Process for Military Deployment</li><li>EPA Guidelines, Composite Soil Sampling: Site Contamination Assessment and Management, March 2005</li><li>NIOSH Publication 77-173, Occupational Exposure Sampling Strategy Manual</li><li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+
+					<Page PageID="22153b" CompentancyObj = "18" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Identify basic sampling protocol and techniques." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 13c2" MPageNo="Page 13c2">
+						<PageName>media/Base_Page_44.swf</PageName>
+						<STS_Line><![CDATA[<li>4.5.1.2 OEH sample guide (include USAPHC guide)</li><li>4.5.3.1 Sampling methodology for soil and solids</li><li>4.5.3.3 Collect soil/solid samples</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Soil</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>BE Field Manual</li><li>EPA Guidelines, Composite Soil Sampling: Site Contamination Assessment and Management, March 2005</li><li>NIOSH Publication 77-173, Occupational Exposure Sampling Strategy Manual</li><li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select all that apply, then click Done.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" LPageNo="Page 14">
+						<PageName>media/Base_Page_45.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> You've asked your PAM team to report to the unit command building after lunch to discuss findings and next steps.]]></TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator:</U> You've asked your PAM team to report to the unit command building after lunch to discuss findings and next steps.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page Name="Team Member" MPageNo="Page 14">
+						<PageName>media/Base_Page_45.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> The PAM team has been asked to report to the unit command building after lunch to discuss findings and next steps.]]></TranscriptText>
+						<Tab_1><![CDATA[<U>Narrator:</U> The PAM team has been asked to report to the unit command building after lunch to discuss findings and next steps.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page LPageNo="Page 15" MPageNo="Page 15">
+						<PageName>media/Base_Page_46.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Narrator:</U> All teams have finished their preliminary analysis and response activities. Select the highlighted team members to discuss findings and next steps.]]></TranscriptText>
+						<instruction><![CDATA[Make your decision.]]></instruction>
+					</Page>
+					
+					<Page PageID="23171a" CompentancyObj = "19" CompentancyID ="3" CompentancyText = "Water" CompentancyDescription = "Interpret potable water sampling results." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 15a1" MPageNo="Page 15a1">
+						<PageName>media/Base_Page_47.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.13 Sample result interpretation</li><li>4.15.1.6 Field drinking water</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Water</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFMAN 48-138_IP, Sanitary Control and Surveillance of Field Water Supplies</li><li>BE Field Manual</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>Yes</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Lifeline:</U> Lifeline, standing by.<BR><BR><U>BE Team Lead, Maj Marks:</U> I need to be prepared to make a recommendation on the use of the ROWPU. What have you found?<BR><BR><U>BE NCO, TSgt Hopper:</U> The results we have after analyzing the water from the system are:<li>Coliform - Negative</li><li>pH - 7.3</li><li>Total Organic Compounds of 500 milligrams per liter</li><li>Total Suspended Solids - 50 milligrams per liter</li><li>and Total Dissolved Solids of 250 milligrams per liter</li><BR><U>Narrator:</U> Based upon the results, does the ROWPU meet potable water guidelines?]]></TranscriptText>
+						<instruction><![CDATA[Make your decision. <br>For assistance, click the Lifeline.]]></instruction>
+					</Page>
+
+					
+					<Page LPageNo="Page 15a2" MPageNo="Page 15a2">
+						<PageName>media/Base_Page_48.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE NCO, TSgt Hopper:</U> I still have some concerns about the use of the ROWPU because of the KCN threat. It doesn't have high treatment efficiency for low molecular weight compounds such as alcohols and cyanide.<BR><BR><U>BE Team Lead, Maj Marks:</U> SSgt Johnson, do you have any other thoughts?<BR><BR><U>BE NCO, SSgt Johnson:</U> I think we go with the ROWPU, ensuring that an NBC filter is attached.<BR><BR><U>BE Team Lead, Maj Marks:</U> Sounds good.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					
+					<Page PageID="23171c" CompentancyObj = "20" CompentancyID ="3" CompentancyText = "Water" CompentancyDescription = "Given a DPD kit, water samples and references, perform chlorine analysis." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 15a3" MPageNo="Page 15a3">
+						<PageName>media/Base_Page_49.swf</PageName>
+						<STS_Line><![CDATA[<li>4.15.3.8 Perform chlorine analysis</li><li>4.15.3.5 Water/liquid sampling devices equipment</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Water</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>DPD Kit Manual</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page PageID="23171d" CompentancyObj = "21" CompentancyID ="3" CompentancyText = "Water" CompentancyDescription = "Define field water disinfection level requirements." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 15a4" MPageNo="Page 15a4">
+						<PageName>media/Base_Page_50.swf</PageName>
+						<STS_Line><![CDATA[<li>4.15.1.4 Drinking water treatment</li><li>4.15.1.6 Field drinking water</li><li>4.15.3.5 Water/liquid sampling devices equipment</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Water</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFMAN 48-138_IP, Sanitary Control and Surveillance of Field Water Supplies</li><li>BE Field Manual</li><li>DPD Kit User's Manual</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page PageID="23172b" CompentancyObj = "22" CompentancyID ="2" CompentancyText = "Air" CompentancyDescription = "Given Particulate Matter (PM-10) measurements, make determinations as they apply to applicable exposure guidelines." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 15b1" MPageNo="Page 15b1">
+						<PageName>media/Base_Page_51.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.2.9 Associate exposure with affected personnel using spatial and temporal reference marks</li><li>4.5.1.5.1 Select appropriate occupational and environmental exposure limit (OEEL) (TLV, MCL, SPEGL, MEG, STEL, CELING, PEL, Excursion Limits, etc.)</li><li>4.5.2.16 Interpret air sample results</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Air</li><li>Conduct OEHSA</li><li>Communicate HRA Results</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>BE Field Manual</li><li>EPA National Ambient Air Quality Standards</li><li>TG 230, Chemical Exposure Guidelines for Deployed Military Personnel (Appendix C)</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>BE Team Lead, Maj Marks:</U> I found out that the last PM-10 measurements taken by the British military preventive medicine unit were 300 micrograms per cubic meter over a 24-hour sampling period. No additional information has been provided.]]></TranscriptText>
+						<instruction><![CDATA[Make your decision.]]></instruction>
+					</Page>
+					
+					
+					<Page PageID="23172c" CompentancyObj = "23" CompentancyID ="2, 5" CompentancyText = "Air &#38; Equip" CompentancyDescription = "Define limitations and interpret results for the TVA-1000B." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 15b2" MPageNo="Page 15b2">
+						<PageName>media/Base_Page_52.swf</PageName>
+						<STS_Line><![CDATA[<li>3.2.2 Perform conversion of units using dimensional analysis (formula manipulation), metric conversion</li><li>4.5.1.2 OEH sample guide (include USAPHC guide)</li><li>4.5.2.2 Air sampling devices (direct reading instruments, pumps, passive dosimeters, etc.)</li><li>4.5.2.6.2 PID/FID</li><li>4.5.2.16 Interpret air sample results</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Air</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>TVA-1000B User's Manual</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page LPageNo="Page 15b3" MPageNo="Page 15b3">
+						<PageName>media/Base_Page_53.swf</PageName>
+						
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>Yes</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, then click Done. For assistance, click the Lifeline.]]></instruction>
+					</Page>
+					
+					<Page LPageNo="Page 15b3" MPageNo="Page 15b3">
+						<PageName>media/Base_Page_54.swf</PageName>
+											
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>Yes</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, then click Done. For assistance, click the Lifeline.]]></instruction>
+					</Page>
+					
+					<Page PageID="23172d" CompentancyObj = "24" CompentancyID ="6" CompentancyText = "CBRN" CompentancyDescription = "Determine Occupational and Environmental Health Risk associated with a known hazard." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 15b3" MPageNo="Page 15b3">
+						<PageName>media/Base_Page_55.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.2.4 Exposure</li><li>4.1.10 Health risk assessment pathway evaluation</li><li>4.5.2.16 Interpret air sample results </li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Air</li><li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFI 48-145, Occupational and Environmental Health Program</li><li>AFMAN 48-146, Occupational & Environmental Health Program and Information Management</li><li>AIHA, The Occupational Environment: Its Evaluation, Control and Management</li><li>DOEHRS</li><li>TG 230, Chemical Exposure Guidelines for Deployed Military Personnel</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>Yes</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, then click Done. For assistance, click the Lifeline.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" PageID="23172e" CompentancyObj = "25" CompentancyID ="6" CompentancyText = "CBRN" CompentancyDescription = "Evaluate health risk and determine severity." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 15b4">
+						<PageName>media/Base_Page_56.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.10 Health risk assessment</li><li>4.1.2.4 Exposure pathway evaluation</li><li>4.1.2.9 Associate exposure with affected personnel using spatial and temporal reference marks</li><li>4.1.2.2 Conceptual Site Model</li><li>4.1.2 Occupational and Environmental Health Site Assessment</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFMAN 48-154, Occupational and Environmental Health Site Assessment</li><li>AIHA, The Occupational Environment: Its Evaluation, Control and Management</li><li>OEHSA Documentation and Data Management Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>PH Tech, SrA Pritt:</U> Maj Marks? I noticed earlier that CE personnel are using paints containing Toluene in several construction projects around tent city.<BR><BR>I know that they're eager to please everybody and provide personnel with new facilities, but they're disregarding several standard health and safety practices such as evacuating other personnel while they work.<BR><BR>Aircraft Maintenance personnel that we evaluated earlier are going to retire to their new facility tonight after working a 12-hour shift conducting aircraft inspections.<BR><BR>Which of the following presents the greatest health risk?]]></TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Member" PageID="23172e" CompentancyObj = "25" CompentancyID ="6" CompentancyText = "CBRN" CompentancyDescription = "Evaluate health risk and determine severity." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 15b4">
+						<PageName>media/Base_Page_56.swf</PageName>
+						<STS_Line><![CDATA[<li>4.1.10 Health risk assessment</li><li>4.1.2.4 Exposure pathway evaluation</li><li>4.1.2.9 Associate exposure with affected personnel using spatial and temporal reference marks</li><li>4.1.2.2 Conceptual Site Model</li><li>4.1.2 Occupational and Environmental Health Site Assessment</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFMAN 48-154, Occupational and Environmental Health Site Assessment</li><li>AIHA, The Occupational Environment: Its Evaluation, Control and Management</li><li>OEHSA Documentation and Data Management Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>PH Tech, SrA Pritt:</U> I noticed earlier that CE personnel are using paints containing Toluene in several construction projects around tent city.<BR><BR>I know that they're eager to please everybody and provide personnel with new facilities, but they're disregarding several standard health and safety practices such as evacuating other personnel while they work.<BR><BR>Aircraft Maintenance personnel that we evaluated earlier are going to retire to their new facility tonight after working a 12-hour shift conducting aircraft inspections.<BR><BR>Which of the following presents the greatest health risk?]]></TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page LPageNo="Page 15b5" MPageNo="Page 15b5">
+						<PageName>media/Base_Page_57.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>PH Tech, SrA Pritt:</U> Why do you consider the greatest health risk to be Aircraft Maintenance personnel sleeping in a facility that was recently painted? It doesn't seem like the exposure would be that high.<BR><BR><U>BE Team Lead, Maj Marks:</U> The personnel were exposed to Methylene Chloride during the day and Toluene in the evening. While the exposure to each chemical may be harmless by itself, the combination of the two exposures could present a higher risk because both chemicals have similar target organs, which results in a cumulative exposure.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page PageID="23173a" CompentancyObj = "26" CompentancyID ="5" CompentancyText = "Equip" CompentancyDescription = "Interpret TVA-1000B results." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 15c1" MPageNo="Page 15c1">
+						<PageName>media/Base_Page_58.swf</PageName>
+						<STS_Line><![CDATA[<li>4.5.2.16 Interpret air sample results</li><li>4.5.2.2 Air sampling devices (direct reading instruments, pumps, passive dosimeters, etc.)</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Air</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>TVA-1000B User's Manual</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>SrA Mukoda:</U> My soil-gas measurements with the TVA-1000B were 10 ppm on the PID and 0 ppm on the FID.]]></TranscriptText>
+						<instruction><![CDATA[Select the correct answer,<br>then click Done.]]></instruction>
+					</Page>
+					
+					<Page LPageNo="Page 16" MPageNo="Page 16">
+						<PageName>media/Base_Page_59.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Commander, Col Potts (on radio):</U> BE Team Lead this is the Commander. What's your position? Over.<BR><BR><U>BE Team Lead, Maj Marks (on radio):</U> I'm with the PAM team in the command building. Over.<BR><BR><U>Commander, Col Potts (on radio):</U> Copy. I'm on my way. I'd like to discuss your recommendations before you wrap-up for the day. Out.<BR><BR><U>BE Team Lead, Maj Marks (to PAM team, NOT on radio):</U> Alright team, that'll do it. Go ahead and turn in, we'll pick up in the morning.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page Name="Team Lead" PageID="24190" CompentancyObj = "27" CompentancyID ="6" CompentancyText = "CBRN" CompentancyDescription = "Determine HRA recommendations based on sample results and data." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 17" >
+						<PageName>media/Base_Page_60.swf</PageName>
+						<STS_Line><![CDATA[<li>3.1.5 Brief CBRN (and physical) hazards/risks to personnel (shop personnel, commanders, incident commander, etc.)</li><li>4.15.1.2 Sources and characteristics of potable water</li><li>4.15.1.15 Perform water vulnerability assessments</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Water</li><li>Communicate HRA Results</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFIOH Water Vulnerability and Risk Assessments for Potable Water Assets</li><li>AFMAN 48-138_IP, Sanitary Control and Surveillance of Field Water Supplies</li><li>AFMAN 48-146, Occupational & Environmental Health Program and Information Management</li><li>USAFSAM Drinking Water Surveillance Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Commander, Col Potts:</U> Seems your team has had a busy couple of days. Based on what you've found regarding the water quality in the public water system and our intended uses, which recommendation for drinking water results in the lowest risk to personnel?]]></Tab_1>
+						<instruction><![CDATA[Click the Commander to hear the question, then select the correct answer.]]></instruction>
+					</Page>
+					
+					<Page Name="Team Member" PageID="24190" CompentancyObj = "27" CompentancyID ="6" CompentancyText = "CBRN" CompentancyDescription = "Determine HRA recommendations based on sample results and data." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" MPageNo="Page 17">
+						<PageName>media/Base_Page_60.swf</PageName>
+						<STS_Line><![CDATA[<li>3.1.5 Brief CBRN (and physical) hazards/risks to personnel (shop personnel, commanders, incident commander, etc.)</li><li>4.15.1.2 Sources and characteristics of potable water</li><li>4.15.1.15 Perform water vulnerability assessments</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Water</li><li>Communicate HRA Results</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFIOH Water Vulnerability and Risk Assessments for Potable Water Assets</li><li>AFMAN 48-138_IP, Sanitary Control and Surveillance of Field Water Supplies</li><li>AFMAN 48-146, Occupational & Environmental Health Program and Information Management</li><li>USAFSAM Drinking Water Surveillance Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>Commander, Col Potts:</U> Seems you've had a busy couple of days. Based on what you've found regarding the water quality in the public water system and our intended uses, which recommendation for drinking water results in the lowest risk to personnel?]]></Tab_1>
+						<instruction><![CDATA[Click the Commander to hear the question, then select the correct answer.]]></instruction>
+					</Page>
+					
+					
+					<Page PageID="24200" CompentancyObj = "28" CompentancyID ="6" CompentancyText = "CBRN" CompentancyDescription = "Recognize the potential hazards associated with environmental exposures." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 18" MPageNo="Page 18">
+						<PageName>media/Base_Page_61.swf</PageName>
+						<STS_Line><![CDATA[<li>3.1.5 Brief CBRN (and physical) hazards/risks to personnel (shop personnel, commanders, incident commander, etc.)</li><li>4.1.10 Health risk assessment</li><li>4.1.13 Sample result interpretation</li><li>4.1.2.2 Conceptual Site Model</li><li>4.1.2.4 Exposure Pathway Evaluation</li><li>4.5.3.6 Interpret soil sample results</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Perform HRA – Environmental</li><li>Conduct OEHSA</li><li>Communicate HRA Results</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFMAN 48-146, Occupational & Environmental Health Program and Information Management</li><li>AFMAN 48-154, Occupational and Environmental Health Site Assessment </li><li>AIHA, The Occupational Environment: Its Evaluation, Control and Management</li><li>OEHSA Documentation and Data Management Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					
+					<Page Name = "Team Lead" PageID="24210" CompentancyObj = "29" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Recommend appropriate control measures to protect health of personnel." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 19" >
+						<PageName>media/Base_Page_62.swf</PageName>
+						<STS_Line><![CDATA[<li>3.1.5 Brief CBRN (and physical) hazards/risks to personnel (shop personnel, commanders, incident commander, etc.)</li><li>4.1.2.6 OEH exposure controls</li><li>4.1.10 Health risk assessment</li><li>4.1.13 Sample result interpretation</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li><li>Communicate HRA Results</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFMAN 48-146, Occupational & Environmental Health Program and Information Management</li><li>AFMAN 48-154, Occupational and Environmental Health Site Assessment</li><li>AFMAN 48-155, Occupational and Environmental Health Exposure Controls</li><li>OEHSA Documentation and Data Management Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>BE Team Lead, Maj Marks:</U> Col Potts, we found that Aircraft Maintenance personnel are exposed to chlorinated solvents while performing inspections on small aircraft parts in the maintenance hangar. They don't have their PPE with them.<BR><BR><U>Narrator:</U> Which one of the following is NOT a recommendation that you should provide to Colonel Potts for consideration?]]></TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					<Page  Name = "Team Member" PageID="24210" CompentancyObj = "29" CompentancyID ="1" CompentancyText = "BE Basics" CompentancyDescription = "Recommend appropriate control measures to protect health of personnel." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements"  MPageNo="Page 19">
+						<PageName>media/Base_Page_62.swf</PageName>
+						<STS_Line><![CDATA[<li>3.1.5 Brief CBRN (and physical) hazards/risks to personnel (shop personnel, commanders, incident commander, etc.)</li><li>4.1.2.6 OEH exposure controls</li><li>4.1.10 Health risk assessment</li><li>4.1.13 Sample result interpretation</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li><li>Communicate HRA Results</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFMAN 48-146, Occupational & Environmental Health Program and Information Management</li><li>AFMAN 48-154, Occupational and Environmental Health Site Assessment</li><li>AFMAN 48-155, Occupational and Environmental Health Exposure Controls</li><li>OEHSA Documentation and Data Management Technical Guide</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText><![CDATA[<U>BE Team Lead, Maj Marks:</U> Col Potts, we found that Aircraft Maintenance personnel are exposed to chlorinated solvents while performing inspections on small aircraft parts in the maintenance hangar. They don't have their PPE with them.<BR><BR><U>Narrator:</U> Which one of the following is NOT a recommendation that Maj Marks should provide to Colonel Potts for consideration?]]></TranscriptText>
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+					
+					
+					<Page PageID="24220" CompentancyObj = "30" CompentancyID ="6" CompentancyText = "CBRN" CompentancyDescription = "Summarize the controls appropriate to prevent heat stress injury." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 20" MPageNo="Page 20">
+						<PageName>media/Base_Page_63.swf</PageName>
+						<STS_Line><![CDATA[<li>4.12.3 Analyze thermal stress hazards (i.e., WBGT)</li><li>4.12.4 Thermal stress controls</li><li>4.12.5 Health/medical effects of extended IPE/GCE wear</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>ACGIH Threshold Limit Values (TLVs) for Chemical Substances and Physical Agents and Biological Exposure Indices (BEIs)</li><li>AFPAM 48-151, Thermal Injury</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Drag the items to the appropriate locations, then click Done.]]></instruction>
+					</Page>
+					
+										
+					<Page PageID="24230" CompentancyObj = "31" CompentancyID ="6" CompentancyText = "CBRN" CompentancyDescription = "Evaluate and recommend controls for thermal stress." CompentancyTopic = "Basic Site Assessment and Risk Communication Requirements" LPageNo="Page 21" MPageNo="Page 21">
+						<PageName>media/Base_Page_64.swf</PageName>
+						<STS_Line><![CDATA[<li>3.1.5 Brief CBRN (and physical) hazards/risks to personnel (shop personnel, commanders, incident commander, etc.)</li><li>4.12.3 Analyze thermal stress hazards (i.e., WBGT)</li><li>4.12.4 Thermal stress controls</li><li>4.12.5 Health/medical effects of extended IPE/GCE wear</li>]]></STS_Line>
+						<RSV_Area><![CDATA[<li>Conduct OEHSA</li><li>Communicate HRA Results</li>]]></RSV_Area>
+						<Training_Reference><![CDATA[<li>AFMAN 48-146, Occupational & Environmental Health Program and Information Management</li><li>AFPAM 48-151, Thermal Injury</li><li>ACGIH Threshold Limit Values (TLVs) for Chemical Substances and Physical Agents and Biological Exposure Indices (BEIs)</li>]]></Training_Reference>
+						<PageType>Animation</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>Yes</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						
+						<instruction><![CDATA[Select the correct answer, <BR>then click Done.]]></instruction>
+					</Page>
+
+
+					<Page LPageNo="Page 22" MPageNo="Page 22">
+						<PageName>media/Base_Page_65.swf</PageName>
+						<PageType>Animation</PageType>						
+						<Slider>Yes</Slider>	
+						<Audio>Yes</Audio>		
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>Yes</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>No</IsBookmarkPoint>
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText><![CDATA[<U>Commander, Col Potts:</U> Your team has done a thorough job. Get some rest.]]></TranscriptText>
+						<Tab_1><![CDATA[<U>Commander, Col Potts:</U> Your team has done a thorough job. Get some rest.]]></Tab_1>
+						<instruction><![CDATA[]]></instruction>
+					</Page>
+					
+					<Page LPageNo="Page 23" MPageNo="Page 23">
+						<PageName>media/Base_Page_66.swf</PageName>
+						<PageType>Result</PageType>						
+						<Slider>No</Slider>	
+						<Audio>No</Audio>				
+						<lifeLine>No</lifeLine>			
+						<help>Yes</help>
+						<equipment>No</equipment>
+						<playerInfo>Yes</playerInfo>
+						<IsBookmarkPoint>Yes</IsBookmarkPoint>	
+						<DoesPageScores>#</DoesPageScores>
+						<TranscriptText>#</TranscriptText>
+						<Tab_1><![CDATA[<U>BE Expert:</U> The major goals of this scenario were to understanding the OEHSA process and effectively and efficiently determine strategies relative to identifying and controlling hazards.<BR><BR>When performing a site assessment, conducting water vulnerability assessment is the highest priority. If team members are available, analysis of other areas can be conducted simultaneously.<BR><BR>Take a look at the listed objectives. Notice areas where you excelled and areas where you may want to brush up.<BR><BR>Print this feedback form for your reference. If you have further questions see your immediate supervisor for assistance.]]></Tab_1>
+						<instruction><![CDATA[Print your feedback form for your records, then click Continue to return to the Menu.]]></instruction>
+						<instruction_1><![CDATA[You've completed this scenario. Print this page, then proceed for feedback.]]></instruction_1>
+						<instruction_2><![CDATA[Print your feedback form for your records, then click Continue to return to the Menu.]]></instruction_2>
+					
+					</Page>
+			</Pages>
+		</Topic>	
+		
+</MLesson>
+
+
+
+</Topics>
+</Lessons>				

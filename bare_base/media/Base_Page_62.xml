@@ -1,0 +1,25 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part IV: Making Recommendations</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontextL><![CDATA[Which one of the following is NOT a recommendation that you should provide to Colonel Potts for consideration?]]></questiontextL>
+		<questiontextM><![CDATA[Which one of the following is NOT a recommendation that Maj Marks should provide to Colonel Potts for consideration?]]></questiontextM>
+ 		<options>
+			<option><![CDATA[Open the hangar doors and perform the inspections in a well-ventilated area]]></option>
+			<option><![CDATA[Order respirators and gloves that are approved based on permeation rates]]></option>		
+			<option><![CDATA[RAC the operation; do not perform the task until appropriate PPE arrives]]></option>
+			<option><![CDATA[Train additional personnel to perform the task and rotate workers]]></option>
+			<option><![CDATA[Construct a glove box or ventilation hood that exhausts outside]]></option>
+			
+			
+		</options>
+
+		<correct_option><![CDATA[3]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

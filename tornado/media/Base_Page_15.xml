@@ -1,0 +1,37 @@
+﻿<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I:  Assessing the Situation</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[]]></instructiontext>
+
+	<questiontextL><![CDATA[Based on the fact that your entry team’s EPDs are alarming, indicating they may not have enough time to complete everything they wanted to during the initial entry, which courses of action should they take now?]]></questiontextL>
+	
+	<questiontextM><![CDATA[Based on the fact that your EPDs are alarming, indicating you may not have enough time to complete everything you wanted to during the initial entry, which courses of action should you take now?]]></questiontextM>
+			
+	<optionsL>
+			<option><![CDATA[Take a dose rate measurement at the PIG]]></option>
+			<option><![CDATA[Take pictures of the area for documentation]]></option>
+			<option><![CDATA[Try to identify the isotope from their current location]]></option>	
+			<option><![CDATA[Assess the area quickly and later develop a second entry plan]]></option>
+			<option><![CDATA[Document the dose rate and distance to suspected source]]></option>
+			<option><![CDATA[Survey the debris for contamination]]></option>
+			<option><![CDATA[Immediately leave the area<BR><BR>]]></option>
+	</optionsL>
+	<optionsM>
+			<option><![CDATA[Take a dose rate measurement at the PIG]]></option>
+			<option><![CDATA[Take pictures of the area for documentation]]></option>
+			<option><![CDATA[Try to identify the isotope from your current location]]></option>	
+			<option><![CDATA[Assess the area quickly and later develop a second entry plan]]></option>
+			<option><![CDATA[Document the dose rate and distance to suspected source]]></option>
+			<option><![CDATA[Survey the debris for contamination]]></option>
+			<option><![CDATA[Immediately leave the area<BR><BR>]]></option>
+	</optionsM>
+
+	<correct_options><![CDATA[2,3,4,5]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

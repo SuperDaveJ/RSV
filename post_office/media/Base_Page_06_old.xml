@@ -1,0 +1,33 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I: Gathering Information</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[To use available time <I><B>most efficiently</B></I>, in which order should the BEs at the office run-up or prepare the equipment?]]></questionText>
+		
+		<instructionText><![CDATA[<I>Drag each layer name in the right and place it besides its correct description. When you are done, click <B>Submit.</B></I>]]></instructionText>		
+
+		<target_options>
+			<target_option><![CDATA[<B>1</B>]]></target_option>
+			<target_option><![CDATA[<B>2</B>]]></target_option>
+			<target_option><![CDATA[<B>3</B>]]></target_option>		
+			<target_option><![CDATA[<B>4</B>]]></target_option>	
+			<target_option><![CDATA[<B>5</B>]]></target_option>		
+		</target_options>		
+
+		<drag_options>
+			<drag_option><![CDATA[<p align="center">Check ADM-300</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">Warm-up HAPSITE</p>]]></drag_option>	
+			<drag_option><![CDATA[<p align="center">Pack HAPSITE</p>]]></drag_option>			
+			<drag_option><![CDATA[<p align="center">Calibrate SAM 940</p>]]></drag_option>
+			<drag_option><![CDATA[<p align="center">Put additional items in vehicle</p>]]></drag_option>			
+		</drag_options>
+
+		<correct_options><![CDATA[0,1,0,0,0]]></correct_options>
+		
+	</question>	
+
+</Interactivity>

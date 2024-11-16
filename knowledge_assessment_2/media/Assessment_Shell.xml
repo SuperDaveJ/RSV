@@ -1,0 +1,1338 @@
+<Assessments>
+
+
+<!-- Whether randomization is required in Assessments or Not -->
+<IsRandomize><![CDATA[Yes]]></IsRandomize>
+<!-- Name of the Assessment -->
+<QuizName><![CDATA[Knowledge Assessment 2]]></QuizName>
+<!-- Result Page Instruction -->
+<ResultHint><![CDATA[You have completed this assessment. Print this page, then proceed for feedback.]]></ResultHint>
+<!-- Result Page Instruction -->
+<ResultHint_1><![CDATA[Print your feedback form for your records, then click Continue to return to the Menu.]]></ResultHint_1>
+<!-- Points Rewarded -->
+<PointsRewarded><![CDATA[300]]></PointsRewarded>
+
+
+											
+											<!-- Assessment Questions -->
+
+<AssessmentInfo>	
+
+
+
+<!-- Set A -->
+
+
+<Assessment id="A">
+
+
+
+<!-- Question 22 --> 
+<!-- Question A: 2-01-04 -->
+
+	<Question PageID="Q020104A" CompentancyID ="3" CompentancyObj = "1" CompentancyText = "Water" CompentancyDescription = "Identify sources of error that can be encountered in bacteriological sampling/analysis that can cause false positives. " CompentancyTopic = "Collecting Air Samples and Use of Direct Reading Instuments (DRIs)">
+		<STS_Line><![CDATA[<li>4.15.3.11 Collect potable water samples</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Water</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>BE Field Manual</li><li>Standard Methods for the Examination of Water and Wastewater</li><li>USAFSAM Laboratory  Sampling Guide</li>]]></Training_Reference>
+		
+		<QuestionText><![CDATA[In order to prevent a false positive sample, put the steps for collecting a water sample using a 100ml bottle for bacteriological analysis from a tap source in the correct order.]]></QuestionText>
+		<InstructionText><![CDATA[Drag the letters to the appropriate numbered locations, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Remove all faucet devices (aerator, filters)]]></Option>
+			<Option><![CDATA[Fill bottle to 100ml line, leave air space, recap bottle]]></Option>
+			<Option><![CDATA[Turn off water]]></Option>		
+			<Option><![CDATA[Select a fixed (non-swivel) cold water faucet]]></Option>
+			<Option><![CDATA[Flush for 3 minutes at high velocity]]></Option>
+			<Option><![CDATA[Slow water flow to a trickle]]></Option>
+			<Option><![CDATA[Disinfect faucet]]></Option>
+		</Options>			
+	
+		<CorrectAnswer><![CDATA[2,6,7,1,4,5,3]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Question_A_2_01_04]]></AssessmentType>
+		<target_options>
+			
+		</target_options>			
+	</Question>
+
+
+<!-- Question 9 -->
+<!-- Question A: 2-01-14 -->
+
+	<Question PageID="Q020114A" CompentancyID ="5,6" CompentancyObj = "2" CompentancyText = "Equip &#38; CBRN" CompentancyDescription = "Identify chemical agents that can be detected using the M-272 water test kit." CompentancyTopic = "Limitations and Uses of Equipment and PPE">
+		<STS_Line><![CDATA[<li>4.15.3.5 Water sampling devices</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Water</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>Technical Manual 3-6665-319-10, M272 Chemical Agent Water Test Kit</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which of the following can NOT be detected using the M-272 water test kit?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Sulfur Mustard]]></Option>
+			<Option><![CDATA[Phosgene Oxime]]></Option>	
+			<Option><![CDATA[Hydrogen Cyanide]]></Option>
+			<Option><![CDATA[Lewisite]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[2]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>
+	</Question>
+
+<!-- Question 14 -->
+<!-- Question A: 2-01-21 -->
+
+	<Question PageID="Q020121A" CompentancyID ="1" CompentancyObj = "3" CompentancyText = "BE Basics" CompentancyDescription = "Understand the purpose of performing OEHSA." CompentancyTopic = "Performing OEHSA and Preventive Measures">
+		<STS_Line><![CDATA[<li>4.1.2 OEHSA</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFMAN 48-154, Occupational and Environmental Health Site Assessment</li><li>OEHSA Documentation and Data Management Technical Guide</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which of the following <I><B>best</B></I> describes the purpose of performing OEHSA? ]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[To assess the susceptibility of food and water, including ice and bottled water supplies, to natural or intentional contamination or destruction]]></Option>
+			<Option><![CDATA[To identify hazardous exposure agents with complete or potentially complete exposure pathways that may affect the health of deployed personnel]]></Option>	
+			<Option><![CDATA[To assess individual exposures to various substances, especially harmful chemicals, by measuring the parent compound in biological media]]></Option>
+			<Option><![CDATA[To monitor biological specimens for changes resulting from exposure to materials foreign to the body or detect parent compounds or metabolites]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[2]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>	
+	</Question>
+
+<!-- Question 16 -->
+<!-- Question A: 2-02-04 -->
+
+	<Question PageID="Q020204A" CompentancyID ="6" CompentancyObj = "4" CompentancyText = "CBRN" CompentancyDescription = "Describe signs/symptoms of thermal stress (heat/cold)." CompentancyTopic = "Threat and Symptom Assessment">
+		<STS_Line><![CDATA[<li>4.12.2 Thermal stress hazards</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFPAM 48-151, Thermal Injury</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Match the signs and symptoms of thermal stress.]]></QuestionText>
+		<InstructionText><![CDATA[Select the appropriate column for each item, then click Done.]]></InstructionText>	
+		<Options bgWidth="300" column_gap="10" option_gap="5" textWidth="300">
+			<Option><![CDATA[Nausea or vomiting]]></Option>
+			<Option><![CDATA[Slurred speech]]></Option>
+			<Option><![CDATA[Disturbed vision]]></Option>
+			<Option><![CDATA[Dizziness or confusion]]></Option>
+			<Option><![CDATA[Profound shivering]]></Option>
+			<Option><![CDATA[Aggressive or withdrawn behavior]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,2,1,1,2,2]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Question_A_2_02_04]]></AssessmentType>
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>Heat Illness (Hyperthermia)</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Cold Injury (Hypothermia)<font size='10'></font></B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Statement</B></p>]]></Option_heading>		
+	</Question>
+
+
+
+<!-- Question 3 -->
+<!-- Question A: 2-02-10 -->
+
+<Question PageID="Q020210A" CompentancyID ="6" CompentancyObj = "5" CompentancyText = "CBRN" CompentancyDescription = "State the factors that affect permeation." CompentancyTopic = "Threat and Symptom Assessment">
+		<STS_Line><![CDATA[<li>4.1.12 Use, selection and limitations of PPE</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>OSHA Technical Manual, Section VIII, Chapter 1, Protective Clothing</li><li>Quick Selection Guide to Chemical Protective Clothing</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Determine whether each statement about permeation is true or false. ]]></QuestionText>
+		<InstructionText><![CDATA[Select the appropriate column for each item, then click Done.]]></InstructionText>	
+		<Options bgWidth="320" column_gap="5" option_gap="5" textWidth="300">
+			<Option><![CDATA[Solids and high-viscosity liquids tend to permeate more readily than gases, vapors, and low-viscosity liquids]]></Option>
+			<Option><![CDATA[Heat generally decreases the permeation rate of contaminants]]></Option>
+			<Option><![CDATA[Higher contaminant concentration in the area increases potential for permeation]]></Option>
+			<Option><![CDATA[The longer a contaminant is in contact with an object, the greater the probability and extent of permeation]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[2,2,1,1]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Question_A_2_02_10]]></AssessmentType>
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>True</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>False<font size='10'></font></B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Statement</B></p>]]></Option_heading>		
+	</Question>
+
+
+
+
+
+<!-- Question 21 -->
+<!-- Question A: 2-02-13 -->
+
+	 <Question PageID="Q020013A" CompentancyID ="2" CompentancyObj = "6" CompentancyText = "Air" CompentancyDescription = "Define when air sampling is needed." CompentancyTopic = "Collecting Air Samples and Use of Direct Reading Instuments (DRIs)">
+		<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li><li>4.5.2.4 Establish air sampling strategies</li><li>4.5.2.6.3 Portable GC-MS (e.g., HAPSITE)</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Air</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>Fundamentals of Industrial Hygiene</li><li>HAPSITE User's Manual</li><li>NIOSH Publication 77-173, Occupational Exposure Sampling Strategy Manual</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Under which one of the following situations would a HAPSITE NOT be used for air sampling?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[When agent concentrations are below the threshold limits for an M256 kit]]></Option>
+			<Option><![CDATA[To measure salts and metals]]></Option>	
+			<Option><![CDATA[When VOCs are involved]]></Option>
+			<Option><![CDATA[To verify a suspected false alarm indication on standard chemical detection equipment]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[2]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>	
+	</Question>
+
+
+
+
+<!-- Question 19 -->
+<!-- Question A: 2-02-17 -->
+
+	<Question PageID="Q020217A" CompentancyID ="2" CompentancyObj = "7" CompentancyText = "Air" CompentancyDescription = "Identify collection devices for gases and vapors." CompentancyTopic = "Collecting Air Samples and Use of Direct Reading Instuments (DRIs)">
+		<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li><li>4.5.2.6.1 Detector Tubes or Chips (e.g. Drager CDS Kit)</li><li>4.5.2.6.2 PID/FID</li><li>4.5.2.6.3 Portable GC-MS (e.g. HAPSITE)</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Air</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>4-gas Meter User’s Manual</li><li>CDS Kit User's Manual</li><li>CMS Kit User’s Manual</li><li>HAPSITE User's Manual</li><li>HazMat ID Guidance Document</li><li>RADeCO User's Manual</li><li>TM 3-6665-307-10, M256-Series Chemical Agent Detector Kit</li><li>TVA-1000B User's Manual</li><li>XMX User's Manual</li><li>XRF User’s Manual</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Select the instruments below that are used to detect gases and vapors.]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, then click Done. ]]></InstructionText>
+		<Options>
+			<Option><![CDATA[4-gas Meter]]></Option>
+			<Option><![CDATA[Draeger CDS]]></Option>
+			<Option><![CDATA[HAPSITE ]]></Option>
+			<Option><![CDATA[Draeger CMS]]></Option>
+			<Option><![CDATA[HazMat ID]]></Option>
+			<Option><![CDATA[M256 Kit]]></Option>
+			<Option><![CDATA[RADeCO]]></Option>
+			<Option><![CDATA[TVA-1000B]]></Option>
+			<Option><![CDATA[XMX]]></Option>
+			<Option><![CDATA[XRF]]></Option>
+			
+		</Options>
+		<CorrectAnswer><![CDATA[1,1,1,1,0,1,0,1,0,0]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Question_A_2_02_17]]></AssessmentType>
+	</Question>
+
+	
+
+<!-- Question 20 -->
+<!-- Question A: 2-02-18 -->
+
+	 <Question PageID="Q020218A" CompentancyID ="2" CompentancyObj = "8" CompentancyText = "Air" CompentancyDescription = "Recognize purpose of collecting air samples using Direct Reading Instruments (DRIs)." CompentancyTopic = "Collecting Air Samples and Use of Direct Reading Instuments (DRIs)">
+	 	<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Air</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AIHA, The Occupational Environment: Its Evaluation, Control and Management</li><li>Fundamentals of Industrial Hygiene</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which statement about Direct Reading Instruments is true?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[All direct reading instruments indicate concentration of the substance as an instantaneous concentration and as a TWA]]></Option>
+			<Option><![CDATA[Direct reading instruments enable a technician to decide if he/she needs to accomplish confirmatory sampling]]></Option>	
+			<Option><![CDATA[For a proper direct reading, several samples must be taken to be useful (usually 6-10 samples)]]></Option>
+			<Option><![CDATA[Direct reading instrument results often require lab interpretation]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[2]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>	
+	</Question>
+
+	<!-- Question 23 -->
+<!-- Question A: 2-02-20 -->
+
+	<Question PageID="Q020220A" CompentancyID ="2" CompentancyObj = "9" CompentancyText = "Air" CompentancyDescription = "Identify detection devices for VOCs." CompentancyTopic = "Collecting Air Samples and Use of Direct Reading Instuments (DRIs)">
+		<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li><li>4.5.2.6.2 PID/FID</li><li>4.5.2.6.3 Portable GC-MS (e.g. HAPSITE)</li><li>4.5.3.4 Soil/Solid sampling devices (DRI, XRF, etc.)</li><li>4.5.3.4.2 FT-IR (e.g. HAZMAT ID)</li><li>4.9.2.11.2 Gamma Spec (i.e. SAM 940)</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Air</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>BE Field Manual</li><li>HAPSITE  User's Manual</li><li>HazMat ID User's Manual</li><li>TVA-1000b User's Manual </li><li>TM 3-6665-307-10, M256-Series Chemical Agent Detector Kit</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Build a list of the items that can be used to detect VOCs. ]]></QuestionText>
+		<InstructionText><![CDATA[Drag the correct items to the list,<br>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[M256 Kit]]></Option>
+			<Option><![CDATA[HAPSITE]]></Option>
+			<Option><![CDATA[Hazmat ID]]></Option>
+			<Option><![CDATA[XRF]]></Option>
+			<Option><![CDATA[SAM 940]]></Option>
+			<Option><![CDATA[ADM-300]]></Option>
+			<Option><![CDATA[TVA-1000B]]></Option>
+			<Option><![CDATA[XMX]]></Option>
+		</Options>			
+	
+		<CorrectAnswer><![CDATA[1,2,0,0,0,0,7,0]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Question_A_2_02_20]]></AssessmentType>
+		<target_options>
+			<target_option><![CDATA[M256 Kit]]></target_option>
+			<target_option><![CDATA[HAPSITE]]></target_option>
+			<target_option><![CDATA[TVA-1000B]]></target_option>		
+		</target_options>			
+	</Question>
+
+
+<!-- Question 13 -->
+<!-- Question A: 2-02-35 -->
+
+	<Question PageID="Q020235A" CompentancyID ="1" CompentancyObj = "10" CompentancyText = "BE Basics" CompentancyDescription = "List the key components of a liquid/water site sampling plan." CompentancyTopic = "Performing OEHSA and Preventive Measures">
+		<STS_Line><![CDATA[<li>4.15.3.1 Sampling Analysis and Monitoring Plan</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Air</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>40 CFR 141 through 147</li><li>AFI 48-144, Safe Drinking Water Surveillance Program</li><li>Standard Methods for the Examination of Water and Wastewater </li><li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which three of the following are key components of a site sampling plan? ]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Identification of support laboratory]]></Option>
+			<Option><![CDATA[Detailed procedures for collecting samples ]]></Option>
+			<Option><![CDATA[Identification of all drinking water sites]]></Option>
+			<Option><![CDATA[Quality Assurance and Quality Control Plan]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[1,3,4]]></CorrectAnswer>
+		<AssessmentType><![CDATA[MCMS]]></AssessmentType>
+	</Question>
+
+
+<!-- Question 4 -->
+<!-- Question A: 2-02-43 -->
+
+	<Question PageID="Q020243A" CompentancyID ="5" CompentancyObj = "11" CompentancyText = "Equip" CompentancyDescription = "List the limitations of personal protective equipment." CompentancyTopic = "Limitations and Uses of Equipment and PPE">
+		<STS_Line><![CDATA[<li>4.1.12 Use, selection and limitations of PPE</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>29 CFR 1910.120 Appendix B</li><li>OSHA Technical Manual, Section VIII, Chapter 1, Protective Clothing</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which two of the following statements represent limitations of Level D protective equipment?]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[This level can only be worn in the hot zone]]></Option>
+			<Option><![CDATA[The atmosphere must contain at least 19.5% oxygen if this level is worn]]></Option>
+			<Option><![CDATA[This level is not acceptable for Chemical Emergency Response]]></Option>
+			<Option><![CDATA[This level cannot be worn when the chemical concentration is less than the IDLH level]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[2,3]]></CorrectAnswer>
+		<AssessmentType><![CDATA[MCMS]]></AssessmentType>	
+	</Question>
+
+
+
+
+<!-- Question 6 -->
+<!-- Question A: 2-02-45 -->
+
+	<Question PageID="Q020245A" CompentancyID ="5" CompentancyObj = "12" CompentancyText = "Equip" CompentancyDescription = "Match RP to the type of hazard." CompentancyTopic = "Limitations and Uses of Equipment and PPE">
+		<STS_Line><![CDATA[<li>4.14.5 Select or approve RP equipment</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFOSH Standard 48-137, Attachment 2, Personal Protective Equipment</li><li>DoD 3150.8-M, Nuclear Accident Response Procedures (NARP)</li><li>NIOSH Pocket Guide to Chemical Hazards</li><li><a href='http://www.osha.gov' target='blank'>http://www.osha.gov</a></li>]]></Training_Reference>
+		<QuestionText><![CDATA[Personnel working in a maintenance shop are exposed to 500 ppm of toluene over a 5-hour period. What is the minimum respiratory protection required for these workers?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Filtering face piece device]]></Option>
+			<Option><![CDATA[Half-face air purifying respirator ]]></Option>	
+			<Option><![CDATA[Full-face air purifying respirator]]></Option>
+			<Option><![CDATA[No respiratory protection is required]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[3]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>
+	</Question>
+
+
+
+<!-- Question 10 -->
+<!-- Question A: 2-02-57 -->
+
+	<Question PageID="Q020257A" CompentancyID ="3" CompentancyObj = "13" CompentancyText = "Water" CompentancyDescription = "Identify typical sampling locations used for potable water sample collection." CompentancyTopic = "Water Vulnerability Assessment and Field Water Requirments">
+		<STS_Line><![CDATA[<li>4.15.3.1 Sampling Analysis and Monitoring Plan</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Water</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFI 48-144, Safe Drinking Water Surveillance Program</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which two of the following are typical sampling locations used for potable water sample collection?]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Drinking fountain]]></Option>
+			<Option><![CDATA[Fire hydrants]]></Option>
+			<Option><![CDATA[Kitchen sink faucet]]></Option>
+			<Option><![CDATA[Aircraft watering point]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[3,4]]></CorrectAnswer>
+		<AssessmentType><![CDATA[MCMS]]></AssessmentType>
+	</Question>
+
+
+
+
+<!-- Question 11 -->
+<!-- Question A: 2-02-62 -->
+
+	<Question PageID="Q020262A" CompentancyID ="3" CompentancyObj = "14" CompentancyText = "Water" CompentancyDescription = "Know basic facts and terms about field water requirements." CompentancyTopic = "Water Vulnerability Assessment and Field Water Requirments">
+		<STS_Line><![CDATA[<li>4.15.1.4 Drinking water treatment</li><li>4.15.1.6 Field drinking water</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Water</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFH 10-222, Vol 9, Guide to Reverse Osmosis Water Purification Unit Installation and Operation</li><li>BE Field Manual</li>]]></Training_Reference>
+		<QuestionText><![CDATA[When selecting a field water source, what is the daily volume of water, per person, that should be accounted for to calculate the total volume required?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[12 quarts]]></Option>
+			<Option><![CDATA[5 gallons]]></Option>	
+			<Option><![CDATA[20 gallons]]></Option>
+			<Option><![CDATA[40 gallons]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[3]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>
+	</Question>
+
+
+
+<!-- Question 12 -->
+<!-- Question A: 2-04-13 -->
+
+	<Question PageID="Q020413A" CompentancyID ="3" CompentancyObj = "15" CompentancyText = "Water" CompentancyDescription = "Comprehend drinking water treatment and distribution requirements." CompentancyTopic = "Water Vulnerability Assessment and Field Water Requirments">
+		<STS_Line><![CDATA[<li>4.15.1.4 Drinking water treatment</li><li>4.15.1.6 Field drinking water</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Water</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>BE Field Manual</li>]]></Training_Reference>
+		<QuestionText><![CDATA[At a deployed location, a 500 gallon water buffalo has just been superchlorinated and is ready to be filled with water.  In accordance with the BE Field Manual, how much 55% calcium hypochlorite should you add to achieve 1 ppm residual chlorine?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[0.11 oz]]></Option>
+			<Option><![CDATA[0.12 oz]]></Option>	
+			<Option><![CDATA[0.61 oz]]></Option>
+			<Option><![CDATA[1.28 oz]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[2]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>	
+	</Question>
+
+
+
+<!-- Question 8 -->
+<!-- Question A: 2-06-01 -->
+
+	<Question PageID="Q020601A" CompentancyID ="5" CompentancyObj = "16" CompentancyText = "Equip" CompentancyDescription = "Describe situations when the HAPSITE can be used." CompentancyTopic = "Limitations and Uses of Equipment and PPE">
+		<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li><li>4.5.2.6.3 Portable GC/MS (e.g., HAPSITE)</li><li>4.5.3.4 Soil/Solid sampling devices (DRI, XRF, etc.)</li><li>4.15.3.5.1 Portable GC/MS (e.g. HAPSITE)</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Environmental</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>BE Field Manual</li><li>HAPSITE User's Manual</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which of the following describes a capability of the HAPSITE? ]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Quantifies semi-volatile and non-volatile compounds]]></Option>
+			<Option><![CDATA[Quantifies biological agent concentrations]]></Option>	
+			<Option><![CDATA[Quantifies concentrations of ion salts]]></Option>
+			<Option><![CDATA[Quantifies volatile organic compounds]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[4]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>	
+	</Question>
+
+
+	<!-- Question 17 -->
+<!-- Question A: 2-02-13 -->
+
+	<Question PageID="Q020213A" CompentancyID ="6" CompentancyObj = "17" CompentancyText = "CBRN" CompentancyDescription = "Identify common nuclear weapon isotopes and their associated radiation hazards." CompentancyTopic = "">
+		<STS_Line><![CDATA[<li>6.6 Common nuclear weapons isotopes</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>DoD 3150.8-M, Nuclear Accident Response Procedures</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which two of the following isotopes are used in nuclear weapons? ]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Pu-238]]></Option>
+			<Option><![CDATA[Pu-239]]></Option>
+			<Option><![CDATA[U-235]]></Option>
+			<Option><![CDATA[U-238]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[2,3]]></CorrectAnswer>
+		<AssessmentType><![CDATA[MCMS]]></AssessmentType>
+	</Question>	
+
+
+
+<!-- Question 7 -->
+<!-- Question A: 2-06-18 -->
+
+	<Question PageID="Q020618A" CompentancyID ="6" CompentancyObj = "18" CompentancyText = "CBRN" CompentancyDescription = "Identify the potential threat of TICs being used as a weapon." CompentancyTopic = "Threat and Symptom Assessment">
+		<STS_Line><![CDATA[<li>4.1.3 Toxic industrial chemical/toxic industrial material (TIC/TIM) vulnerability assessments</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform & Communicate VAs</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFTTP(I) 3-2.55 Potential Military Chemical/Biological Agents and Compounds</li><li>Toxic Industrial Chemicals, Toxic Industrial Materials Vulnerability Assessment Technical Guide</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which of the following would terrorists <I><B>most likely</B></I> select as a target when using a weaponized TIC?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[World Leaders]]></Option>
+			<Option><![CDATA[Water Pipelines]]></Option>	
+			<Option><![CDATA[Nuclear Power Plant]]></Option>
+			<Option><![CDATA[Hardened Aircraft Shelters]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[2]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>	
+	</Question>
+
+
+
+
+
+<!-- Question 19 -->
+<!-- Question A: 2-06-13 -->
+<Question PageID="Q020613A" CompentancyID ="6" CompentancyObj = "18" CompentancyText = "CBRN" CompentancyDescription = "Perform noise calculations." CompentancyTopic = "">
+		<STS_Line><![CDATA[<li>3.2.1 Solve calculations using basic arithmetic functions (add, subtract, multiply, and divide whole numbers, fractions, and decimals)</li><li>4.10.5 Perform noise calculations</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFOSH Standard 48-20, Occupational Noise and Hearing Conservation Program</li>]]></Training_Reference>
+		<QuestionText><![CDATA[What is the noise exposure limit, in minutes, for a noise source producing 103 dBA?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[1.8]]></Option>
+			<Option><![CDATA[7.5]]></Option>	
+			<Option><![CDATA[8.5]]></Option>
+			<Option><![CDATA[15]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[2]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>	
+	</Question>
+			
+
+<!-- Question 20 -->
+<!-- Question A: 03-01-60 -->
+
+	<Question PageID="Q030160A" CompentancyID ="3" CompentancyObj = "20" CompentancyText = "Water" CompentancyDescription = "Determine the elements of a liquid/water site sampling plan." CompentancyTopic = "Water Vulnerability Assessment and Field Water Requirments">
+		<STS_Line><![CDATA[<li>4.15.3.1 Sampling Analysis and Monitoring Plan</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Water</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFI 48-144, Safe Drinking Water Surveillance Program</li><li>Standard Methods for the Examination of Water and Wastewater</li><li>USAFSAM Drinking Water Surveillance Technical Guide</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Build a list of elements to be included in a drinking water sampling, analysis, and monitoring (SAM) plan.]]></QuestionText>
+		<InstructionText><![CDATA[Drag the correct items to the list, <br>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Sanitary survey]]></Option>
+			<Option><![CDATA[QA/QC program]]></Option>
+			<Option><![CDATA[Annual schedule]]></Option>
+			<Option><![CDATA[Water source survey]]></Option>
+			<Option><![CDATA[Distribution system map]]></Option>
+			<Option><![CDATA[Consumer Confidence Report]]></Option>
+			<Option><![CDATA[Water Vulnerability Assessment]]></Option>
+			<Option><![CDATA[Support laboratory identification]]></Option>
+		</Options>			
+	
+		<CorrectAnswer><![CDATA[0,2,3,0,5,0,0,8]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Question_A_3_01_60]]></AssessmentType>
+		<target_options>
+			<target_option><![CDATA[QA/QC program]]></target_option>
+			<target_option><![CDATA[Annual schedule]]></target_option>
+			<target_option><![CDATA[Distribution system map]]></target_option>	
+			<target_option><![CDATA[Support laboratory identification]]></target_option>		
+		</target_options>
+	</Question>
+
+
+
+
+<!-- Question 2 -->
+<!-- Question A: 03-02-16 -->
+
+	 <Question PageID="Q030216A" CompentancyID ="5,6" CompentancyObj = "21" CompentancyText = "Equip &#38; CBRN" CompentancyDescription = "Determine chemicals which can be detected according to the ionization potential of the PID lamp." CompentancyTopic = "Limitations and Uses of Equipment and PPE">
+		<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li><li>4.5.2.6.2 PID/FID</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Air</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>TVA-1000B User’s Manual</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Determine whether the chemicals listed can be detected by the PID using a 10.6eV lamp.]]></QuestionText>
+		<InstructionText><![CDATA[Select the appropriate column for each item, then click Done.]]></InstructionText>	
+		<Options bgWidth="300" column_gap="5" option_gap="5" textWidth="300">
+			<Option><![CDATA[Acetic Acid]]></Option>
+			<Option><![CDATA[Acetonitrile]]></Option>
+			<Option><![CDATA[Carbon Disulfide]]></Option>
+			<Option><![CDATA[Isopropyl Alcohol]]></Option>
+			<Option><![CDATA[Chlorine]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[2,2,1,1,2]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Multiple_MCSS]]></AssessmentType>
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>Detectable</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Non-Detectable</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Chemical</B></p>]]></Option_heading>		
+	</Question>
+
+
+
+<!-- Question 1 -->
+<!-- Question A: 03-02-41 -->
+
+	 <Question PageID="Q030241A" CompentancyID ="1" CompentancyObj = "22" CompentancyText = "BE Basics" CompentancyDescription = "Calculate dose rate, dose, stay times, and protection factors." CompentancyTopic = "Performing OEHSA and Preventive Measures">
+		<STS_Line><![CDATA[<li>3.2.1  Solve calculations using basic arithmetic functions (add, subtract, multiply, and divide whole numbers, fractions, and decimals)</li><li>3.2.2 Perform conversion of units using dimensional analysis (formula manipulation), metric conversions</li><li>4.9.2.13 Perform ionizing radiation calculations (dose, dose rate, stay time, protection factors, decay, etc.)</li><li>6.10 Units of radiation (dose/dose Rate/counts) </li><li>6.13 Calculate stay times</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Radiation</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>BE Field Manual</li><li>BE Guide to Ionizing Radiation</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Match the calculation with the appropriate formula.]]></QuestionText>
+		<InstructionText><![CDATA[Select the appropriate column for each item, then click Done.]]></InstructionText>	
+		<Options bgWidth="300" column_gap="5" option_gap="5" textWidth="300">
+			<Option><![CDATA[D = [(I<font size='10'>1</font> + I<font size='10'>2</font>) * t ] / 2]]></Option>
+			<Option><![CDATA[R<font size='10'>2</font> = R<font size='10'>1</font> * t]]></Option>
+			<Option><![CDATA[t = D/I]]></Option>
+			<Option><![CDATA[Outside intensity / inside intensity]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[2,1,3,4]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Question_A_3_02_41]]></AssessmentType>
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>Dose Rate</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Dose<font size='10'></font></B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Stay Times<font size='10'></font><font size='10'></font></B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Protection Factors<font size='10'></font><font size='10'></font><font size='10'></font></B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Formula</B></p>]]></Option_heading>
+		<Superscript><![CDATA[-1.2]]></Superscript>
+	</Question>
+
+
+
+
+
+<!-- Question 17 -->
+<!-- Question A: 03-04-17 -->
+
+	<Question PageID="Q030417A" CompentancyID ="3" CompentancyObj = "23" CompentancyText = "Water" CompentancyDescription = "Identify the relationship between water vulnerability assessments, sanitary surveys, and aircraft watering point surveys." CompentancyTopic = "Water Vulnerability Assessment and Field Water Requirments">
+	<STS_Line><![CDATA[<li>4.15.1.14 Water vulnerability assessment</li><li>4.15.1.12 Base sanitary surveys</li><li>4.15.1.16 Perform aircraft watering point surveys</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA – Water</li><li>Perform & Communicate VAs</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFI 48-144, Safe Drinking Water Surveillance Program</li><li>AFIOH Water Vulnerability and Risk Assessments for Potable Water Assets</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Match the type of water analysis with its purpose.]]></QuestionText>
+		<InstructionText><![CDATA[Select the appropriate column for each item, then click Done.]]></InstructionText>	
+		<Options bgWidth="320" column_gap="5" option_gap="5" textWidth="300">
+			<Option><![CDATA[To identify areas in a water distribution system that are susceptible to tampering, sabotage, and contamination]]></Option>
+			<Option><![CDATA[To perform analysis of facilities and/or equipment used to transfer water such as trucks, hoses, hydrants, faucets, and buckets]]></Option>
+			<Option><![CDATA[To evaluate the adequacy of the water source and facilities of a public water system for producing and distributing safe drinking water]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,3,2]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Question_A_3_04_17]]></AssessmentType>
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>Water Vulnerability Assessment</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Sanitary Survey<font size='10'></font></B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Aircraft Watering Point Survey<font size='10'></font><font size='10'></font></B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Purpose</B></p>]]></Option_heading>		
+	</Question>
+
+
+<!-- Question A: 02-09-13  -->
+
+	<Question PageID="Q020913A" CompentancyID ="1" CompentancyObj = "24" CompentancyText = "BE Basics" CompentancyDescription = "Recall guidance provided in the USAFSAM Laboratory Sampling Guide." CompentancyTopic="">
+		<STS_Line><![CDATA[<li>4.5.1.2 OEH sample guide (include USAPHC guide)</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Upon receipt of air sampling results from the laboratory, which two of the following corrections are required for media blanks?]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Average the reported levels on media blanks and field blanks, and then correct your field samples.]]></Option>
+			<Option><![CDATA[No corrections are required; the laboratory blank corrects when contaminants are detected on media blanks.]]></Option>	
+			<Option><![CDATA[Average the reported levels on media blanks above the laboratory’s reporting limit and correct your field samples.]]></Option>
+			<Option><![CDATA[No corrections are required if media blanks have reported concentrations below the laboratory’s reporting limit.]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[3,4]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCMS]]></AssessmentType>	
+	</Question>
+	
+	<!-- Question A: 02-07-13  -->
+
+	<Question PageID="Q021013A" CompentancyID ="1" CompentancyObj = "25" CompentancyText = "BE Basics" CompentancyDescription = "Identify the proper sample preparation and preservation methods." CompentancyTopic="">
+		<STS_Line><![CDATA[<li>4.5.1.2 OEH sample guide (include USAPHC guide)</li><li>4.5.1.3 Prepare and/or preserve samples for shipment</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA – Water</li><li>Perform HRA – Soil</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Match the type of surface and ground water sample with the appropriate container size and preservative.]]></QuestionText>
+		<InstructionText><![CDATA[Select the appropriate column for each item, then click Done.]]></InstructionText>	
+		<Options bgWidth="300" column_gap="5" option_gap="5" textWidth="300">
+			<Option><![CDATA[Metals]]></Option>
+			<Option><![CDATA[Pesticides]]></Option>
+			<Option><![CDATA[VOC Screen]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[2,1,3]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Multiple_MCSS]]></AssessmentType>
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>Two 1-L,<BR>None</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>500 ml,<BR>HNO<font size='10'>3</font></B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>40 ml,<BR>HCl</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Analysis</B></p>]]></Option_heading>			
+	</Question>
+	
+	<!-- Question A: 02-08-13  -->
+
+	<Question PageID="Q021113A" CompentancyID ="3" CompentancyObj = "26" CompentancyText = "Water" CompentancyDescription = "Identify basic facts and terms related to backflow prevention and cross-connection hazard classification." CompentancyTopic="">
+		<STS_Line><![CDATA[<li>4.15.1.10 Health risk ratings for backflow or cross connection areas</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA – Water</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>USAFSAM Drinking Water Surveillance Technical Guide</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which of the following best defines a high hazard regarding cross-connections?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Does not create a significant hazard to the public health]]></Option>
+			<Option><![CDATA[Pollution is an impairment of the quality of the potable water]]></Option>
+			<Option><![CDATA[May spread disease by sewage, industrial fluids, or chemicals]]></Option>
+			<Option><![CDATA[Adversely affects the aesthetic quality of potable water for potable use]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[3]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>	
+	</Question>
+	
+	<!-- Question A: 02-14-13  -->
+
+	<Question PageID="Q021213A" CompentancyID ="6" CompentancyObj = "27" CompentancyText = "CBRN" CompentancyDescription = "Identify characteristics of total exposure health threat evaluation." CompentancyTopic="">
+		<STS_Line><![CDATA[<li>3.2.1 Solve calculations using basic arithmetic functions (add, subtract, multiply, and divide whole numbers, fractions, and decimals)</li><li>4.1.2.5 Total exposure health risk (additive, synergistic, multiple routes, etc.)</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>29 CFR 1910.1000(d)(2)(i)</li><li>Fundamentals of Industrial Hygiene</li><li>AIHA, A Strategy for Assessing and Managing Occupational Exposures</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Personnel are exposed to a chemical containing air contaminants which act upon the body organ systems listed in the table below.  Given air sampling results and the Occupational and Environmental Exposure Limit (OEEL), which of the following best defines the exposure?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Overexposure, equivalent exposure is 1.1 and exceeds unity (1)]]></Option>
+			<Option><![CDATA[Overexposure, equivalent exposure is 1.5 and exceeds unity (1)]]></Option>
+			<Option><![CDATA[No overexposure, equivalent exposure is 0.527 and does not exceed unity (1)]]></Option>
+			<Option><![CDATA[No overexposure, equivalent exposure is 0.98 and does not exceed unity (1)]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[1]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Question_A_2_12_13]]></AssessmentType>	
+	</Question>
+
+
+<!-- Question A: 02-13-13  -->
+
+<Question PageID="Q021313A" CompentancyID ="1,6" CompentancyObj = "28" CompentancyText = "BE Basics &#38; CBRN" CompentancyDescription = "Identify considerations in determining and evaluating occupational and environmental health controls." CompentancyTopic = "Threat Assessment and Decontamination">
+		<STS_Line><![CDATA[<li>4.1.2.6 OEH exposure controls</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFMAN 48-155, Occupational and Environmental Health Exposure Controls</li>]]></Training_Reference>
+		<QuestionText><![CDATA[The effectiveness of occupational and environmental health controls must be routinely evaluated.  The frequency of the control evaluation should be based on which two of the following factors?]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Toxicity of materials being controlled]]></Option>
+			<Option><![CDATA[Frequency and duration of chemical used in a controlled industrial area]]></Option>
+			<Option><![CDATA[Risk to personnel if performance of control degrades or fails]]></Option>
+			<Option><![CDATA[Whether the control was implemented for an immediate or <br />long-term environmental threat]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[1,3]]></CorrectAnswer>
+		<AssessmentType><![CDATA[MCMS]]></AssessmentType>
+	</Question>
+	
+	
+</Assessment>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+<!-- Set B -->
+
+
+<Assessment id="B">
+
+
+<!-- Question 22 -->
+<!-- Question B: 2-01-04 -->
+
+	<Question PageID="Q020104B" CompentancyID ="3" CompentancyObj = "1" CompentancyText = "Water" CompentancyDescription = "Identify sources of error that can be encountered in bacteriological sampling/analysis that can cause false positives. " CompentancyTopic = "Collecting Air Samples and Use of Direct Reading Instuments (DRIs)">
+		<STS_Line><![CDATA[<li>4.15.3.11 Collect potable water samples</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Water</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>BE Field Manual</li><li>Standard Methods for the Examination of Water and Wastewater</li><li>USAFSAM Laboratory  Sampling Guide</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which three of the following can cause a false positive during bacteriological sampling and analysis from a tap water source?]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Dirty sample bottle]]></Option>
+			<Option><![CDATA[Clerical error]]></Option>
+			<Option><![CDATA[Flushing the tap for 3 minutes at high velocity]]></Option>
+			<Option><![CDATA[Improper laboratory protocol]]></Option>
+			<Option><![CDATA[Disinfecting the faucet]]></Option>
+			<Option><![CDATA[Removing the faucet aerator]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[1,2,4]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Question_B_2_01_04]]></AssessmentType>
+	</Question>
+
+
+	<!-- Question 9 -->
+<!-- Question B: 2-01-14 -->
+
+	<Question PageID="Q020114B" CompentancyID ="5,6" CompentancyObj = "2" CompentancyText = "Equip &#38; CBRN" CompentancyDescription = "Identify chemical agents that can be detected using the M-272 water test kit." CompentancyTopic = "Threat Assessment and Decontamination">
+		<STS_Line><![CDATA[<li>4.15.3.5 Water sampling devices</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Water</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>Technical Manual 3-6665-319-10, M272 Chemical Agent Water Test Kit</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which two of the following can be detected using the M-272 water test kit? ]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Sulfur Mustard]]></Option>
+			<Option><![CDATA[Cyanogen Chloride]]></Option>
+			<Option><![CDATA[Hydrogen Cyanide]]></Option>
+			<Option><![CDATA[Phosgene Oxime]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[1,3]]></CorrectAnswer>
+		<AssessmentType><![CDATA[MCMS]]></AssessmentType>
+	</Question>
+
+
+
+<!-- Question 14 -->
+<!-- Question B: 2-01-21 -->
+
+	<Question PageID="Q020121B" CompentancyID ="1" CompentancyObj = "3" CompentancyText = "BE Basics" CompentancyDescription = "Understand the purpose of performing OEHSA." CompentancyTopic = "Performing OEHSA and Preventive Measures">
+		<STS_Line><![CDATA[<li>4.1.2 OEHSA</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFMAN 48-154, Occupational and Environmental Health Site Assessment</li><li>OEHSA Documentation and Data Management Technical Guide</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which of the following is NOT a purpose of performing OEHSA? ]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[To identify hazardous exposure agents]]></Option>
+			<Option><![CDATA[To plan environmental health risk control actions or countermeasures]]></Option>	
+			<Option><![CDATA[To identify all drinking water sites and watering points]]></Option>
+			<Option><![CDATA[To determine the scope of deployment health activities]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[3]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>	
+	</Question>
+
+
+
+	<!-- Question 16 -->
+<!-- Question B: 2-02-04 -->
+
+	 <Question PageID="Q020204B" CompentancyID ="6" CompentancyObj = "4" CompentancyText = "CBRN" CompentancyDescription = "Describe signs/symptoms of thermal stress (heat/cold)." CompentancyTopic = "Water Vulnerability Assessment and Water Sampling">
+		<STS_Line><![CDATA[<li>4.12.2 Thermal stress hazards</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFPAM 48-151, Thermal Injury</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which of the following is a symptom of heat illness?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Profound shivering]]></Option>
+			<Option><![CDATA[Aggressive behavior]]></Option>	
+			<Option><![CDATA[Slurred speech]]></Option>
+			<Option><![CDATA[Nausea or vomiting]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[4]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>	
+	</Question>
+
+
+
+<!-- Question 3 -->
+<!-- Question B: 2-02-10 -->
+
+	<Question PageID="Q020210B" CompentancyID ="6" CompentancyObj = "5" CompentancyText = "CBRN" CompentancyDescription = "State the factors that affect permeation." CompentancyTopic = "Threat and Symptom Assessment">
+		<STS_Line><![CDATA[<li>4.1.12 Use, selection and limitations of PPE</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>OSHA Technical Manual, Section VIII, Chapter 1, Protective Clothing</li><li>Quick Selection Guide to Chemical Protective Clothing</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which one of the following is NOT a factor that affects permeation time? ]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Concentration]]></Option>
+			<Option><![CDATA[PPE Thickness]]></Option>	
+			<Option><![CDATA[Contact Time]]></Option>
+			<Option><![CDATA[Physical State]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[2]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>
+	</Question>
+
+
+<!-- Question 21 -->
+<!-- Question B: 2-02-13 -->
+
+	 <Question PageID="Q020013B" CompentancyID ="2" CompentancyObj = "6" CompentancyText = "Air" CompentancyDescription = "Define when air sampling is needed." CompentancyTopic = "Collecting Air Samples and Use of Direct Reading Instuments (DRIs)">
+		<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li><li>4.5.2.4 Establish air sampling strategies</li><li>4.5.2.6.3 Portable GC-MS (e.g., HAPSITE)</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Air</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>Fundamentals of Industrial Hygiene</li><li>HAPSITE User's Manual</li><li>NIOSH Publication 77-173, Occupational Exposure Sampling Strategy Manual</li>]]></Training_Reference>
+		<QuestionText><![CDATA[In which situations should air samples be taken?]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[An attack involving suspected CBRN use]]></Option>
+			<Option><![CDATA[Off-base industrial air discharges upwind of the base]]></Option>
+			<Option><![CDATA[Evaluation of a metallic taste from a drinking water fountain]]></Option>
+			<Option><![CDATA[Identification of possible VOCs from a leaking 55 gallon drum]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[1,2,4]]></CorrectAnswer>
+		<AssessmentType><![CDATA[MCMS]]></AssessmentType>
+	</Question>
+
+
+<!-- Question 19 -->
+<!-- Question B: 2-02-17 -->
+
+	<Question PageID="Q020217B" CompentancyID ="2" CompentancyObj = "7" CompentancyText = "Air" CompentancyDescription = "Identify collection devices for gases and vapors. " CompentancyTopic = "Collecting Air Samples and Use of Direct Reading Instuments (DRIs)">
+		<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li><li>4.5.2.6.1 Detector Tubes or Chips (e.g. Drager CDS Kit)</li><li>4.5.2.6.2 PID/FID</li><li>4.5.2.6.3 Portable GC-MS (e.g. HAPSITE)</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Air</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>4-gas Meter User’s Manual</li><li>CDS Kit User's Manual</li><li>CMS Kit User’s Manual</li><li>HAPSITE User's Manual</li><li>HazMat ID Guidance Document</li><li>RADeCO User's Manual</li><li>TM 3-6665-307-10, M256-Series Chemical Agent Detector Kit</li><li>TVA-1000B User's Manual</li><li>XMX User's Manual</li><li>XRF User’s Manual</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Match the piece of equipment with its corresponding capabilities. ]]></QuestionText>
+		<InstructionText><![CDATA[Drag the letter to the appropriate equipment, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Determines explosive atmosphere and oxygen level]]></Option>
+			<Option><![CDATA[PID/FID that measures airborne concentrations of most organic and some inorganic compounds]]></Option>
+			<Option><![CDATA[GC/MS that identifies volatile organic compounds]]></Option>
+			<Option><![CDATA[Uses a set of detector tubes to detect certain chemical warfare agents]]></Option>
+			<Option><![CDATA[Detects blister, blood, and nerve agents only]]></Option>
+			<Option><![CDATA[Uses detector chips to detect certain chemicals]]></Option>
+		</Options>			
+	
+		<CorrectAnswer><![CDATA[3,1,2,5,6,4]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Question_B_2_02_17]]></AssessmentType>
+		<target_options>
+			<target_option><![CDATA[]]></target_option>
+			<target_option><![CDATA[]]></target_option>
+			<target_option><![CDATA[]]></target_option>	
+			<target_option><![CDATA[]]></target_option>
+			<target_option><![CDATA[]]></target_option>
+			<target_option><![CDATA[]]></target_option>
+		</target_options>			
+	</Question>
+
+
+
+<!-- Question 20 -->
+<!-- Question B: 2-02-18 -->
+
+	<Question PageID="Q020218B" CompentancyID ="2" CompentancyObj = "8" CompentancyText = "Air" CompentancyDescription = "Recognize purpose of collecting air samples using Direct Reading Instruments (DRIs)." CompentancyTopic = "Collecting Air Samples and Use of Direct Reading Instuments (DRIs)">
+		<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Air</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AIHA, The Occupational Environment: Its Evaluation, Control and Management</li><li>Fundamentals of Industrial Hygiene</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which three of the following statements are considered a purpose of collecting air samples using Direct Reading Instruments (DRIs)?]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[To estimate 8-hour or 15-minute exposures to a certain chemical]]></Option>
+			<Option><![CDATA[To provide on-the-spot information and immediate data]]></Option>
+			<Option><![CDATA[To obtain an instantaneous concentration of a substance]]></Option>
+			<Option><![CDATA[To establish more detailed exposures for compliance purposes]]></Option>
+			<Option><![CDATA[To decide if compliance sampling needs to be accomplished]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[2,3,5]]></CorrectAnswer>
+		<AssessmentType><![CDATA[MCMS]]></AssessmentType>
+	</Question>
+
+
+<!-- Question 23 -->
+<!-- Question B: 2-02-20 -->
+
+	<Question PageID="Q020220B" CompentancyID ="2" CompentancyObj = "9" CompentancyText = "Air" CompentancyDescription = "Identify detection devices for VOCs. " CompentancyTopic = "Collecting Air Samples and Use of Direct Reading Instuments (DRIs)">
+		<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li><li>4.5.2.6.2 PID/FID</li><li>4.5.2.6.3 Portable GC-MS (e.g. HAPSITE)</li><li>4.5.3.4 Soil/Solid sampling devices (DRI, XRF, etc.)</li><li>4.5.3.4.2 FT-IR (e.g. HAZMAT ID)</li><li>4.9.2.11.2 Gamma Spec (i.e. SAM 940)</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Air</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>BE Field Manual</li><li>HAPSITE  User's Manual</li><li>HazMat ID User's Manual</li><li>TVA-1000b User's Manual </li><li>TM 3-6665-307-10, M256-Series Chemical Agent Detector Kit</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which two of the following instruments are used to detect VOCs?]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[SAM 940]]></Option>
+			<Option><![CDATA[TVA-1000B]]></Option>
+			<Option><![CDATA[Hazmat ID]]></Option>
+			<Option><![CDATA[HAPSITE]]></Option>
+			<Option><![CDATA[XRF]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[2,4]]></CorrectAnswer>
+		<AssessmentType><![CDATA[MCMS]]></AssessmentType>
+	</Question>
+
+
+
+<!-- Question 13 -->
+<!-- Question B: 2-02-35 -->
+
+	<Question PageID="Q020235B" CompentancyID ="1" CompentancyObj = "10" CompentancyText = "BE Basics" CompentancyDescription = "List the key components of a liquid/water site sampling plan." CompentancyTopic = "Performing OEHSA and Preventive Measures">
+		<STS_Line><![CDATA[<li>4.15.3.1 Sampling Analysis and Monitoring Plan</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Air</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>40 CFR 141 through 147</li><li>AFI 48-144, Safe Drinking Water Surveillance Program</li><li>Standard Methods for the Examination of Water and Wastewater </li><li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which of the following is NOT a key component of a site sampling plan? ]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Identification of support laboratory]]></Option>
+			<Option><![CDATA[Identification of all drinking water sites]]></Option>	
+			<Option><![CDATA[Quality Assurance and Quality Control Plan]]></Option>
+			<Option><![CDATA[Detailed procedures for collecting samples]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[4]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>	
+	</Question>
+
+
+
+<!-- Question 4 -->
+<!-- Question B: 2-02-43 -->
+
+	<Question PageID="Q020243B" CompentancyID ="5" CompentancyObj = "11" CompentancyText = "Equip" CompentancyDescription = "List the limitations of personal protective equipment." CompentancyTopic = "Limitations and Uses of Equipment and PPE">
+		<STS_Line><![CDATA[<li>4.1.12 Use, selection and limitations of PPE</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>29 CFR 1910.120 Appendix B</li><li>OSHA Technical Manual, Section VIII, Chapter 1, Protective Clothing</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which of the following is a limitation of Level B protective equipment? ]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Provides liquid splash protection]]></Option>
+			<Option><![CDATA[Allows vapor exposure to the skin]]></Option>	
+			<Option><![CDATA[Requires at least 19.5% oxygen in environment]]></Option>
+			<Option><![CDATA[Protects personnel in IDLH environments]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[2]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>
+	</Question>
+
+
+	<!-- Question 6 -->
+<!-- Question B: 2-02-45 -->
+
+	<Question PageID="Q020245B" CompentancyID ="5" CompentancyObj = "12" CompentancyText = "Equip" CompentancyDescription = "Match RP to the type of hazard." CompentancyTopic = "Limitations and Uses of Equipment and PPE">
+		<STS_Line><![CDATA[<li>4.14.5 Select or approve RP equipment</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFOSH Standard 48-137, Attachment 2, Personal Protective Equipment</li><li>DoD 3150.8-M, Nuclear Accident Response Procedures (NARP)</li><li>NIOSH Pocket Guide to Chemical Hazards</li><li><a href='http://www.osha.gov' target='blank'>http://www.osha.gov</a></li>]]></Training_Reference>
+		<QuestionText><![CDATA[Responders are exposed to 95 dpm/m&#179; of Alpha radiation. What is the minimum respiratory protection required for these responders?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[HEPA air purifying respirator]]></Option>
+			<Option><![CDATA[Pressure demand SCBA]]></Option>	
+			<Option><![CDATA[No respiratory protection]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[3]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>	
+	</Question>
+
+
+<!-- Question 10 -->
+<!-- Question B: 2-02-57 -->
+
+	<Question PageID="Q020257B" CompentancyID ="3" CompentancyObj = "13" CompentancyText = "Water" CompentancyDescription = "Identify typical sampling locations used for potable water sample collection." CompentancyTopic = "Water Vulnerability Assessment and Field Water Requirments">
+		<STS_Line><![CDATA[<li>4.15.3.1 Sampling Analysis and Monitoring Plan</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Water</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFI 48-144, Safe Drinking Water Surveillance Program</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which of the following is an appropriate potable water sampling location? ]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Fire hydrants]]></Option>
+			<Option><![CDATA[Drinking fountain]]></Option>	
+			<Option><![CDATA[Hot water fixture]]></Option>
+			<Option><![CDATA[Kitchen sink faucet]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[4]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>
+	</Question>
+
+
+
+<!-- Question 11 -->
+<!-- Question B: 2-02-62 -->
+
+	<Question PageID="Q020262B" CompentancyID ="3" CompentancyObj = "14" CompentancyText = "Water" CompentancyDescription = "Know basic facts and terms about field water requirements." CompentancyTopic = "Water Vulnerability Assessment and Field Water Requirments">
+		<STS_Line><![CDATA[<li>4.15.1.4 Drinking water treatment</li><li>4.15.1.6 Field drinking water</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Water</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFH 10-222, Vol 9, Guide to Reverse Osmosis Water Purification Unit Installation and Operation</li><li>BE Field Manual</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which two of the following are TRUE regarding the Reverse Osmosis Water Purification Unit (ROWPU)?]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Acts as a disinfectant to kill bacteria]]></Option>
+			<Option><![CDATA[Can turn salt water into potable water]]></Option>
+			<Option><![CDATA[Tests for chemical agents including cyanide and lewisite]]></Option>
+			<Option><![CDATA[Uses a semi-permeable membrane to filter contaminants]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[2,4]]></CorrectAnswer>
+		<AssessmentType><![CDATA[MCMS]]></AssessmentType>
+	</Question>
+
+
+
+	<!-- Question 12 -->
+<!-- Question B: 2-04-13 -->
+
+	<Question PageID="Q020413B" CompentancyID ="3" CompentancyObj = "15" CompentancyText = "Water" CompentancyDescription = "Comprehend drinking water treatment and distribution requirements." CompentancyTopic = "Water Vulnerability Assessment and Field Water Requirments">
+		<STS_Line><![CDATA[<li>4.15.1.4 Drinking water treatment</li><li>4.15.1.6 Field drinking water</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Water</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>BE Field Manual</li>]]></Training_Reference>
+		<QuestionText><![CDATA[At a deployed location a 500 gallon water buffalo has just been superchlorinated and is ready to be filled with water. In accordance with the BE Field Manual, how much 5% sodium hypochlorite should you add to achieve 5 ppm residual chlorine?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[6.40 oz]]></Option>
+			<Option><![CDATA[3.20 oz]]></Option>	
+			<Option><![CDATA[1.28 oz]]></Option>
+			<Option><![CDATA[0.61 oz]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[1]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>
+	</Question>
+
+
+<!-- Question 8 -->
+<!-- Question B: 2-06-01 -->
+
+	<Question PageID="Q020601B" CompentancyID ="5" CompentancyObj = "16" CompentancyText = "Equip" CompentancyDescription = "Describe situations when the HAPSITE can be used." CompentancyTopic = "Limitations and Uses of Equipment and PPE">
+		<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li><li>4.5.2.6.3 Portable GC/MS (e.g., HAPSITE)</li><li>4.5.3.4 Soil/Solid sampling devices (DRI, XRF, etc.)</li><li>4.15.3.5.1 Portable GC/MS (e.g. HAPSITE)</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Environmental</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>BE Field Manual</li><li>HAPSITE User's Manual</li>]]></Training_Reference>
+		<QuestionText><![CDATA[In which two situations would the HAPSITE be used?]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[During HAZMAT responses to unknown material]]></Option>
+			<Option><![CDATA[To estimate when concentrations will decrease]]></Option>
+			<Option><![CDATA[To analyze soil, water, and air for contaminants]]></Option>
+			<Option><![CDATA[To quantify biological agent concentrations]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[1,3]]></CorrectAnswer>
+		<AssessmentType><![CDATA[MCMS]]></AssessmentType>	
+	</Question>
+
+
+	<!-- Question 17 -->
+<!-- Question B: 2-02-13 -->
+
+	<Question PageID="Q020213B" CompentancyID ="6" CompentancyObj = "17" CompentancyText = "CBRN" CompentancyDescription = "Identify common nuclear weapon isotopes and their associated radiation hazards." CompentancyTopic = "">
+		<STS_Line><![CDATA[<li>6.6 Common nuclear weapons isotopes</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>DoD 3150.8-M, Nuclear Accident Response Procedures</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Match the radioisotope with the primary radioactive particle emitted.]]></QuestionText>
+		<InstructionText><![CDATA[Select the appropriate column for each item, then click Done.]]></InstructionText>	
+		<Options bgWidth="390" column_gap="5" option_gap="5" textWidth="370">
+			<Option><![CDATA[Americium-241]]></Option>
+			<Option><![CDATA[Hydrogen-3]]></Option>
+			<Option><![CDATA[Plutonium-241]]></Option>
+			<Option><![CDATA[Uranium-235]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,2,2,1]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Multiple_MCSS]]></AssessmentType>
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>Alpha</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Beta</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Radioisotope</B></p>]]></Option_heading>
+	</Question>	
+
+	
+
+	<!-- Question 18 -->
+<!-- Question B: 2-06-18 -->
+
+	<Question PageID="Q020618B" CompentancyID ="6" CompentancyObj = "18" CompentancyText = "CBRN" CompentancyDescription = "Identify the potential threat of TICs being used as a weapon. " CompentancyTopic = "Threat Assessment and Decontamination">
+		<STS_Line><![CDATA[<li>4.1.3 Toxic industrial chemical/toxic industrial material (TIC/TIM) vulnerability assessments</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform & Communicate VAs</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFTTP(I) 3-2.55 Potential Military Chemical/Biological Agents and Compounds</li><li>Toxic Industrial Chemicals, Toxic Industrial Materials Vulnerability Assessment Technical Guide</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which areas can be exploited to produce a catastrophic TIC release? ]]></QuestionText>
+		<InstructionText><![CDATA[Drag the correct items to the list,<br>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Pipelines]]></Option>
+			<Option><![CDATA[Storage yards]]></Option>
+			<Option><![CDATA[Pesticide stockpiles]]></Option>
+			<Option><![CDATA[Airfields]]></Option>
+			<Option><![CDATA[Nuclear material storage]]></Option>
+			<Option><![CDATA[Rail tankers]]></Option>
+		</Options>			
+	
+		<CorrectAnswer><![CDATA[1,2,3,0,0,6]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Question_B_2_06_18]]></AssessmentType>
+		<target_options>
+			<target_option><![CDATA[Pipelines]]></target_option>
+			<target_option><![CDATA[Storage yards]]></target_option>
+			<target_option><![CDATA[Pesticide stockpiles]]></target_option>		
+			<target_option><![CDATA[Rail tankers]]></target_option>
+		</target_options>			
+	</Question>
+
+<!-- Question 19 -->
+<!-- Question B: 2-06-13 -->
+<Question PageID="Q020613B" CompentancyID ="6" CompentancyObj = "18" CompentancyText = "CBRN" CompentancyDescription = "Perform noise calculations." CompentancyTopic = "">
+		<STS_Line><![CDATA[<li>3.2.1 Solve calculations using basic arithmetic functions (add, subtract, multiply, and divide whole numbers, fractions, and decimals)</li><li>4.10.5 Perform noise calculations</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFOSH Standard 48-20, Occupational Noise and Hearing Conservation Program</li>]]></Training_Reference>
+		<QuestionText><![CDATA[If a worker’s shift lasts 10 hours, what is the 8-hour equivalent sound level with a dosimeter reading of 84.3 dB?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[83.3 dB]]></Option>
+			<Option><![CDATA[84.3 dB]]></Option>	
+			<Option><![CDATA[85.3 dB]]></Option>
+			<Option><![CDATA[86.3 dB]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[3]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>	
+	</Question>
+
+
+
+
+<!-- Question 18 -->
+<!-- Question B: 03-01-60 -->
+
+	<Question PageID="Q030160B" CompentancyID ="3" CompentancyObj = "20" CompentancyText = "Water" CompentancyDescription = "Determine the elements of a liquid/water site sampling plan." CompentancyTopic = "Water Vulnerability Assessment and Field Water Requirments">
+		<STS_Line><![CDATA[<li>4.15.3.1 Sampling Analysis and Monitoring Plan</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Water</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFI 48-144, Safe Drinking Water Surveillance Program</li><li>Standard Methods for the Examination of Water and Wastewater</li><li>USAFSAM Drinking Water Surveillance Technical Guide</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which two of the following locally developed procedures must be included in a drinking water sampling, analysis, and monitoring (SAM) plan?]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[MCL exceedances]]></Option>
+			<Option><![CDATA[Public notifications]]></Option>
+			<Option><![CDATA[Monitoring during elevated threat conditions]]></Option>
+			<Option><![CDATA[Training requirements for bacteriological monitoring]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[1,3]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCMS]]></AssessmentType>	
+	</Question>
+
+
+
+	<!-- Question 2 -->
+<!-- Question B: 03-06-16 -->
+
+	<Question PageID="Q030216B" CompentancyID ="5,6" CompentancyObj = "21" CompentancyText = "Equip &#38; CBRN" CompentancyDescription = "Determine chemicals which can be detected according to the ionization potential of the PID lamp." CompentancyTopic = "Limitations and Uses of Equipment and PPE">
+		<STS_Line><![CDATA[<li>4.5.2.2 Air sampling devices</li><li>4.5.2.6.2 PID/FID</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Air</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>TVA-1000B User’s Manual</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Determine whether the chemicals listed can be detected by the PID using a 10.6eV lamp.]]></QuestionText>
+		<InstructionText><![CDATA[Select the appropriate column for each item, then click Done.]]></InstructionText>	
+		<Options bgWidth="300" column_gap="5" option_gap="5" textWidth="300">
+			<Option><![CDATA[Benzene]]></Option>
+			<Option><![CDATA[Ammonia]]></Option>
+			<Option><![CDATA[Hexane]]></Option>
+			<Option><![CDATA[Methane]]></Option>
+			<Option><![CDATA[Fluorine]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[1,1,1,2,2]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Multiple_MCSS]]></AssessmentType>
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>Detectable</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Non-Detectable</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Chemical</B></p>]]></Option_heading>		
+	</Question>
+
+<!-- Question 1 -->
+<!-- Question B: 03-02-41 -->
+
+	<Question PageID="Q030241B" CompentancyID ="1" CompentancyObj = "22" CompentancyText = "BE Basics" CompentancyDescription = "Calculate dose rate, dose, stay times, and protection factors." CompentancyTopic = "Performing OEHSA and Preventive Measures">
+		<STS_Line><![CDATA[<li>3.2.1  Solve calculations using basic arithmetic functions (add, subtract, multiply, and divide whole numbers, fractions, and decimals)</li><li>3.2.2 Perform conversion of units using dimensional analysis (formula manipulation), metric conversions</li><li>4.9.2.13 Perform ionizing radiation calculations (dose, dose rate, stay time, protection factors, decay, etc.)</li><li>6.10 Units of radiation (dose/dose Rate/counts) </li><li>6.13 Calculate stay times</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA - Radiation</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>BE Field Manual</li><li>BE Guide to Ionizing Radiation</li>]]></Training_Reference>
+		<QuestionText><![CDATA[If you are reading 100 uR/hr at a distance of 100 meters from a source, approximately how far from the source would you estimate the 2 mR/hr line to be?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[2 meters]]></Option>
+			<Option><![CDATA[5 meters]]></Option>	
+			<Option><![CDATA[22 meters]]></Option>
+			<Option><![CDATA[707 meters]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[3]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>
+	</Question>
+
+	<!-- Question 17 -->
+<!-- Question B: 03-04-17 -->
+
+	<Question PageID="Q030417B" CompentancyID ="3" CompentancyObj = "23" CompentancyText = "Water" CompentancyDescription = "Identify the relationship between water vulnerability assessments, sanitary surveys, and aircraft watering point surveys." CompentancyTopic = "Water Vulnerability Assessment and Field Water Requirments">
+		<STS_Line><![CDATA[<li>4.15.1.14 Water vulnerability assessment</li><li>4.15.1.12 Base sanitary surveys</li><li>4.15.1.16 Perform aircraft watering point surveys</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA – Water</li><li>Perform & Communicate VAs</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFI 48-144, Safe Drinking Water Surveillance Program</li><li>AFIOH Water Vulnerability and Risk Assessments for Potable Water Assets</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which of the following is performed to identify areas in a water distribution system that are susceptible to tampering, sabotage, and contamination? ]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer, <BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[A water vulnerability assessment]]></Option>
+			<Option><![CDATA[An aircraft watering point survey]]></Option>	
+			<Option><![CDATA[A sanitary survey]]></Option>
+			<Option><![CDATA[Water sampling ]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[1]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>	
+	</Question>
+	
+	<!-- Question B: 02-09-13  -->
+
+	<Question PageID="Q020913B" CompentancyID ="1" CompentancyObj = "24" CompentancyText = "BE Basics" CompentancyDescription = "Recall guidance provided in the USAFSAM Laboratory Sampling Guide." CompentancyTopic="">
+		<STS_Line><![CDATA[<li>4.5.1.2 OEH sample guide (include USAPHC guide)</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+		
+		<QuestionText><![CDATA[The Data Quality Objective (DQO) process achieves two major objectives: it ensures that the type, quantity, and quality of data collected are appropriate; and it eliminates the collection of unnecessary, redundant, and overly precise data.  Put the steps of the DQO process in the correct order.]]></QuestionText>
+		<InstructionText><![CDATA[Drag the items to the appropriate locations, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Identify the decision]]></Option>
+			<Option><![CDATA[Develop the plan for obtaining data]]></Option>
+			<Option><![CDATA[Develop the analytical approach]]></Option>
+			<Option><![CDATA[Identify information inputs]]></Option>		
+			<Option><![CDATA[Define the study boundaries]]></Option>
+			<Option><![CDATA[State the problem]]></Option>
+			<Option><![CDATA[Specify performance and acceptable criteria]]></Option>
+		</Options>		
+
+		<AssessmentType><![CDATA[Question_B_2_09_13]]></AssessmentType>
+		<CorrectAnswer><![CDATA[6,1,4,5,3,7,2]]></CorrectAnswer>
+		<target_options>
+			
+		</target_options>	
+	</Question>
+	
+	<!-- Question B: 02-07-13  -->
+
+	<Question PageID="Q021013B" CompentancyID ="1" CompentancyObj = "25" CompentancyText = "BE Basics" CompentancyDescription = "Identify disposal methods for radioactive material with the AFRRAD office." CompentancyTopic="">
+		<STS_Line><![CDATA[<li>4.5.1.2 OEH sample guide (include USAPHC guide)</li><li>4.5.1.3 Prepare and/or preserve samples for shipment</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA – Water</li><li>Perform HRA – Soil</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>USAFSAM Laboratory Sampling Guide</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Determine which of the following soil sampling tools preserve a soil sample’s depth profile for in-situ analysis. ]]></QuestionText>
+		<InstructionText><![CDATA[Select the appropriate column for each item, then click Done.]]></InstructionText>	
+		<Options bgWidth="300" column_gap="5" option_gap="5" textWidth="300">
+			<Option><![CDATA[Scoop or trowel]]></Option>
+			<Option><![CDATA[Bulb planter]]></Option>
+			<Option><![CDATA[Hand-operated auger]]></Option>
+			<Option><![CDATA[Soil coring device]]></Option>
+			<Option><![CDATA[Split spoon sampler]]></Option>
+			<Option><![CDATA[Bucket auger]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[2,1,2,1,1,2]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Multiple_MCSS]]></AssessmentType>
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>Yes</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>No</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Soil Sampling Equipment</B></p>]]></Option_heading>
+	</Question>
+	
+	<!-- Question B: 02-08-13  -->
+
+	<Question PageID="Q021113B" CompentancyID ="3" CompentancyObj = "26" CompentancyText = "Water" CompentancyDescription = "Identify basic facts and terms related to backflow prevention and cross-connection hazard classification." CompentancyTopic="">
+		<STS_Line><![CDATA[<li>4.15.1.10 Health risk ratings for backflow or cross connection areas</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Perform HRA – Water</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>USAFSAM Drinking Water Surveillance Technical Guide</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which of the following best defines a low hazard regarding cross-connections?]]></QuestionText>
+		<InstructionText><![CDATA[Select the correct answer,<BR>then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[May spread disease by sewage, industrial fluids, or chemicals]]></Option>
+			<Option><![CDATA[Creates an actual hazard to the public health through poisoning]]></Option>
+			<Option><![CDATA[Contamination is an impairment of the quality of the potable water]]></Option>
+			<Option><![CDATA[Adversely affects the aesthetic quality of potable water for potable use]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[4]]></CorrectAnswer>	
+		<AssessmentType><![CDATA[MCSS]]></AssessmentType>	
+	</Question>
+	
+	<!-- Question B: 02-14-13  -->
+
+	<Question PageID="Q021213B" CompentancyID ="6" CompentancyObj = "27" CompentancyText = "CBRN" CompentancyDescription = "Identify characteristics of total exposure health threat evaluation." CompentancyTopic="">
+		<STS_Line><![CDATA[<li>3.2.1 Solve calculations using basic arithmetic functions (add, subtract, multiply, and divide whole numbers, fractions, and decimals)</li><li>4.1.2.5 Total exposure health risk (additive, synergistic, multiple routes, etc.)</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>29 CFR 1910.1000(d)(2)(i)</li><li>Fundamentals of Industrial Hygiene</li><li>AIHA, A Strategy for Assessing and Managing Occupational Exposures</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Which two of the following statements are true regarding the evaluation of total exposure health threats?]]></QuestionText>
+		<InstructionText><![CDATA[Select all that apply, then click Done.]]></InstructionText>
+		<Options>
+			<Option><![CDATA[Dermal exposures should be systematically assessed in conjunction with airborne and other exposure assessments.]]></Option>
+			<Option><![CDATA[Dermal sampling is an effective method for determining the effectiveness of controls and quantifying skin exposures.]]></Option>
+			<Option><![CDATA[When two or more hazardous substances that act upon the same body organ system are present, the effects of the individual components should be given primary consideration.]]></Option>
+			<Option><![CDATA[While air monitoring measures the composition of the external environment surrounding the worker, biological monitoring measures the amount of chemical absorbed into the body.]]></Option>
+		</Options>
+		<CorrectAnswer><![CDATA[1,4]]></CorrectAnswer>
+		
+		<AssessmentType><![CDATA[Question_B_2_14_13]]></AssessmentType>		
+	</Question>
+	
+	<!-- Question B: 02-13-13  -->
+
+	<Question PageID="Q021313B" CompentancyID ="1,6" CompentancyObj = "28" CompentancyText = "BE Basics &amp; CBRN" CompentancyDescription = "Identify considerations in determining and evaluating occupational and environmental health controls." CompentancyTopic="">
+		<STS_Line><![CDATA[<li>4.1.2.6 OEH exposure controls</li>]]></STS_Line>
+		<RSV_Area><![CDATA[<li>Conduct OEHSA</li>]]></RSV_Area>
+		<Training_Reference><![CDATA[<li>AFMAN 48-155, Occupational and Environmental Health Exposure Controls</li>]]></Training_Reference>
+		<QuestionText><![CDATA[Determine whether the following parameters are true or false regarding the assessment of an OEH control’s effectiveness. ]]></QuestionText>
+		<InstructionText><![CDATA[Select the appropriate column for each item, then click Done.]]></InstructionText>	
+		<Options bgWidth="480" column_gap="-18" option_gap="5" textWidth="470">
+			<Option><![CDATA[The control must always be considered according to the following priority: engineering, administrative, and personal protective equipment.]]></Option>
+			<Option><![CDATA[The control must be able to mitigate the OEH threat exposure to below the established, recognized OEEL.]]></Option>
+			<Option><![CDATA[The control must be practical when considering cost and time associated with implementation.]]></Option>
+			<Option><![CDATA[The responsible organization must be able to reasonably implement the control option.]]></Option>
+			<Option><![CDATA[The health risk associated with the OEH threat must be mitigated using an engineering control.]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[2,2,1,1,2]]></CorrectAnswer>
+		<AssessmentType><![CDATA[Multiple_MCSS]]></AssessmentType>
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>True</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>False</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>OEH Control Effectiveness Parameter</B></p>]]></Option_heading>
+	</Question>
+
+</Assessment>
+
+</AssessmentInfo>
+
+</Assessments>

@@ -1,0 +1,51 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I: Assessing the Situation</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[Based on the fact that prevailing winds are out of the West at this installation, place these base assets in the <B>best</B> location to promote prevention of illness.]]></questionText>
+		
+		<instructionText><![CDATA[<I>Drag the items to the appropriate locations, then click Done</I>]]></instructionText>
+		<text0><![CDATA[Latrines]]></text0>
+		<text1><![CDATA[Bottled Water Storage]]></text1>
+		<text2><![CDATA[Shower]]></text2>
+		<text3><![CDATA[Waste Pit]]></text3>
+		<text4><![CDATA[Life Support]]></text4>
+		<text5><![CDATA[Transportation]]></text5>
+		<text6><![CDATA[Aircraft Maintenance]]></text6>
+		<text7><![CDATA[CE Structures]]></text7>
+		<text8><![CDATA[Security Forces]]></text8>
+		<text9><![CDATA[Logistics Readiness Squadron]]></text9>
+		<text10><![CDATA[Wing Headquaters]]></text10>
+		<text11><![CDATA[Rapid Runway Repair]]></text11>
+		<text12><![CDATA[EMEDS +10]]></text12>
+		<text13><![CDATA[Uitilities]]></text13>
+		<text14><![CDATA[Army Comm. Unit]]></text14>
+		<text15><![CDATA[Satellite Comm.]]></text15>
+		<text16><![CDATA[Cement Plant]]></text16>
+		<text17><![CDATA[Munitions]]></text17>
+		<text18><![CDATA[<p align="right"><B>Drag Item List</B></p>]]></text18>
+
+
+		<target_options>
+			<target_option><![CDATA[<p align="right">Screening for VOCs, including low molecular weight VOCs</p>]]></target_option>
+			<target_option><![CDATA[<p align="right">Specific VOC identification</p>]]></target_option>
+			<target_option><![CDATA[<p align="right">Airborne radioactive materials</p>]]></target_option>		
+			<target_option><![CDATA[<p align="right">Gamma radiation</p>]]></target_option>	
+		</target_options>		
+
+		<drag_options>
+			<drag_option><![CDATA[451P]]></drag_option>
+			<drag_option><![CDATA[HAPSITE]]></drag_option>	
+			<drag_option><![CDATA[RADeCO and ADM-300]]></drag_option>			
+			<drag_option><![CDATA[TVA-1000B]]></drag_option>
+		</drag_options>
+
+		<correct_options><![CDATA[4]]></correct_options>
+		
+	</question>	
+
+</Interactivity>

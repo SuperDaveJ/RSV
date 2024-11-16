@@ -1,0 +1,14 @@
+<Quiz>
+	<question><![CDATA[1]]>
+		<PageTitle><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></PageTitle>	
+ <instructiontext><![CDATA[Click SSgt Johnson & the Lifeline to learn more, then select the correct answer.]]></instructiontext>
+		<questiontext><![CDATA[After preliminary measurements, your team determines that the size of the site is approximately 120' by 120'. You plan to set up a sampling grid and collect a sample at each point for analysis. This situation is very serious and you are pressured for time. Despite these restrictions you tell your team that they must reach the 95% confidence interval with the sampling.<br><br>Move the slider bar below to choose the length of the grid squares required for this sampling procedure. Then, select how many samples should be collected during the first entry. ]]></questiontext>
+ 		<options>
+			<option><![CDATA[8 pts]]></option>
+			<option><![CDATA[9 pts]]></option>		
+			<option><![CDATA[16 pts]]></option>		
+			<option><![CDATA[24 pts]]></option>				
+		</options>
+		<correct_option><![CDATA[3]]></correct_option>	
+	</question>	
+</Quiz>

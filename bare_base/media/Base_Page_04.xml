@@ -1,0 +1,33 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part I: Gathering Information</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+
+	<questiontext><![CDATA[Which two highlighted items represent <B>immediate</B> preventive medicine concerns?]]></questiontext>
+		
+	<text1><![CDATA[Thermometer: 70° F]]></text1>
+	<text2><![CDATA[Food]]></text2>
+	<text3><![CDATA[55-Gallon Drums Near Ground Staining]]></text3>	
+	<text4><![CDATA[Bottle of Water]]></text4>
+	<text5><![CDATA[Electrical Cords]]></text5>
+	<text6><![CDATA[Running Generator]]></text6>
+
+	<options>
+			<option><![CDATA[Thermometer: 70° F]]></option>
+			<option><![CDATA[Food]]></option>
+			<option><![CDATA[55-Gallon Drums Near Ground Staining]]></option>	
+			<option><![CDATA[Bottle of Water]]></option>
+			<option><![CDATA[Electrical Cords]]></option>
+			<option><![CDATA[Running Generator]]></option>
+		
+	</options>
+
+	<correct_options><![CDATA[3,6]]></correct_options>
+		
+			
+</question>
+	
+</Quiz>

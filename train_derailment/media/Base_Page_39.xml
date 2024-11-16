@@ -1,0 +1,23 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part II: Executing the Response</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[Using the HHA, how many similar results would constitute a presumptive result?]]></questiontext>
+<text1><![CDATA[Lt Smith]]></text1>
+
+ 		<options>
+			<option><![CDATA[1]]></option>
+			<option><![CDATA[2]]></option>		
+			<option><![CDATA[3]]></option>
+			<option><![CDATA[4]]></option>
+		</options>
+
+		<correct_option><![CDATA[2]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

@@ -1,0 +1,22 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part III: Interpreting the Findings</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct answer, then click Done.]]></instructiontext>
+
+		<questiontext><![CDATA[While meeting to discuss the findings of your team, you need to explore what the ramifications of discovering Cs-137 could be. What is the primary type of radiation that Cs-137 emits?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Alpha]]></option>
+			<option><![CDATA[Beta]]></option>		
+			<option><![CDATA[Gamma]]></option>
+			<option><![CDATA[Positrons]]></option>
+		</options>
+
+		<correct_option><![CDATA[2]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

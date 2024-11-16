@@ -1,0 +1,24 @@
+<Quiz>
+
+<question>
+
+	<pageTitle><![CDATA[<B>Part III:  Interpreting the Findings</B>]]></pageTitle>	
+
+	<instructiontext><![CDATA[Select the correct options, and click the <B>Submit</B> button.]]></instructiontext>
+	<text5><![CDATA[<B>Part III:  Interpreting the Findings</B>]]></text5>
+	<questiontextL><![CDATA[Based on the lack of ground contamination found by the survey teams and the decreased count rate on the air samples, what recommendations could now be made to the EOC Commander?]]></questiontextL>
+	<questiontextM><![CDATA[Based on the lack of ground contamination found by the survey teams and the decreased count rate on the air samples, what recommendations could now be made to the Incident Commander?]]></questiontextM>
+			<text5><![CDATA[IC]]></text5>
+	<options>
+			<option><![CDATA[Evacuate the hospital and maintain shelter-in-place in housing area]]></option>
+			<option><![CDATA[Reduced the 5,000 ft cordon around Building 808]]></option>
+			<option><![CDATA[Lift the shelter-in-place restrictions for the housing area]]></option>	
+			<option><![CDATA[Take more air samples before making any further recommendations]]></option>
+	</options>
+
+	<correct_options><![CDATA[2,3]]></correct_options>
+	
+			
+</question>
+	
+</Quiz>

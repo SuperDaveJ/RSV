@@ -1,0 +1,22 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part IV: Making Recommendations</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[After a few days of aeration and decontamination, any remaining Lewisite will have dissipated or degraded due to its relatively short persistency in the environment. Which decon strategy should be used?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Wash with soap and water]]></option>
+			<option><![CDATA[Wash with dilute bleach solution]]></option>		
+			<option><![CDATA[Wash with bleach]]></option>
+			<option><![CDATA[Aerate with chlorine dioxide]]></option>
+		</options>
+
+		<correct_option><![CDATA[2]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

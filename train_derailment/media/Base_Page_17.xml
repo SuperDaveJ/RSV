@@ -1,0 +1,40 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part I: Determining Strategies and Response Plan</B>]]></pageTitle>	
+		
+		<questionText><![CDATA[As you're about to enter the hot zone for the first time, you need to consider which sampling equipment or methods you will use, based on the information you already have. Match each statement with the equipment or method to which it applies in this situation.]]></questionText>
+		
+		<instructionText><![CDATA[Select the appropriate answers, then click Done.]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="1" option_gap="2" text_Width="300">
+			<Option><![CDATA[Use for Hydrochloric Acid and Ammonia]]></Option>
+			<Option><![CDATA[Use for organic compounds-Diesel Fuel]]></Option>
+			<Option><![CDATA[Use to determine LEL, O<FONT Size="8">2</font>, H<FONT Size="8">2</font>S, and CO]]></Option>
+			<Option><![CDATA[Do not use due to strong acids and bases]]></Option>
+			<Option><![CDATA[Not necessary because hazards have been identified as vapor hazards]]></Option>
+			<Option><![CDATA[Not necessary because liquids present have been identified]]></Option>
+			<Option><![CDATA[Rule out radiation hazards]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[3,7,1,4,6,5,2]]></CorrectAnswer>	
+		<CorrectAnswer1><![CDATA[3,7,1,4,5,6,2]]></CorrectAnswer1>	
+
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>4-gas<br>Meter</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>EPD</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>CMS</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>HAPSITE</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Hazcat<BR>Kit</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>HazMat<br>ID</B></p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>TVA-<br>1000B</B></p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Description</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

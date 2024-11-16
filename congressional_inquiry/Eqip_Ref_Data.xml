@@ -1,0 +1,65 @@
+<content>
+	<tab>
+		<title><![CDATA[451P]]></title>
+		<discription><![CDATA[<li>Hand-held unit designed for both rugged and normal environments.</li><li>Uses a pressurized ionization chamber to quantify gamma and X-ray radiation (in Roentgens/hour or Sieverts/hour).</li><li>Can be used for monitoring soil, food, and water samples.</li><li>Measures energies between 20 KeV and 2 MeV, and has an operating range from 0 uR/h to 5 R/h. Most (but not all) radionuclides have a gamma or photon component as part of their decay scheme and will be detected by the 451P.</li><li>NOTE: The following nuclides either have too low a gamma energy or do not emit a gamma ray at all, and will not be detected by the 451P: H-3, C-14, Si-32, S-35, Fe-55, Ni-59, Ni-63, Tc-99, I-129, and Pm-147.</li>]]></discription>
+	</tab>
+
+	
+	<tab>
+		<title><![CDATA[ADM-300 w/ Sources and Probes]]></title>
+		<discription><![CDATA[<li>Multifunction radiation meter used to locate and measure low and high intensities in the form of gamma rays or beta particles.</li><li>External probes locate and measure alpha, beta, gamma, x-ray and neutron radiation.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[EPD-Mk2]]></title>
+		<discription><![CDATA[<li>The EPD Mk2 Electronic Personal Dosimeter is an active dosimeter designed to detect and monitor X-ray, gamma, and beta radiation exposure.</li><li>It provides dose (whole body and skin) from 0 mrem to >1600 rem, and dose rate from 0 mrem/h to 400 rem/h.</li><li>The energy range is 15 KeV to 10 MeV (Gamma and X-Ray), and 250 KeV to 1.5 MeV (Beta).</li><li>Audible alarms can be set for both dose and dose rate. </li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[Full-face Respirator]]></title>
+		<discription><![CDATA[<li>Provides protection against most inhalation and absorption hazards.</li><li>Not for use in IDLH situations.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[Half-face Respirator]]></title>
+		<discription><![CDATA[<li>A tight-fitting respirator that covers the nose and mouth and fits under the chin.</li>]]></discription>
+	</tab>
+
+	<tab>
+		<title><![CDATA[HAPSITE]]></title>
+		<discription><![CDATA[<li>Provides on-scene detection, identification and quantification of toxic industrial chemicals, volatile organic compounds and chemical warfare agents in air, water, soil and sludge.</li><li>Includes on-board computer.</li><li>Equipped with built-in GPS. </li>]]></discription>
+	</tab>
+
+
+	<tab>
+		<title><![CDATA[RADeCO]]></title>
+		<discription><![CDATA[<li>Portable, compact and lightweight sampler for particulates or combination particulates and radioisotopes </li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[SAM 940]]></title>
+		<discription><![CDATA[<li>The SAM 940 is a portable, hand-held radiation surveillance and measurement instrument.</li><li>It is designed for nuclide identification, spectrum analysis, dose rate calculation, total dose, data logging, and as an audible search tool.</li><li>It uses an internal thallium-activated sodium iodide scintillation crystal infused with Lithium-6 to detect/measure gamma (photon) radiation and detect neutrons.</li><li>Its gamma energy range is 18 KeV – 3 MeV and its operating temperature range is -20°C (-4 F) to +50°C (+122 F).</li><li>Quadratic Compression Conversion allows for identification of mixed isotopes in one second and provides 97% ID confidence in 2 seconds.</li><li>It will not detect radionuclides that do not emit gamma, such as H-3 (tritium).</li><li>It is designed to reduce peak energy drifting through automatic stabilization features.</li><li>It is susceptible to interference from strong magnetic fields.</li>]]></discription>
+	</tab> 
+
+
+	<tab>
+		<title><![CDATA[SCBA]]></title>
+		<discription><![CDATA[<li>Breathing apparatus for Level A and B response.</li><li>Can be used in IDLH.</li>]]></discription>
+	</tab> 
+
+		<tab>
+		<title><![CDATA[TVA-1000B]]></title>
+		<discription><![CDATA[<li>TVA-1000B (Toxic Vapor Analyzer) is a portable, intrinsically-safe, direct-reading monitor that uses a flame ionization detector (FID) and a photo ionization detector (PID) to provide real-time measurements (ppm, ppb, or %) of organic and some inorganic vapor concentrations in air.</li><li>The FID (requiring Hydrogen gas) can measure a wide range of concentrations (1 - 50,000 ppm) of organic compounds, including methane.</li><li>The PID uses various ultraviolet lamps of a specific energy (10.6 eV being the standard) to measure a much smaller concentration range (.5-2000 ppm) of organic/inorganic compounds (to include ammonia, carbon disulfide, carbon tetrachloride, chloroform, ethylamine, formaldehyde, and hydrogen sulfide).</li><li>The TVA is not designed for use below 32 degrees F. </li>]]></discription>
+	</tab> 
+
+	<tab>
+		<title><![CDATA[XRF]]></title>
+		<discription><![CDATA[<li>XRF analyzers are used to perform on-site metal contamination testing.</li><li>A handheld, real time, heavy metals analyzer used for detection of heavy metals.</li><li>Common Uses: Lead paint analysis and soil analysis for lead and other metals.</li>]]></discription>
+	</tab> 
+
+
+
+
+
+
+</content>

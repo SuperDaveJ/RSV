@@ -1,0 +1,24 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part III: Interpreting the Findings</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[According to calculations, most SeaBees received an estimated dose of 438 mrem/year. With this information, what do you consider the risk to be for the SeaBee personnel?]]></questiontext>
+<text2><![CDATA[<B>Part III: Interpreting the Findings</B>]]></text2>
+<text3><![CDATA[<B>Urgent!</B>]]></text3>
+<text4><![CDATA[The base Commander asked for a progress report on your team's work, and has determined that you have received          additional points for the progress made on your mission.]]></text4>
+<text5><![CDATA[You have been awarded 50 pts for every hour that your team is ahead of schedule. The mission schedule dictates that there should be 17 hours left at this point.]]></text5>
+ 		<options>
+			<option><![CDATA[The increased risk of long-term fatal cancer is 1:4,000]]></option>
+			<option><![CDATA[The increased risk of long-term fatal cancer is 1:400]]></option>		
+			<option><![CDATA[The increased risk of long-term fatal cancer is negligible]]></option>
+		</options>
+
+		<correct_option><![CDATA[1]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

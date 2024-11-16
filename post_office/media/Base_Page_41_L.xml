@@ -1,0 +1,33 @@
+<Interactivity>
+	
+	<question>
+
+		<questionNo><![CDATA[1]]></questionNo>	
+
+		<pageTitle><![CDATA[<B>Part II: Executing the Response </B>]]></pageTitle>	
+		
+		<questionText><![CDATA[After using 8 additional pumps of air and tube 4 from the CDS Kit, Bio-1 Bravo notifies you that Organic Arsenic is present in concentration greater than 0.1 ppm (3mg/m&#179;). While they decon, choose what tasks seem <I><B>most logical</B></I> for your other BE teams to be doing.]]></questionText>
+		
+		<instructionText><![CDATA[<I>Drag each layer name in the right and place it besides its correct description. When you are done, click <B>Submit.</B></I>]]></instructionText>		
+					
+		<Options bgWidth="400" column_gap="5" option_gap="5" text_Width="400">
+			<Option><![CDATA[Notify MTF of possible Lewisite exposure]]></Option>
+			<Option><![CDATA[Analyze swab sample on HHA ]]></Option>
+			<Option><![CDATA[Check HAPSITE for output]]></Option>
+			<Option><![CDATA[Conduct research for toxicological effects]]></Option>
+			<Option><![CDATA[Notify EOC of toxicological effects]]></Option>
+		</Options>
+	
+		<CorrectAnswer><![CDATA[2,1,1,3,3]]></CorrectAnswer>	
+
+		<option_titles>
+			<option_title><![CDATA[<p align='center'><B>Bio-1 Alpha</B><BR>(ECP)</p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Bio-2</B><BR>(EOC)</p>]]></option_title>
+			<option_title><![CDATA[<p align='center'><B>Bio-Base</B><BR>(BE Office)</p>]]></option_title>
+		</option_titles>
+
+		<Option_heading><![CDATA[<p align='center'><B>Possible Actions</B></p>]]></Option_heading>
+		
+	</question>	
+
+</Interactivity>

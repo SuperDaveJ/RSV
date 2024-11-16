@@ -1,0 +1,24 @@
+<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part III: Interpreting the Findings</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct option, and click the <B>Submit</B> button.]]></instructiontext>
+
+		<questiontext><![CDATA[Based on SrA Mukoda's findings, what type of compound do you think is most likely present?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[Alkane]]></option>
+			<option><![CDATA[Alcohol]]></option>		
+			<option><![CDATA[Inorganic]]></option>
+			<option><![CDATA[Aromatic Hydrocarbons]]></option>
+			
+			
+		</options>
+
+		<correct_option><![CDATA[3]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+

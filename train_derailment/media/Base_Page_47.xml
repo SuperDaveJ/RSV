@@ -1,0 +1,25 @@
+﻿<Quiz>
+	<question><![CDATA[1]]>
+
+		<PageTitle><![CDATA[<B>Part IV: Making Recommendations</B>]]></PageTitle>
+	
+ <instructiontext><![CDATA[Select the correct answer, then click Done. For assistance, click the Lifeline.]]></instructiontext>
+
+<text0><![CDATA[The EOC Commander has asked for recommendations about implementation of the mass prophylaxis plan.  
+After consulting with the PHEO and CMO, a joint recommendation is delivered that any personnel who may have been exposed should receive prophylaxis.]]></text0>
+
+		<questiontext><![CDATA[What time period would you use as criteria for determining which personnel may have been exposed?]]></questiontext>
+
+ 		<options>
+			<option><![CDATA[The past 24 hours]]></option>
+			<option><![CDATA[The past 48 hours]]></option>		
+			<option><![CDATA[The past 10 days]]></option>
+			<option><![CDATA[The past 14 days]]></option>
+		</options>
+
+		<correct_option><![CDATA[4]]></correct_option>		
+
+	</question>
+	
+</Quiz>
+
